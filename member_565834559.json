@@ -1,0 +1,969 @@
+{
+  "id": 565834559,
+  "name": "Dennis Baldwin",
+  "first_name": "Dennis",
+  "last_name": "Baldwin",
+  "title": "Registered Dental Hygienist at Maple Family Dentistry",
+  "user_generated_headline": "Registered Dental Hygienist at Maple Family Dentistry",
+  "url": "https://www.linkedin.com/in/dennis-baldwin-b9983317b",
+  "hash": "c2c65eaad174a00ddcc6ec3d36406cc9",
+  "canonical_url": "https://www.linkedin.com/in/dennis-baldwin-b9983317b",
+  "canonical_hash": "c2c65eaad174a00ddcc6ec3d36406cc9",
+  "member_shorthand_name": "dennis-baldwin-b9983317b",
+  "member_shorthand_name_hash": "ad75b6ae6e7978df9e59f5aa967e33db",
+  "canonical_shorthand_name": "dennis-baldwin-b9983317b",
+  "canonical_shorthand_name_hash": "ad75b6ae6e7978df9e59f5aa967e33db",
+  "created": "2022-08-30 12:37:45",
+  "last_updated": "2025-07-05 04:11:01",
+  "last_updated_ux": 1751688661,
+  "deleted": 0,
+  "last_response_code": 200,
+  "logo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+  "summary": null,
+  "location": "Kokomo, Indiana, United States",
+  "country": "United States",
+  "connections": "5 connections",
+  "connections_count": 5,
+  "recommendations_count": 0,
+  "industry": null,
+  "outdated": 0,
+  "experience_count": 1,
+  "member_hidden_status_collection": [
+    {
+      "id": 428480210,
+      "member_id": 565834559,
+      "is_hidden": 0,
+      "created": "2024-08-09 16:48:04",
+      "last_updated": "2025-07-05 04:11:01",
+      "deleted": 0
+    }
+  ],
+  "member_experience_collection": [
+    {
+      "id": 85908493787,
+      "member_id": 565834559,
+      "title": "Registered Dental Hygienist",
+      "location": null,
+      "company_name": "Maple Family Dentistry",
+      "company_url": "https://www.linkedin.com/company/maple-family-dentistry",
+      "date_from": null,
+      "date_to": null,
+      "duration": null,
+      "description": null,
+      "created": "2025-07-05 04:11:00",
+      "last_updated": "2025-07-05 04:11:00",
+      "deleted": 0,
+      "order_in_profile": 1,
+      "company_id": 5058959
+    }
+  ],
+  "member_education_collection": [],
+  "member_awards_collection": [],
+  "member_certifications_collection": [],
+  "member_courses_collection": [],
+  "member_courses_suggestion_collection": [],
+  "member_groups_collection": [],
+  "member_interests_collection": [],
+  "member_languages_collection": [],
+  "member_organizations_collection": [],
+  "member_patents_collection": [],
+  "member_posts_see_more_urls_collection": [],
+  "member_projects_collection": [],
+  "member_publications_collection": [],
+  "member_recommendations_collection": [],
+  "member_similar_profiles_collection": [
+    {
+      "id": 3552208908,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-a5567216",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 3552208907,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-3411093",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 3552208906,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-9546356",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 3260637791,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-740294b",
+      "created": "2023-12-10 22:40:21",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 3260637790,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-5bb79a22",
+      "created": "2023-12-10 22:40:21",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 2790731497,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-61288075",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 2790731496,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennisbaldwin",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 2790731495,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennismbaldwin",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 1977207379,
+      "member_id": 565834559,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-78b93b22",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    },
+    {
+      "id": 1977207377,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-a5567216",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-12-10 22:40:21",
+      "deleted": 1
+    },
+    {
+      "id": 1977207375,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-88613b25",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-12-10 22:40:21",
+      "deleted": 1
+    },
+    {
+      "id": 1977207374,
+      "member_id": 565834559,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-2364a819",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    },
+    {
+      "id": 1977207373,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-8a4b916",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    }
+  ],
+  "member_skills_collection": [],
+  "member_test_scores_collection": [],
+  "member_volunteering_cares_collection": [],
+  "member_volunteering_opportunities_collection": [],
+  "member_volunteering_positions_collection": [],
+  "member_volunteering_supports_collection": [],
+  "member_websites_collection": [],
+  "member_also_viewed_collection": [
+    {
+      "id": 45829141112,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tammy-foley-a4325b51",
+      "title": "Registered Dental Hygienist at Adairsville Family Dentistry",
+      "location": "Calhoun, GA",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141111,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/victoria-brock-a03714120",
+      "title": "Registered Dental Hygienist at Avery Ranch Dental at Riata",
+      "location": "United States",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141110,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/joy-stone-7b7042134",
+      "title": "Registered Dental Hygienist",
+      "location": "Cartersville, GA",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141109,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/taylor-alberson-6845ba70",
+      "title": "Registered Dental Hygienist at Lighthouse Family Dentistry",
+      "location": "Memphis Metropolitan Area",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141108,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/leslie-mcdonald-501497120",
+      "title": "--",
+      "location": "Simpson, KY",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141107,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/sheenahinsonrdh",
+      "title": "Fractional Chief Growth Officer | Advisor | Board Member  | D.e.W.\n\u2022 Fmr Global Marketing leader at Philips OHC \n\u2022 B2B Intermediary \u2022 Due Diligence Advisor\n\u2022 Southern Belle with a Vision for Industry Advancement",
+      "location": "Charlotte Metro",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141106,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/bmjnorwood",
+      "title": "Registered Dental Hygienist",
+      "location": "Fairhope, AL",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141105,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tracymonce",
+      "title": "Cell Component Quality Control Lab Inspector at StarPlus Energy",
+      "location": "Wabash, IN",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141104,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/robyn-garrell-95037153",
+      "title": "Registered Dental Hygienist at Manning Family Dentistry",
+      "location": "Harrisburg, NC",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141103,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/jaci-badics-82a39a126",
+      "title": "Registered Dental Hygienist at Zent Family Dentistry",
+      "location": "Granger, IN",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141102,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/taylor-kerkman-57162910b",
+      "title": "Registered Dental Hygienist, Certified Myofunctional Therapist",
+      "location": "Omaha Metropolitan Area",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141101,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/pam-howell-7452a0157",
+      "title": "Registered Dental Hygienist at Mahoney Family Dentistry",
+      "location": "Edwardsburg, MI",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141100,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tawny-coffman-10a51b117",
+      "title": "Registered Dental Hygienist at Family Dentistry By Design",
+      "location": "Kingman, AZ",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141099,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/melissa-boone-1a96a15b",
+      "title": "Registered Dental Hygienist",
+      "location": "Belmont, NC",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141098,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/melinda-kennedy-2628b9167",
+      "title": "Registered Dental Hygienist at Tatum Creek Family Dentistry",
+      "location": "Phoenix, AZ",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141097,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tricia-verhaalen-516187110",
+      "title": "Registered Dental Hygienist at Complete Family Dentistry",
+      "location": "Menomonee Falls, WI",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141096,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/jennifer-minkema-291531118",
+      "title": "Registered Dental Hygienist at LOUIS DEVITO, JR. DMD",
+      "location": "Salem, MA",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141095,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/gwen-mack-748a7283",
+      "title": "TLDS IS A NONPROFIT FOR SENIORS",
+      "location": "Stockbridge, GA",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141094,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/chelsi-sampley-612482144",
+      "title": "Registered Dental Hygienist at Counihan Family Dentistry",
+      "location": "Yuba City, CA",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 45829141093,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/katy-basks-5974b6143",
+      "title": null,
+      "location": "Owasso, OK",
+      "created": "2025-02-19 01:50:14",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 0
+    },
+    {
+      "id": 44529451061,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at Mahoney Family Dentistry",
+      "location": "Edwardsburg, MI",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451060,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at Zent Family Dentistry",
+      "location": "Granger, IN",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451059,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at Family Dentistry By Design",
+      "location": "Kingman, AZ",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451058,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist",
+      "location": "Belmont, NC",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451057,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at Tatum Creek Family Dentistry",
+      "location": "Phoenix, AZ",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451056,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at Complete Family Dentistry",
+      "location": "Menomonee Falls, WI",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451055,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at LOUIS DEVITO, JR. DMD",
+      "location": "Salem, MA",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451054,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "TLDS IS A NONPROFIT FOR SENIORS",
+      "location": "Stockbridge, GA",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451053,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": "Registered Dental Hygienist at Counihan Family Dentistry",
+      "location": "Yuba City, CA",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 44529451052,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/login",
+      "title": null,
+      "location": "Owasso, OK",
+      "created": "2024-12-03 13:05:28",
+      "last_updated": "2025-02-19 01:50:14",
+      "deleted": 1
+    },
+    {
+      "id": 42174305050,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/taylor-kerkman-57162910b",
+      "title": "Registered Dental Hygienist, Certified Myofunctional Therapist",
+      "location": "Omaha Metropolitan Area",
+      "created": "2024-08-09 16:48:04",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 39170326189,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-a5567216",
+      "title": "Division Manager at Summit Contracting Group, Inc.",
+      "location": "Alpharetta, GA",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-08-09 16:48:04",
+      "deleted": 1
+    },
+    {
+      "id": 39170326188,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-3411093",
+      "title": null,
+      "location": "Reading, PA",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-08-09 16:48:04",
+      "deleted": 1
+    },
+    {
+      "id": 39170326187,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-9546356",
+      "title": "Consulting Cloud Engineer at HCA",
+      "location": "Muskegon, MI",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-08-09 16:48:04",
+      "deleted": 1
+    },
+    {
+      "id": 39170326186,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/leslie-mcdonald-501497120",
+      "title": "--",
+      "location": "Simpson, KY",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 39170326185,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/bmjnorwood",
+      "title": "Registered Dental Hygienist",
+      "location": "Fairhope, AL",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 39170326184,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/katy-basks-5974b6143",
+      "title": null,
+      "location": "Owasso, OK",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 39170326183,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/thien-quach-16128341",
+      "title": "Salesforce Consultant at Fiduciary Tech",
+      "location": "Edmonds, WA",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 39170326182,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/charles-quach",
+      "title": null,
+      "location": "Seattle, WA",
+      "created": "2024-04-11 20:30:20",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 36133970632,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-740294b",
+      "title": "President at Purus International Inc.",
+      "location": "Indio, CA",
+      "created": "2023-12-10 22:40:21",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 36133970631,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-5bb79a22",
+      "title": "Chief Financial Officer at WASH",
+      "location": "Houston, TX",
+      "created": "2023-12-10 22:40:21",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 36133970630,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennismbaldwin",
+      "title": null,
+      "location": "Boston, MA",
+      "created": "2023-12-10 22:40:21",
+      "last_updated": "2024-08-09 16:48:04",
+      "deleted": 1
+    },
+    {
+      "id": 36133970629,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/sheenahinsonrdh",
+      "title": null,
+      "location": "Charlotte Metro",
+      "created": "2023-12-10 22:40:21",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 33217106803,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-61288075",
+      "title": "CEO",
+      "location": "Novato, CA",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 33217106802,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennisbaldwin",
+      "title": null,
+      "location": "Dripping Springs, TX",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2024-08-09 16:48:04",
+      "deleted": 1
+    },
+    {
+      "id": 33217106801,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennismbaldwin",
+      "title": "Investor and Brand Builder",
+      "location": "Boston, MA",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2023-12-10 22:40:21",
+      "deleted": 1
+    },
+    {
+      "id": 33217106800,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/taylor-kerkman-57162910b",
+      "title": "Registered Dental Hygienist, Myofunctional Therapist at Millard Family Dentistry",
+      "location": "Omaha Metropolitan Area",
+      "created": "2023-08-08 22:46:59",
+      "last_updated": "2024-08-09 16:48:04",
+      "deleted": 1
+    },
+    {
+      "id": 30184220730,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/leslie-mcdonald-501497120",
+      "title": "--",
+      "location": "Simpson, KY",
+      "created": "2023-04-21 01:19:18",
+      "last_updated": "2023-12-10 22:40:21",
+      "deleted": 1
+    },
+    {
+      "id": 30184220729,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/ntrinh09",
+      "title": "Member Consultant III at BECU",
+      "location": "Greater Seattle Area",
+      "created": "2023-04-21 01:19:18",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 29063229357,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/sheenahinsonrdh",
+      "title": "Ethical Profitability & Business Development Consultant \u2022 Problem Solver \u2022 Strategic Thinker \u2022 Team Alignment Coach \u2022 Language Framework Expert \u2022 Leadership Advisor \u2022 Co-Broker \u2022 Connector of People \u2022 Southern Belle",
+      "location": "Charlotte Metro",
+      "created": "2023-03-05 03:00:37",
+      "last_updated": "2023-04-21 01:19:18",
+      "deleted": 1
+    },
+    {
+      "id": 29063229356,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tracymonce",
+      "title": "Registered Dental Hygienist at Dr. Lisa Strieter",
+      "location": "Wabash, IN",
+      "created": "2023-03-05 03:00:37",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 29063229355,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/katy-basks-5974b6143",
+      "title": "Registered Dental Hygienist at Kincaid Family Dentistry",
+      "location": "Owasso, OK",
+      "created": "2023-03-05 03:00:37",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 29063229354,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/cindy-hallam-a3a1a278",
+      "title": "RDH",
+      "location": "Logansport, IN",
+      "created": "2023-03-05 03:00:37",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502882,
+      "member_id": 565834559,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-78b93b22",
+      "title": "Adjudicator Arbitrator Mediator at Soma Contract Services",
+      "location": "Greater Cardiff Area",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    },
+    {
+      "id": 25940502879,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-a5567216",
+      "title": "Division Manager at Summit Contracting Group, Inc.",
+      "location": "Alpharetta, GA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-12-10 22:40:21",
+      "deleted": 1
+    },
+    {
+      "id": 25940502877,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-88613b25",
+      "title": "Experience sales leader",
+      "location": "Des Moines Metropolitan Area",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-12-10 22:40:21",
+      "deleted": 1
+    },
+    {
+      "id": 25940502875,
+      "member_id": 565834559,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-2364a819",
+      "title": "WBS Fire & Security Ltd",
+      "location": "London",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    },
+    {
+      "id": 25940502873,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-8a4b916",
+      "title": "Owner, Dennis Baldwin Interiors",
+      "location": "San Jose, CA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    },
+    {
+      "id": 25940502872,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/brittany-norwood-ba7aa0a2",
+      "title": "Registered Dental Hygienist",
+      "location": "Huntsville, AL",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 25940502870,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tracymonce",
+      "title": "Registered Dental Hygienist at Bruner Dental Center",
+      "location": "Wabash, IN",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-03-05 03:00:36",
+      "deleted": 1
+    },
+    {
+      "id": 25940502868,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/robyn-garrell-95037153",
+      "title": "Registered Dental Hygienist at Manning Family Dentistry",
+      "location": "Harrisburg, NC",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502865,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/pam-howell-7452a0157",
+      "title": "Registered Dental Hygienist at Mahoney Family Dentistry",
+      "location": "Edwardsburg, MI",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502862,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/jaci-badics-82a39a126",
+      "title": "Registered Dental Hygienist at Zent Family Dentistry",
+      "location": "Granger, IN",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502860,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/taylor-kerkman-57162910b",
+      "title": "Registered Dental Hygienist at Millard Family Dentistry",
+      "location": "Omaha Metropolitan Area",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-08-08 22:46:59",
+      "deleted": 1
+    },
+    {
+      "id": 25940502858,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tawny-coffman-10a51b117",
+      "title": "Registered Dental Hygienist at Family Dentistry By Design",
+      "location": "Kingman, AZ",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502856,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/melissa-boone-1a96a15b",
+      "title": "Registered Dental Hygienist",
+      "location": "Belmont, NC",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502855,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/melinda-kennedy-2628b9167",
+      "title": "Registered Dental Hygienist at Tatum Creek Family Dentistry",
+      "location": "Phoenix, AZ",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502853,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/tricia-verhaalen-516187110",
+      "title": "Registered Dental Hygienist at Complete Family Dentistry",
+      "location": "Menomonee Falls, WI",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502851,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/jennifer-minkema-291531118",
+      "title": "Registered Dental Hygienist at LOUIS DEVITO, JR. DMD",
+      "location": "Salem, MA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502849,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/gwen-mack-748a7283",
+      "title": "TLDS IS A NONPROFIT FOR SENIORS",
+      "location": "Stockbridge, GA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502846,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/chelsi-sampley-612482144",
+      "title": "Registered Dental Hygienist at Counihan Family Dentistry",
+      "location": "Yuba City, CA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    },
+    {
+      "id": 25940502843,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/katy-cavins-5974b6143",
+      "title": "Registered Dental Hygienist at Kincaid Family Dentistry",
+      "location": "Owasso, OK",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-03-05 03:00:36",
+      "deleted": 1
+    },
+    {
+      "id": 25940502839,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/vanidalong",
+      "title": "Product Designer II at regie.ai",
+      "location": "Seattle, WA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-03-05 03:00:36",
+      "deleted": 1
+    },
+    {
+      "id": 25940502834,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/thien-quach-16128341",
+      "title": "Salesforce Consultant at Fiduciary Tech",
+      "location": "Seattle, WA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 25940502831,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/charles-quach",
+      "title": "IT Product Specialist II @ SkyKick",
+      "location": "Seattle, WA",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-04-11 20:30:20",
+      "deleted": 1
+    },
+    {
+      "id": 25940502826,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/trinh-nguyen-474234190",
+      "title": "Member Consultant III at BECU",
+      "location": "Greater Seattle Area",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-04-21 01:19:18",
+      "deleted": 1
+    },
+    {
+      "id": 25940502822,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/cindy-hallam-a3a1a278",
+      "title": "RDH at Maple Family Dentistry",
+      "location": "Logansport, IN",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2023-03-05 03:00:36",
+      "deleted": 1
+    },
+    {
+      "id": 25940502820,
+      "member_id": 565834559,
+      "url": "https://www.linkedin.com/in/allison-leffert-943b441a8",
+      "title": "Dental Assistant at Maple Family Dentistry",
+      "location": "Logansport, IN",
+      "created": "2022-08-30 12:37:45",
+      "last_updated": "2024-12-03 13:05:28",
+      "deleted": 1
+    }
+  ]
+}

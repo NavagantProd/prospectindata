@@ -1,0 +1,130 @@
+{
+  "overall_metrics": {
+    "target_rate": 0.287,
+    "total_records": 1000,
+    "data_quality": 100.0
+  },
+  "company_size_analysis": {
+    "1001-5000": {
+      "mean": 0.439,
+      "count": 57,
+      "std": 0.501
+    },
+    "5001-10000": {
+      "mean": 0.348,
+      "count": 23,
+      "std": 0.487
+    },
+    "501-1000": {
+      "mean": 0.333,
+      "count": 51,
+      "std": 0.476
+    },
+    "51-200": {
+      "mean": 0.312,
+      "count": 202,
+      "std": 0.464
+    },
+    "201-500": {
+      "mean": 0.279,
+      "count": 86,
+      "std": 0.451
+    },
+    "11-50": {
+      "mean": 0.267,
+      "count": 251,
+      "std": 0.443
+    },
+    "1-10": {
+      "mean": 0.252,
+      "count": 317,
+      "std": 0.435
+    },
+    "10000+": {
+      "mean": 0.231,
+      "count": 13,
+      "std": 0.439
+    }
+  },
+  "industry_analysis": {
+    "Technology": {
+      "mean": 0.367,
+      "count": 281
+    },
+    "Finance": {
+      "mean": 0.317,
+      "count": 120
+    },
+    "Real Estate": {
+      "mean": 0.279,
+      "count": 43
+    },
+    "Professional Services": {
+      "mean": 0.267,
+      "count": 86
+    },
+    "Manufacturing": {
+      "mean": 0.255,
+      "count": 94
+    },
+    "Healthcare": {
+      "mean": 0.248,
+      "count": 145
+    },
+    "Other": {
+      "mean": 0.247,
+      "count": 77
+    },
+    "Retail": {
+      "mean": 0.218,
+      "count": 87
+    },
+    "Education": {
+      "mean": 0.194,
+      "count": 67
+    }
+  },
+  "geographic_analysis": {
+    "Australia": {
+      "mean": 0.382,
+      "count": 68
+    },
+    "Canada": {
+      "mean": 0.312,
+      "count": 144
+    },
+    "United Kingdom": {
+      "mean": 0.303,
+      "count": 122
+    },
+    "United States": {
+      "mean": 0.276,
+      "count": 504
+    },
+    "Germany": {
+      "mean": 0.27,
+      "count": 89
+    },
+    "France": {
+      "mean": 0.219,
+      "count": 73
+    }
+  },
+  "top_predictors": {
+    "email_domain_score": 0.08730519627942629,
+    "employee_count_x_company_size": 0.07244822186738499,
+    "company_revenue_x_company_size": 0.07034581961184591,
+    "employee_count_squared": 0.06718798732424366,
+    "employee_count": 0.06581834293780112,
+    "employee_count_log": 0.06529044862071454,
+    "company_revenue_log": 0.06261082732363195,
+    "company_revenue": 0.062314604040910916,
+    "company_revenue_squared": 0.06206569129108655,
+    "years_experience_x_company_size": 0.05525781923838492
+  },
+  "recommendations": [
+    "Focus on 1001-5000 companies (highest conversion: 43.9%)",
+    "Prioritize these industries: Technology, Finance, Real Estate",
+    "Key factors to optimize: email_domain_score, employee_count_x_company_size, company_revenue_x_company_size"
+  ]
+}

@@ -1,0 +1,3903 @@
+{
+  "id": 405574641,
+  "name": "Beth Baker",
+  "first_name": "Beth",
+  "last_name": "Baker",
+  "title": null,
+  "user_generated_headline": "Co-Founder and Co-CEO at Centric Learning System",
+  "url": "https://www.linkedin.com/in/beth-baker-71743231",
+  "hash": "332ee3866ce8f913c9b0a51c18a80275",
+  "canonical_url": "https://www.linkedin.com/in/beth-baker-71743231",
+  "canonical_hash": "332ee3866ce8f913c9b0a51c18a80275",
+  "member_shorthand_name": "beth-baker-71743231",
+  "member_shorthand_name_hash": "e5b30786c80af615b7bdf5ddb2c67560",
+  "canonical_shorthand_name": "beth-baker-71743231",
+  "canonical_shorthand_name_hash": "e5b30786c80af615b7bdf5ddb2c67560",
+  "created": "2018-11-16 12:53:37",
+  "last_updated": "2025-05-24 04:12:10",
+  "last_updated_ux": 1748059930,
+  "deleted": 0,
+  "last_response_code": 200,
+  "logo_url": "https://media.licdn.com/dms/image/v2/C5603AQFMhc4AiSgfrw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516474966122?e=2147483647&v=beta&t=XpKJK9I4u6qZ12lMjJVryj9BcG5DDa_xkytfKjcdiX8",
+  "summary": null,
+  "location": "Belleville, Michigan, United States",
+  "country": "United States",
+  "connections": "425 connections",
+  "connections_count": 425,
+  "recommendations_count": 0,
+  "industry": "E-learning",
+  "outdated": 0,
+  "experience_count": 4,
+  "member_hidden_status_collection": [
+    {
+      "id": 2526630,
+      "member_id": 405574641,
+      "is_hidden": 1,
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0
+    }
+  ],
+  "member_experience_collection": [
+    {
+      "id": 1082338037254,
+      "member_id": 405574641,
+      "title": "Co-Founder and Co-CEO",
+      "location": null,
+      "company_name": "Centric Learning System",
+      "company_url": null,
+      "date_from": "April 2010",
+      "date_to": null,
+      "duration": null,
+      "description": "Centric Learning Systems developed the HERO learning system; a collaborative, competency-aligned digital learning platform that provides a pathway to high school graduation, with a full middle and high school curriculum. Our customers are superintendents, and curriculum directors of traditional and virtual schools.",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2025-05-23 05:24:59",
+      "deleted": 0,
+      "order_in_profile": 1,
+      "company_id": null
+    },
+    {
+      "id": 1082338037256,
+      "member_id": 405574641,
+      "title": "Co-Founder Executive Director",
+      "location": null,
+      "company_name": "Way Program - Widening Advancements for Youth",
+      "company_url": "https://www.linkedin.com/company/way-program---widening-advancements-for-youth",
+      "date_from": "January 2009",
+      "date_to": null,
+      "duration": null,
+      "description": null,
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 0,
+      "order_in_profile": 2,
+      "company_id": 5833962
+    },
+    {
+      "id": 1082338037257,
+      "member_id": 405574641,
+      "title": "cohort 2016",
+      "location": null,
+      "company_name": "Village Capital",
+      "company_url": "https://www.linkedin.com/company/village-capital",
+      "date_from": "May 2016",
+      "date_to": "September 2016",
+      "duration": "5 months",
+      "description": null,
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 0,
+      "order_in_profile": 3,
+      "company_id": 641240
+    },
+    {
+      "id": 1082338037255,
+      "member_id": 405574641,
+      "title": "School Improvement/Curriculum Resource Consultant",
+      "location": null,
+      "company_name": "Wayne RESA",
+      "company_url": null,
+      "date_from": "2004",
+      "date_to": "2009",
+      "duration": "5 years",
+      "description": null,
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 0,
+      "order_in_profile": 4,
+      "company_id": null
+    }
+  ],
+  "member_education_collection": [
+    {
+      "id": 2323615784,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 0,
+      "school_url": "https://www.linkedin.com/school/wayne-state-university"
+    },
+    {
+      "id": 2323615783,
+      "member_id": 405574641,
+      "title": "Central Michigan University",
+      "subtitle": "Master of Science (MS), Alternative Ed in Non-traditional Settings",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 0,
+      "school_url": "https://www.linkedin.com/school/central-michigan-university"
+    },
+    {
+      "id": 2323615782,
+      "member_id": 405574641,
+      "title": "University of Detroit Mercy",
+      "subtitle": "Bachelor of Applied Science (BASc), General Science and Respiratory Therapy",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 0,
+      "school_url": "https://www.linkedin.com/school/university-of-detroit-mercy"
+    },
+    {
+      "id": 1379879815,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1,
+      "school_url": "https://lb.linkedin.com/school/wayne-state-university/"
+    },
+    {
+      "id": 1379879814,
+      "member_id": 405574641,
+      "title": "Central Michigan University",
+      "subtitle": "Master of Science (MS), Alternative Ed in Non-traditional Settings",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1,
+      "school_url": "https://lb.linkedin.com/school/central-michigan-university/"
+    },
+    {
+      "id": 1379879813,
+      "member_id": 405574641,
+      "title": "University of Detroit Mercy",
+      "subtitle": "Bachelor of Applied Science (BASc), General Science and Respiratory Therapy",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1,
+      "school_url": "https://lb.linkedin.com/school/university-of-detroit-mercy/"
+    },
+    {
+      "id": 1076658737,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1,
+      "school_url": "https://www.linkedin.com/school/wayne-state-university/"
+    },
+    {
+      "id": 971407119,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": null,
+      "date_to": "2008",
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1,
+      "school_url": "https://www.linkedin.com/school/wayne-state-university/"
+    },
+    {
+      "id": 844893688,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": "2008",
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-08-22 06:31:35",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1,
+      "school_url": "https://www.linkedin.com/school/wayne-state-university/"
+    },
+    {
+      "id": 844893687,
+      "member_id": 405574641,
+      "title": "Central Michigan University",
+      "subtitle": "Master of Science (MS), Alternative Ed in Non-traditional Settings",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-08-22 06:31:35",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1,
+      "school_url": "https://www.linkedin.com/school/central-michigan-university/"
+    },
+    {
+      "id": 844893686,
+      "member_id": 405574641,
+      "title": "University of Detroit Mercy",
+      "subtitle": "Bachelor of Applied Science (BASc), General Science and Respiratory Therapy",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-08-22 06:31:35",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1,
+      "school_url": "https://www.linkedin.com/school/university-of-detroit-mercy/"
+    },
+    {
+      "id": 600917931,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": "2008",
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-02-14 17:20:38",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1,
+      "school_url": "https://ph.linkedin.com/edu/wayne-state-university-18640"
+    },
+    {
+      "id": 600917930,
+      "member_id": 405574641,
+      "title": "Central Michigan University",
+      "subtitle": "Master of Science (MS), Alternative Ed in Non-traditional Settings",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-02-14 17:20:38",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1,
+      "school_url": "https://ph.linkedin.com/edu/central-michigan-university-18598"
+    },
+    {
+      "id": 600917929,
+      "member_id": 405574641,
+      "title": "University of Detroit Mercy",
+      "subtitle": "Bachelor of Applied Science (BASc), General Science and Respiratory Therapy",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2019-02-14 17:20:38",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1,
+      "school_url": "https://ph.linkedin.com/edu/university-of-detroit-mercy-18631"
+    },
+    {
+      "id": 523068075,
+      "member_id": 405574641,
+      "title": "Wayne State University",
+      "subtitle": "Ed.S, Organizational Leadership",
+      "date_from": "2008",
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-02-14 17:20:38",
+      "deleted": 1,
+      "school_url": "https://uk.linkedin.com/edu/wayne-state-university-18640"
+    },
+    {
+      "id": 523068073,
+      "member_id": 405574641,
+      "title": "Central Michigan University",
+      "subtitle": "Master of Science (MS), Alternative Ed in Non-traditional Settings",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-02-14 17:20:38",
+      "deleted": 1,
+      "school_url": "https://uk.linkedin.com/edu/central-michigan-university-18598"
+    },
+    {
+      "id": 523068072,
+      "member_id": 405574641,
+      "title": "University of Detroit Mercy",
+      "subtitle": "Bachelor of Applied Science (BASc), General Science and Respiratory Therapy",
+      "date_from": null,
+      "date_to": null,
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-02-14 17:20:38",
+      "deleted": 1,
+      "school_url": "https://uk.linkedin.com/edu/university-of-detroit-mercy-18631"
+    }
+  ],
+  "member_awards_collection": [],
+  "member_certifications_collection": [
+    {
+      "id": 1069451214,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0
+    },
+    {
+      "id": 1069451213,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0
+    },
+    {
+      "id": 793500543,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 793500542,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 310245849,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://lb.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 310245848,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://lb.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 178794609,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 178794608,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 144473181,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit, ",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit?trk=public_profile_certification_authority_name",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2019-08-22 06:31:35",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1
+    },
+    {
+      "id": 144473180,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "ASU GSV Summit, ",
+      "url": "https://www.linkedin.com/company/asu-gsv-summit?trk=public_profile_certification_authority_name",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2019-08-22 06:31:35",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1
+    },
+    {
+      "id": 87369474,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "License 10177135",
+      "url": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecredential%2Enet%2F10177135&urlhash=46rf&trk=profile_certification_title",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1
+    },
+    {
+      "id": 87369473,
+      "member_id": 405574641,
+      "name": "ASU GSV Summit 2016",
+      "authority": "License 10177135",
+      "url": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecredential%2Enet%2F10177135&urlhash=46rf&trk=profile_certification_title",
+      "date_from": "April 2016",
+      "date_to": null,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1
+    }
+  ],
+  "member_courses_collection": [],
+  "member_courses_suggestion_collection": [
+    {
+      "id": 4189716255,
+      "member_id": 405574641,
+      "course_suggestion_id": 31413,
+      "created": "2025-05-24 04:12:10",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0,
+      "member_courses_suggestion_list": {
+        "id": 31413,
+        "name": "Accessible Elearning in Articulate 360",
+        "hash": "b58f2a9a69d7e361343a9bdefc84cede",
+        "url": "https://www.linkedin.com/learning/accessible-elearning-in-articulate-360",
+        "created": "2025-02-14 12:50:58",
+        "last_updated": "2025-02-14 12:50:58"
+      }
+    },
+    {
+      "id": 4189716254,
+      "member_id": 405574641,
+      "course_suggestion_id": 34784,
+      "created": "2025-05-24 04:12:10",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0,
+      "member_courses_suggestion_list": {
+        "id": 34784,
+        "name": "AI Workshop: Building AI Applications with Hugging Face Models",
+        "hash": "fc3a3085ccae62433f89caac9110fd7d",
+        "url": "https://www.linkedin.com/learning/ai-workshop-building-ai-applications-with-hugging-face-models",
+        "created": "2025-04-07 08:20:00",
+        "last_updated": "2025-04-07 08:20:00"
+      }
+    },
+    {
+      "id": 3955255443,
+      "member_id": 405574641,
+      "course_suggestion_id": 24889,
+      "created": "2025-05-01 07:26:33",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0,
+      "member_courses_suggestion_list": {
+        "id": 24889,
+        "name": "Foundations of Accessible Elearning",
+        "hash": "97a8c0e4a7ccefde2736699d73c345a4",
+        "url": "https://www.linkedin.com/learning/foundations-of-accessible-elearning",
+        "created": "2024-01-03 19:08:45",
+        "last_updated": "2024-01-03 19:08:45"
+      }
+    },
+    {
+      "id": 3955255442,
+      "member_id": 405574641,
+      "course_suggestion_id": 27401,
+      "created": "2025-05-01 07:26:33",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 27401,
+        "name": "Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice",
+        "hash": "16ff13102f1315acce0d2ad5b6ab1c53",
+        "url": "https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice",
+        "created": "2024-02-08 12:44:26",
+        "last_updated": "2024-02-08 12:44:26"
+      }
+    },
+    {
+      "id": 3955255441,
+      "member_id": 405574641,
+      "course_suggestion_id": 30720,
+      "created": "2025-05-01 07:26:33",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 30720,
+        "name": "Monetizing Content Creation",
+        "hash": "da00cf254f46a54c9f1b048bcf5625fd",
+        "url": "https://www.linkedin.com/learning/monetizing-content-creation",
+        "created": "2024-10-02 18:47:46",
+        "last_updated": "2024-10-02 18:47:46"
+      }
+    },
+    {
+      "id": 3757506207,
+      "member_id": 405574641,
+      "course_suggestion_id": 18428,
+      "created": "2025-04-13 06:43:20",
+      "last_updated": "2025-05-01 07:26:33",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 18428,
+        "name": "Elearning Essentials: SCORM and Tin Can API",
+        "hash": "fbda7bda4676d2b373f0c9b196534506",
+        "url": "https://www.linkedin.com/learning/elearning-essentials-scorm-and-tin-can-api",
+        "created": "2024-01-03 13:07:08",
+        "last_updated": "2024-01-03 13:07:08"
+      }
+    },
+    {
+      "id": 3757506206,
+      "member_id": 405574641,
+      "course_suggestion_id": 2429,
+      "created": "2025-04-13 06:43:20",
+      "last_updated": "2025-05-01 07:26:33",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 2429,
+        "name": "Learning to Teach Online",
+        "hash": "9bd8ef51db3397804801cb315b313410",
+        "url": "https://www.linkedin.com/learning/learning-to-teach-online",
+        "created": "2019-11-04 12:27:00",
+        "last_updated": "2019-11-04 12:27:00"
+      }
+    },
+    {
+      "id": 3757506205,
+      "member_id": 405574641,
+      "course_suggestion_id": 31104,
+      "created": "2025-04-13 06:43:20",
+      "last_updated": "2025-05-01 07:26:33",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 31104,
+        "name": "Transform Classroom Training to E-Learning with Articulate 360",
+        "hash": "a55680f0836a95a32ce77051ceca30af",
+        "url": "https://www.linkedin.com/learning/transform-classroom-training-to-e-learning-with-articulate-360",
+        "created": "2025-02-14 12:50:16",
+        "last_updated": "2025-02-14 12:50:16"
+      }
+    },
+    {
+      "id": 3138754818,
+      "member_id": 405574641,
+      "course_suggestion_id": 14134,
+      "created": "2025-02-07 23:37:15",
+      "last_updated": "2025-04-13 06:43:20",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 14134,
+        "name": "Converting Face-to-Face Training into Digital Learning",
+        "hash": "00fedd1014470049b27fe7c7640cc897",
+        "url": "https://www.linkedin.com/learning/converting-face-to-face-training-into-digital-learning",
+        "created": "2020-06-11 10:25:30",
+        "last_updated": "2020-06-11 10:25:30"
+      }
+    },
+    {
+      "id": 3138754817,
+      "member_id": 405574641,
+      "course_suggestion_id": 629,
+      "created": "2025-02-07 23:37:15",
+      "last_updated": "2025-04-13 06:43:20",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 629,
+        "name": "The Digital Transformation of Learning",
+        "hash": "7271721e723b1aebf34ef5e0465be094",
+        "url": "https://www.linkedin.com/learning/the-digital-transformation-of-learning",
+        "created": "2019-11-04 12:24:51",
+        "last_updated": "2019-11-04 12:24:51"
+      }
+    },
+    {
+      "id": 2635185495,
+      "member_id": 405574641,
+      "course_suggestion_id": 2429,
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 2429,
+        "name": "Learning to Teach Online",
+        "hash": "9bd8ef51db3397804801cb315b313410",
+        "url": "https://www.linkedin.com/learning/learning-to-teach-online",
+        "created": "2019-11-04 12:27:00",
+        "last_updated": "2019-11-04 12:27:00"
+      }
+    },
+    {
+      "id": 2635185494,
+      "member_id": 405574641,
+      "course_suggestion_id": 18924,
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-04-13 06:43:20",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 18924,
+        "name": "Learning Moodle",
+        "hash": "a4a52e07ddc87e37a400a39dc1215d2a",
+        "url": "https://www.linkedin.com/learning/learning-moodle",
+        "created": "2024-01-03 14:36:13",
+        "last_updated": "2024-01-03 14:36:13"
+      }
+    },
+    {
+      "id": 2635185493,
+      "member_id": 405574641,
+      "course_suggestion_id": 13459,
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 13459,
+        "name": "Learning Canvas",
+        "hash": "a0bacdafe8873bf81f5a725d1664f092",
+        "url": "https://www.linkedin.com/learning/learning-canvas",
+        "created": "2020-03-16 13:16:22",
+        "last_updated": "2020-03-16 13:16:22"
+      }
+    },
+    {
+      "id": 2110819532,
+      "member_id": 405574641,
+      "course_suggestion_id": 14641,
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 14641,
+        "name": "Learning Moodle 3.9",
+        "hash": "ea363892415dfb39d7b09e8303d16c8f",
+        "url": "https://www.linkedin.com/learning/learning-moodle-3-9",
+        "created": "2020-08-12 10:30:18",
+        "last_updated": "2020-08-12 10:30:18"
+      }
+    },
+    {
+      "id": 2110819531,
+      "member_id": 405574641,
+      "course_suggestion_id": 14134,
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 14134,
+        "name": "Converting Face-to-Face Training into Digital Learning",
+        "hash": "00fedd1014470049b27fe7c7640cc897",
+        "url": "https://www.linkedin.com/learning/converting-face-to-face-training-into-digital-learning",
+        "created": "2020-06-11 10:25:30",
+        "last_updated": "2020-06-11 10:25:30"
+      }
+    },
+    {
+      "id": 1444104021,
+      "member_id": 405574641,
+      "course_suggestion_id": 19958,
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 19958,
+        "name": "Designing Learning Experiences in the Metaverse",
+        "hash": "7f4c6d3bd3b7214b299841dd61ed0465",
+        "url": "https://www.linkedin.com/learning/designing-learning-experiences-in-the-metaverse",
+        "created": "2024-01-03 14:41:17",
+        "last_updated": "2024-01-03 14:41:17"
+      }
+    },
+    {
+      "id": 1444104020,
+      "member_id": 405574641,
+      "course_suggestion_id": 9787,
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 9787,
+        "name": "Learning SCORM and Tin Can API",
+        "hash": "79e028e7709c56597d1c2c0696e5ab06",
+        "url": "https://www.linkedin.com/learning/learning-scorm-and-tin-can-api",
+        "created": "2019-11-04 13:47:47",
+        "last_updated": "2019-11-04 13:47:47"
+      }
+    },
+    {
+      "id": 1444104019,
+      "member_id": 405574641,
+      "course_suggestion_id": 6928,
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 6928,
+        "name": "Elearning Essentials: Instructional Design",
+        "hash": "aec555d5da8f9b55e758679266fdf9b6",
+        "url": "https://www.linkedin.com/learning/elearning-essentials-instructional-design",
+        "created": "2019-11-04 12:42:28",
+        "last_updated": "2019-11-04 12:42:28"
+      }
+    },
+    {
+      "id": 1344558536,
+      "member_id": 405574641,
+      "course_suggestion_id": 16377,
+      "created": "2021-06-13 10:59:32",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 16377,
+        "name": "Learning Moodle 3.10",
+        "hash": "8a6405961218ee61ca3f843284cc027d",
+        "url": "https://www.linkedin.com/learning/learning-moodle-3-10",
+        "created": "2021-02-04 12:24:49",
+        "last_updated": "2021-02-04 12:24:49"
+      }
+    },
+    {
+      "id": 1344558535,
+      "member_id": 405574641,
+      "course_suggestion_id": 4776,
+      "created": "2021-06-13 10:59:32",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 4776,
+        "name": "Gamification for Interactive Learning",
+        "hash": "a9501a0aae9f17eec47e10e2d0d86f26",
+        "url": "https://www.linkedin.com/learning/gamification-for-interactive-learning",
+        "created": "2019-11-04 12:29:38",
+        "last_updated": "2019-11-04 12:29:38"
+      }
+    },
+    {
+      "id": 1325839306,
+      "member_id": 405574641,
+      "course_suggestion_id": 10740,
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-06-13 10:59:32",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 10740,
+        "name": "Learning Litmos LMS",
+        "hash": "5b303740987fae322327346f4783f929",
+        "url": "https://www.linkedin.com/learning/learning-litmos-lms",
+        "created": "2019-11-04 17:14:04",
+        "last_updated": "2019-11-04 17:14:04"
+      }
+    },
+    {
+      "id": 1032545244,
+      "member_id": 405574641,
+      "course_suggestion_id": 7370,
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-13 10:59:32",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 7370,
+        "name": "Instructional Design: Needs Analysis",
+        "hash": "01895b9f7caa70f49539bcfcbcea67c3",
+        "url": "https://www.linkedin.com/learning/instructional-design-needs-analysis",
+        "created": "2019-11-04 12:50:07",
+        "last_updated": "2019-11-04 12:50:07"
+      }
+    },
+    {
+      "id": 1032545243,
+      "member_id": 405574641,
+      "course_suggestion_id": 9183,
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 9183,
+        "name": "Learning Moodle 3.5",
+        "hash": "ed72ddbd33453e53a5e4c81d89db3dcd",
+        "url": "https://www.linkedin.com/learning/learning-moodle-3-5",
+        "created": "2019-11-04 13:18:23",
+        "last_updated": "2019-11-04 13:18:23"
+      }
+    },
+    {
+      "id": 1032545242,
+      "member_id": 405574641,
+      "course_suggestion_id": 629,
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 629,
+        "name": "The Digital Transformation of Learning",
+        "hash": "7271721e723b1aebf34ef5e0465be094",
+        "url": "https://www.linkedin.com/learning/the-digital-transformation-of-learning",
+        "created": "2019-11-04 12:24:51",
+        "last_updated": "2019-11-04 12:24:51"
+      }
+    },
+    {
+      "id": 769285410,
+      "member_id": 405574641,
+      "course_suggestion_id": 4529,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 4529,
+        "name": "Learning with Your Mobile Device",
+        "hash": "8a808d6c7f0eb1c2d31a67e54bc41f6d",
+        "url": "https://www.linkedin.com/learning/learning-with-your-mobile-device",
+        "created": "2019-11-04 12:29:16",
+        "last_updated": "2019-11-04 12:29:16"
+      }
+    },
+    {
+      "id": 769285409,
+      "member_id": 405574641,
+      "course_suggestion_id": 4776,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 4776,
+        "name": "Gamification for Interactive Learning",
+        "hash": "a9501a0aae9f17eec47e10e2d0d86f26",
+        "url": "https://www.linkedin.com/learning/gamification-for-interactive-learning",
+        "created": "2019-11-04 12:29:38",
+        "last_updated": "2019-11-04 12:29:38"
+      }
+    },
+    {
+      "id": 769285408,
+      "member_id": 405574641,
+      "course_suggestion_id": 1844,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1844,
+        "name": "Learning Schoology",
+        "hash": "3a05d546a690c91d32dc9c0039cac5c3",
+        "url": "https://www.linkedin.com/learning/learning-schoology",
+        "created": "2019-11-04 12:26:04",
+        "last_updated": "2019-11-04 12:26:04"
+      }
+    },
+    {
+      "id": 510908337,
+      "member_id": 405574641,
+      "course_suggestion_id": 12698,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 12698,
+        "name": "Learning Moodle 3.8",
+        "hash": "5b6ee63520100f282f232ad8824706c9",
+        "url": "https://www.linkedin.com/learning/learning-moodle-3-8",
+        "created": "2019-12-22 09:29:45",
+        "last_updated": "2019-12-22 09:29:45"
+      }
+    },
+    {
+      "id": 510908336,
+      "member_id": 405574641,
+      "course_suggestion_id": 1601,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1601,
+        "name": "Teaching Online: Synchronous Classes",
+        "hash": "11566146b9da26a3c7da14a07d76aed6",
+        "url": "https://www.linkedin.com/learning/teaching-online-synchronous-classes",
+        "created": "2019-11-04 12:25:47",
+        "last_updated": "2019-11-04 12:25:47"
+      }
+    },
+    {
+      "id": 510908335,
+      "member_id": 405574641,
+      "course_suggestion_id": 12184,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 12184,
+        "name": "How to Design and Deliver Training Programs ",
+        "hash": "1d27bb5af0add5a57d22c0c4cb140d6b",
+        "url": "https://www.linkedin.com/learning/how-to-design-and-deliver-training-programs",
+        "created": "2019-11-13 19:45:00",
+        "last_updated": "2019-11-13 19:45:00"
+      }
+    },
+    {
+      "id": 303169231,
+      "member_id": 405574641,
+      "course_suggestion_id": 731,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 731,
+        "name": "Instructional Design Essentials: Models of ID",
+        "hash": "9f8c4fffb6f1c7a750975c70ba363eed",
+        "url": "https://www.linkedin.com/learning/instructional-design-essentials-models-of-id-2",
+        "created": "2019-11-04 12:24:57",
+        "last_updated": "2019-11-04 12:24:57"
+      }
+    },
+    {
+      "id": 303169230,
+      "member_id": 405574641,
+      "course_suggestion_id": 9787,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 9787,
+        "name": "Learning SCORM and Tin Can API",
+        "hash": "79e028e7709c56597d1c2c0696e5ab06",
+        "url": "https://www.linkedin.com/learning/learning-scorm-and-tin-can-api",
+        "created": "2019-11-04 13:47:47",
+        "last_updated": "2019-11-04 13:47:47"
+      }
+    },
+    {
+      "id": 303169229,
+      "member_id": 405574641,
+      "course_suggestion_id": 9858,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 9858,
+        "name": "Articulate Storyline 2: Advanced Techniques",
+        "hash": "f55a3e82afa8624ef9e61d1d1a4f0206",
+        "url": "https://www.linkedin.com/learning/articulate-storyline-2-advanced-techniques",
+        "created": "2019-11-04 13:52:46",
+        "last_updated": "2019-11-04 13:52:46"
+      }
+    },
+    {
+      "id": 112597511,
+      "member_id": 405574641,
+      "course_suggestion_id": 1319,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1319,
+        "name": "Teacher Tips",
+        "hash": "9d32793a92c1c1943bb6065c60f545b2",
+        "url": "https://www.linkedin.com/learning/teacher-tips",
+        "created": "2019-11-04 12:25:30",
+        "last_updated": "2019-11-04 12:25:30"
+      }
+    },
+    {
+      "id": 112597510,
+      "member_id": 405574641,
+      "course_suggestion_id": 127,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 127,
+        "name": "Visual Thinking Strategies",
+        "hash": "a52b11df739305ee7c194cc4ac653824",
+        "url": "https://ca.linkedin.com/learning/visual-thinking-strategies",
+        "created": "2019-11-04 12:19:29",
+        "last_updated": "2019-11-04 12:19:29"
+      }
+    },
+    {
+      "id": 112597509,
+      "member_id": 405574641,
+      "course_suggestion_id": 1567,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1567,
+        "name": "Communication in the 21st Century Classroom",
+        "hash": "edc198ce0b073f8f51579d6caf83824b",
+        "url": "https://www.linkedin.com/learning/communication-in-the-21st-century-classroom",
+        "created": "2019-11-04 12:25:44",
+        "last_updated": "2019-11-04 12:25:44"
+      }
+    }
+  ],
+  "member_groups_collection": [
+    {
+      "id": 1026796538,
+      "member_id": 405574641,
+      "name": "Gilfus Education Group",
+      "url": "https://www.linkedin.com/groups/2444806",
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 970057194,
+      "member_id": 405574641,
+      "name": "ECIS",
+      "url": "https://www.linkedin.com/groups/3154975",
+      "created": "2019-08-22 06:31:36",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 970057193,
+      "member_id": 405574641,
+      "name": "Gilfus Education",
+      "url": "https://www.linkedin.com/groups/2444806",
+      "created": "2019-08-22 06:31:36",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1
+    },
+    {
+      "id": 970057192,
+      "member_id": 405574641,
+      "name": "Impact Entrepreneur",
+      "url": "https://www.linkedin.com/groups/3954990",
+      "created": "2019-08-22 06:31:36",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 637320721,
+      "member_id": 405574641,
+      "name": "ECIS",
+      "url": "https://www.linkedin.com/groups/3154975?trk=prof-groups-membership-name",
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1
+    },
+    {
+      "id": 637320720,
+      "member_id": 405574641,
+      "name": "Gilfus Education",
+      "url": "https://www.linkedin.com/groups/2444806?trk=prof-groups-membership-name",
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1
+    },
+    {
+      "id": 637320719,
+      "member_id": 405574641,
+      "name": "Impact Entrepreneur",
+      "url": "https://www.linkedin.com/groups/3954990?trk=prof-groups-membership-name",
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-08-22 06:31:35",
+      "deleted": 1
+    }
+  ],
+  "member_interests_collection": [],
+  "member_languages_collection": [
+    {
+      "id": 119197766,
+      "member_id": 405574641,
+      "language_id": 8,
+      "proficiency_id": 5,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 8,
+        "language": "portuguese",
+        "hash": "f380785d1349149d2b49f2038b06f459",
+        "created": "2016-07-22 14:26:06",
+        "last_updated": "2016-07-22 14:26:06"
+      },
+      "member_language_proficiency_list": {
+        "id": 5,
+        "proficiency": "elementary proficiency",
+        "hash": "b8a1b29e888ed5175310c4411a7f57e8",
+        "created": "2016-07-22 14:26:11",
+        "last_updated": "2016-07-22 14:26:11"
+      }
+    },
+    {
+      "id": 119197765,
+      "member_id": 405574641,
+      "language_id": 1,
+      "proficiency_id": 1,
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2025-05-24 04:12:10",
+      "deleted": 0,
+      "member_language_list": {
+        "id": 1,
+        "language": "english",
+        "hash": "ba0a6ddd94c73698a3658f92ac222f8a",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      },
+      "member_language_proficiency_list": {
+        "id": 1,
+        "proficiency": "native or bilingual proficiency",
+        "hash": "f6f4e1e9e46be4b96c2141c14f790843",
+        "created": "2016-07-22 14:14:53",
+        "last_updated": "2016-07-22 14:14:53"
+      }
+    }
+  ],
+  "member_organizations_collection": [],
+  "member_patents_collection": [],
+  "member_posts_see_more_urls_collection": [],
+  "member_projects_collection": [],
+  "member_publications_collection": [],
+  "member_recommendations_collection": [],
+  "member_similar_profiles_collection": [
+    {
+      "id": 4339543616,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 4339543615,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-86217880",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 4339543614,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-7496458",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 3867256542,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethism",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 3867256540,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-a622881b8",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 3867256539,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethbaker1",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 3867256537,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-076a92150",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 3867256535,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-73372312",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 2948227828,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-vandenberg-39066552",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 2948227827,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-7496458",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 2948227826,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 2948227825,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-l-1012a223",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 2948227824,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-81666618b",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 2531608112,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-83764a40",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 2531608111,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-gilmore-294ba7aa",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 2531608110,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-94bb7878",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 1235890373,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/beth-baker",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 1235890372,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-gentry-68185b7",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 1235890371,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-a0bb151",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 1235890370,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 1235890369,
+      "member_id": 405574641,
+      "url": "https://ca.linkedin.com/in/beth-baker-a84a5567",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 747645159,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/johnjosephgaines",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645154,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/erin-ashley-b97809101",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645152,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/dan-gonzalez-46a583",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645149,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ron-rohac-2b479032",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645146,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/susan-hall-6022592b",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645144,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/justicejones4",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645142,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jamestsanders",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645139,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jen-davis-wickens-085b9b6a",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645135,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/seth-derner",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 747645131,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 194731304,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-0505a922",
+      "created": "2019-12-11 23:10:35",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 194731302,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-33002930",
+      "created": "2019-12-11 23:10:35",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    }
+  ],
+  "member_skills_collection": [],
+  "member_test_scores_collection": [],
+  "member_volunteering_cares_collection": [],
+  "member_volunteering_opportunities_collection": [],
+  "member_volunteering_positions_collection": [],
+  "member_volunteering_supports_collection": [],
+  "member_websites_collection": [
+    {
+      "id": 549101899,
+      "member_id": 405574641,
+      "website": "https://www.linkedin.com/school/university-of-detroit-mercy/",
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 459531214,
+      "member_id": 405574641,
+      "website": "https://www.linkedin.com/redir/redirect",
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 312583544,
+      "member_id": 405574641,
+      "website": "https://www.linkedin.com/school/university-of-detroit-mercy/",
+      "created": "2019-08-22 06:31:36",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1
+    },
+    {
+      "id": 312583543,
+      "member_id": 405574641,
+      "website": "https://www.linkedin.com/company/village-capital",
+      "created": "2019-08-22 06:31:36",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1
+    },
+    {
+      "id": 24456338,
+      "member_id": 405574641,
+      "website": "http://www.wayprogram.net",
+      "created": "2018-11-16 12:53:37",
+      "last_updated": "2019-12-11 23:10:35",
+      "deleted": 1
+    }
+  ],
+  "member_also_viewed_collection": [
+    {
+      "id": 45574631451,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/prestoncline",
+      "title": "CEO, Mission Critical Team Institute",
+      "location": "Philadelphia, PA",
+      "created": "2025-02-07 23:37:15",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 45574631450,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jenniferandaluz",
+      "title": "Executive Coach, CEO, Founder",
+      "location": "San Francisco Bay Area",
+      "created": "2025-02-07 23:37:15",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 45574631449,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": "Goal-Driven Leadership and Team Development",
+      "location": "Scottsdale, AZ",
+      "created": "2025-02-07 23:37:15",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883829,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/prestoncline",
+      "title": "Co-Founder and Director of Research and Education at Mission Critical Team Institute",
+      "location": "Philadelphia, PA",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 1
+    },
+    {
+      "id": 43967883826,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kristen-m-waterfield1717",
+      "title": null,
+      "location": "Glen Mills, PA",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883824,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/crewsertech",
+      "title": "Co-Founder at Beyond the Chalk",
+      "location": "Lolo, MT",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883822,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/adamingersoll",
+      "title": null,
+      "location": "New York, NY",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883821,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jenniferandaluz",
+      "title": "Coach, CEO, Founder",
+      "location": "San Francisco Bay Area",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 1
+    },
+    {
+      "id": 43967883819,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/gsmith14",
+      "title": null,
+      "location": "New York, NY",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883817,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/drcristinaalvarezorganizationaldevelopmentleader",
+      "title": null,
+      "location": "Philadelphia, PA",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883815,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kelly-powers-378b9424",
+      "title": "Builder | Strategist  | Social Entrepreneur",
+      "location": "Chicago, IL",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883813,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/tonie-zapata-garza-12492a12",
+      "title": "Assistant Superintendent of Outreach, District Initiatives and Dual Language ESL at Faith Family Academy",
+      "location": "Cedar Hill, TX",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883811,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kimbearden",
+      "title": "Executive Director and Co-founder at Ron Clark Academy",
+      "location": "Atlanta, GA",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883810,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/onlinetutoring",
+      "title": "President at EDU Niche",
+      "location": "Fort Worth, TX",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883809,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jgainesmmz",
+      "title": "CEO at Moving Mindz",
+      "location": "Los Angeles Metropolitan Area",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883808,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/erin-ashley-b97809101",
+      "title": "Director, Academics at TNTP",
+      "location": "Novato, CA",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883807,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/dan-gonzalez-46a583",
+      "title": "CEO & Co-Founder at District C",
+      "location": "Raleigh-Durham-Chapel Hill Area",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883805,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ron-rohac-2b479032",
+      "title": "Co-Founder at Teaching English Learners",
+      "location": "Riverside, CA",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883803,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/justicejones4",
+      "title": null,
+      "location": "New York, NY",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 43967883801,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": "Organizational Leader, Team Development",
+      "location": "Scottsdale, AZ",
+      "created": "2024-11-10 16:49:45",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 1
+    },
+    {
+      "id": 41613406238,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethism",
+      "title": null,
+      "location": "Greater Tampa Bay Area",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406237,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-a622881b8",
+      "title": "I am a Private Tutor who specializes in all things MATH, who also has a great deal of recent experience tutoring students who were preparing for the ACT/SAT exams.",
+      "location": "Quincy, IL",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406236,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethbaker1",
+      "title": null,
+      "location": "Charlotte, NC",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406235,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-076a92150",
+      "title": "Fund Development",
+      "location": "Evansville, IN",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406234,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-73372312",
+      "title": null,
+      "location": "Austin, TX",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406233,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jamestsanders",
+      "title": null,
+      "location": "Carlsbad, CA",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 41613406232,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jen-davis-wickens-085b9b6a",
+      "title": null,
+      "location": "Seattle, WA",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 41613406231,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": "Digital Learning Expert",
+      "location": "Scottsdale, AZ",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406230,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kevin-kreis-055b29128",
+      "title": "Communications Specialist",
+      "location": "Wayne, MI",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406229,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jana-paecht-75877068",
+      "title": "Physical Education Teacher at Northampton Public Schools",
+      "location": "United States",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406228,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/marcsneden",
+      "title": "Managing Partner at BTS CNC Repair LLC",
+      "location": "Battle Creek, MI",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406227,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/allison-s-37681b11",
+      "title": "Broadcast Media Professional",
+      "location": "Auburn Hills, MI",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406224,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amypawlosky",
+      "title": "Instructional Technology Consultant at Indiana University South Bend",
+      "location": "South Bend, IN",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406222,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kia-brown-aa34442b",
+      "title": "Writer and Editor Manager at Responsive Education Solutions",
+      "location": "Lewisville, TX",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406220,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/mike-kozicki-03680724",
+      "title": "Of Counsel Attorney at The Allen Law Group PC, Specializing in Employment & Labor Law",
+      "location": "Detroit, MI",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406218,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kirk-bartling-b2717889",
+      "title": "Distance Learning Coordinator at Michigan State University",
+      "location": "Grand Rapids, MI",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406216,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/centriclearning",
+      "title": "Online Project-Based Learning  at Centric Learning",
+      "location": "Detroit Metropolitan Area",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406215,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kia-brown-29003b1a4",
+      "title": "Administrative Professional",
+      "location": "United States",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 41613406213,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kia-brown-b2a9132b",
+      "title": "Career Services Manager at Baltimore School of Massage",
+      "location": "Linthicum Heights, MD",
+      "created": "2024-07-10 23:01:57",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 36871928103,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "title": null,
+      "location": "Greater Chicago Area",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928102,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/seth-derner",
+      "title": null,
+      "location": "Lincoln, NE",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2025-02-07 23:37:15",
+      "deleted": 0
+    },
+    {
+      "id": 36871928101,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": "Educational leader focused on student and team outcomes",
+      "location": "Scottsdale, AZ",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928100,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/jessicafiorese",
+      "title": "Customs Process Administrator - Custom Support UK",
+      "location": "Eastbourne",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928099,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/ana-clara-ramos-45883a227",
+      "title": "Agente Administrativo | Advogada",
+      "location": "V\u00e1rzea da Palma, MG",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928098,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/ol%C3%ADmpio-ribeiro-109455131",
+      "title": "Escrita criativa e otimizada | SEO",
+      "location": "Montes Claros, MG",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928097,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/mindy-fernando-6b4b1bab",
+      "title": "Licensed Optician at Henry Ford Health System",
+      "location": "Detroit Metropolitan Area",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928096,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/bruno-rezende-569283203",
+      "title": "Professor de ingl\u00eas na Rede de Ensino Coleguium",
+      "location": "Montes Claros, MG",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928095,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jeanne-bonner-121173128",
+      "title": "Higher Education Consultant at BJB Higher Education Consultants, Inc",
+      "location": "Farmington, MI",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 36871928094,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/michelle-sarkody-34095499",
+      "title": "Human Resource Director",
+      "location": "Trenton, MI",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 36871928093,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ronjstefanski",
+      "title": null,
+      "location": "Detroit, MI",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928092,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jessica-johnson-a41b5420",
+      "title": null,
+      "location": "Palm Coast, FL",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928091,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/annielly-chagas-99706bb5",
+      "title": "L\u00edder de Conte\u00fado e SEO | Marketing Digital | Marketing B2B",
+      "location": "Minas Gerais, Brazil",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928090,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/hucalm",
+      "title": "Educator and Marketer",
+      "location": "Troy, MI",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 36871928089,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/thiagoreis",
+      "title": null,
+      "location": "S\u00e3o Paulo, Brazil",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 36871928088,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/darrell-wanamaker-2bb2a8122",
+      "title": "COO / Chief Operating Officer / Software Developer",
+      "location": "Westland, MI",
+      "created": "2024-01-25 10:52:14",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601563,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-vandenberg-39066552",
+      "title": "Chairman of the Board of Directors at Boulder City Chamber of Commerce",
+      "location": "Phoenix, AZ",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601562,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-7496458",
+      "title": "Supplier Controls Manager at Stryker Instruments",
+      "location": "Kalamazoo, MI",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601561,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "title": "Sr. Director, HR - Global Mobility and M&A at Baxter | This is where your purpose accelerates our mission",
+      "location": "Greater Chicago Area",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601560,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-l-1012a223",
+      "title": "Director of Brand Experiences",
+      "location": "Greater New Orleans Region",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601559,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-81666618b",
+      "title": "Professor at California State University-Los Angeles",
+      "location": "Los Angeles Metropolitan Area",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601558,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/michelle-sarkody-34095499",
+      "title": "Executive Assistant at Way Program - Widening Advancements for Youth",
+      "location": "Trenton, MI",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601557,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ronjstefanski",
+      "title": "Host of the Podcast, DisruptED",
+      "location": "Detroit, MI",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601556,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ackykamdar",
+      "title": "CEO Magic EdTech & Magic Finserv -\nEntrepreneur, Investor, Digital Technologies, Blockchain, Machine Learning, AI, NLP",
+      "location": "New York, NY",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601555,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/rick-beyer-7589376",
+      "title": "Education Technology | Higher Education M&A Affiliations, Shared Services",
+      "location": "Alexandria, VA",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601554,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/lisacarmona",
+      "title": "President, Highlights Education",
+      "location": "Westerville, OH",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601553,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/madelinecbg",
+      "title": null,
+      "location": "Taylor, MI",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601552,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jamie-stott-5b48611a3",
+      "title": "UX/UI & Web Designer \ud83d\udcbb | Crafting Engaging User Experiences | User Centric Design | SEO Specialist | UX/UI Optimization",
+      "location": "Buffalo, NY",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601551,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/brettemil",
+      "title": "Director Of Development at Centric Learning",
+      "location": "Plymouth, MI",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601550,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jessica-johnson-a41b5420",
+      "title": "Vice President of HR, The Spice and Tea Exchange",
+      "location": "Palm Coast, FL",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 34053601549,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/davi-wickert",
+      "title": "Social Media and Marketing Analyst",
+      "location": "Porto Alegre, RS",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 34053601548,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/thiagoreis",
+      "title": "Dad, Marketer, Salesman, Guitar Player | CMO | COO | Strategic Planning | CS | Growth",
+      "location": "S\u00e3o Paulo, Brazil",
+      "created": "2023-09-11 03:31:13",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661389,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-83764a40",
+      "title": "Planning Services Manager and Land Use Planner at Gunnison County Community Development",
+      "location": "Gunnison, CO",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661387,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-gilmore-294ba7aa",
+      "title": "--",
+      "location": "Ohio, United States",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661385,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-94bb7878",
+      "title": "Practice Administrator and Registered Dental Hygienist- Michel Dental",
+      "location": "Topeka, KS",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661384,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ronjstefanski",
+      "title": "Host of the Podcast, DisruptED",
+      "location": "Detroit Metropolitan Area",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661383,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/brittani-leroy",
+      "title": "Associate Clinical Recruiter at Spring Health",
+      "location": "Raleigh-Durham-Chapel Hill Area",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661382,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/andrew-nicholas-ouma-7986481ab",
+      "title": "Assistant Teacher @ St. Paul's School. Cambridge Certified English teacher.",
+      "location": "S\u00e3o Paulo, SP",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661381,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/laurajauron",
+      "title": "Educating all students to achieve today and tomorrow in a global community and economy",
+      "location": "Phoenix, AZ",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 31064661380,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/madelinecbg",
+      "title": "Supporting organizations in unlocking their unlimited potential to support educator and student success.",
+      "location": "Taylor, MI",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661379,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/professoraegestoracamilasouza",
+      "title": "Educa\u00e7\u00e3o e Gest\u00e3o de Pessoas | Treinamento e Desenvolvimento | Graduanda em Psicologia",
+      "location": "Porto Alegre, RS",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661378,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jessica-johnson-a41b5420",
+      "title": "Human Resources Director at Centric Learning",
+      "location": "Palm Coast, FL",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661377,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/sarah-kramer-a5b248247",
+      "title": "Assistant Director of Curriculum & Assessment at Centric Learning",
+      "location": "St Robert, MO",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661376,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jamie-stott-5b48611a3",
+      "title": "UX/UI Designer at Centric Learning",
+      "location": "Buffalo, NY",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661375,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amy-cook-5a6384b9",
+      "title": "Math Teacher at Centric Learning",
+      "location": "Greater Saginaw-Midland-Bay City Area",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661374,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/davi-wickert",
+      "title": "Social Media and Marketing Analyst na WAY American School",
+      "location": "Porto Alegre, RS",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661373,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/suzanne-legare-breder-m-ed-188797128",
+      "title": "Adjunct Instructor at College of Central Florida",
+      "location": "Hernando, FL",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661372,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/nicole-bowman-572789237",
+      "title": "Aspiring Family and Consumer Sciences Teacher, enthusiastic about motivating and driving students to achieve academic success.",
+      "location": "Flushing, MI",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-11-10 16:49:45",
+      "deleted": 1
+    },
+    {
+      "id": 31064661371,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/fabiopaivareis",
+      "title": "Copywriter | Digital Marketing | Content Writer | PhD in History | Researcher and Teacher | Social Media Manager | Tech Savvy Problem Solver",
+      "location": "S\u00e3o Paulo, SP",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661370,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/hucalm",
+      "title": "Assistant Director of Instruction",
+      "location": "Troy, MI",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661369,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/darrell-wanamaker-2bb2a8122",
+      "title": "COO / Chief Operating Officer",
+      "location": "Detroit Metropolitan Area",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661368,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-0505a922",
+      "title": "Executive Director at Inclusion US / W-A-Y Program",
+      "location": "Saline, MI",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-07-10 23:01:57",
+      "deleted": 1
+    },
+    {
+      "id": 31064661367,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/fernanda-tulio-10001a170",
+      "title": "Academic Services Coordinator",
+      "location": "Curitiba, PR",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661366,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/maria-topliff-5835ab63",
+      "title": "Creator of Engaging Training/Curriculum for All Industries that Promotes High-Performance & Production",
+      "location": "Fort Lauderdale, FL",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2024-01-25 10:52:13",
+      "deleted": 1
+    },
+    {
+      "id": 31064661365,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/thiagoreis",
+      "title": "Dad, Marketer, Seller, Guitar Player | CMO | COO | Strategic Planning | CS | Growth",
+      "location": "S\u00e3o Paulo, Brazil",
+      "created": "2023-05-27 10:06:02",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 20192388403,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/beth-baker",
+      "title": "Head of Careers, Employability and Alumni Relations at The University of Buckingham",
+      "location": "Greater Oxford Area",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388402,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-a0bb151",
+      "title": null,
+      "location": "Southfield, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 20192388401,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "title": "Director, HR - Global Mobility and M&A at Baxter | This is where your purpose accelerates our mission",
+      "location": "Greater Chicago Area",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388400,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kent-isd-career-readiness-94b347200",
+      "title": "College & Career Readiness at Kent ISD",
+      "location": "Grand Rapids, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388399,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/audrey-stamm-33426911a",
+      "title": "RN at Kent Intermediate School District",
+      "location": "Grand Rapids Metropolitan Area",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388398,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kathy-watrous-0247a91b",
+      "title": "Parent Educator at Kent Intermediate School District",
+      "location": "Ada, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388397,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/carl-fox-04661939",
+      "title": "Systems Analyst at Grand Rapids Public Schools",
+      "location": "Sparta, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388396,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/lois-weber-3a765436",
+      "title": "Transition Coordinator at CCISD",
+      "location": "Hancock, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388395,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/nate-fowler-55053028",
+      "title": "Superintendent of Lowell Area Schools",
+      "location": "United States",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388394,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jaime-williams-19992876",
+      "title": "Occupational Therapist at Kenowa Hills Public Schools",
+      "location": "Grand Rapids, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388393,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/pamelastegink",
+      "title": "First Grade Teacher at Forest Hills Public Schools",
+      "location": "Grand Rapids, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388392,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/tonja-murray-56323181",
+      "title": "Hairstylist at Marco's Hair and Nails",
+      "location": "Grand Rapids, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388391,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/arrin-michelle-brisbane-7bb5a752",
+      "title": "Administration at Grand Rapids Christian Elementary School",
+      "location": "Grand Rapids, MI",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388390,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/rapcoe",
+      "title": "Founder & CEO at TutorMundi",
+      "location": "Palo Alto, CA",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388389,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/markdouglaswagner",
+      "title": "Founder at ARES Learning",
+      "location": "Irvine, CA",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388388,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/asha-wagner-6b530839",
+      "title": "Retired Police officer transitioning into the Cyber Security Field",
+      "location": "Baltimore, MD",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388387,
+      "member_id": 405574641,
+      "url": "https://ca.linkedin.com/in/lisaborg",
+      "title": "VP Branding at Akumin | Brand Builder | Revenue Generator | Strategic Marketer | Skier\ud83c\udfbf",
+      "location": "Toronto, ON",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388386,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amylouabernethy",
+      "title": "Co-Founder, Creative Director of Learning at AMP Creative",
+      "location": "Seattle, WA",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388385,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ann-werner-48859413",
+      "title": "Founder and CEO Whitewater Learning\u00ae E-Education for Educators",
+      "location": "Minneapolis, MN",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388384,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/catalystlearning",
+      "title": "Founder/CEO and other individuals, Catalyst Learning",
+      "location": "Louisville, KY",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388383,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/mariasancheztenney",
+      "title": "CEO- 10e Learning",
+      "location": "Seattle, WA",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388382,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/regisparis",
+      "title": "Founder & CIO EzLOMS.org E-Learning",
+      "location": "Amherst, MA",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 20192388381,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/therese-piguet-29381426",
+      "title": "Founder / Director at EFRENCH LEARNING",
+      "location": "Pompano Beach, FL",
+      "created": "2021-10-21 22:28:21",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 17791610079,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/centric-learning-b5a43818a",
+      "title": "Software Developer at centric learning 2",
+      "location": "Greater Philadelphia",
+      "created": "2021-06-13 10:59:32",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427948,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-gentry-68185b7",
+      "title": "Director, Facilities Support at Asheville-Buncombe Technical Community College",
+      "location": "Weaverville, NC",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2023-09-11 03:31:13",
+      "deleted": 1
+    },
+    {
+      "id": 17595427947,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-a0bb151",
+      "title": "-",
+      "location": "Southfield, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427943,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-83764a40",
+      "title": "Planning Services Manager at Gunnison County",
+      "location": "Gunnison, CO",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427940,
+      "member_id": 405574641,
+      "url": "https://ca.linkedin.com/in/beth-baker-a84a5567",
+      "title": "Dental hygienist at Dr. Jack Newton",
+      "location": "Ottawa, ON",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2023-05-27 10:06:02",
+      "deleted": 1
+    },
+    {
+      "id": 17595427936,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-baker-94bb7878",
+      "title": "Registered Dental Hygienist- Michel Dental",
+      "location": "Topeka, KS",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427934,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/seth-derner",
+      "title": "Principal & Sr. Consultant at Vivayic  |   Expecting better results and believing in the inherent capacity of people to learn are not mutually exclusive beliefs. In fact, they may rely on one another.",
+      "location": "Lincoln, NE",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427931,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": "Senior Director of Partnerships and Online Programming at Arizona Autism Charter Schools",
+      "location": "Scottsdale, AZ",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427929,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/software-engineer-terrellmckinney",
+      "title": "Software Engineer at Coding Temple",
+      "location": "Greater Chicago Area",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427926,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amberswanson",
+      "title": "Digital Marketer turned ARTIST + DESIGNER",
+      "location": "Grayling, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427924,
+      "member_id": 405574641,
+      "url": "https://br.linkedin.com/in/thiagoreis",
+      "title": "Chief Executive for Centric Learning Brazil",
+      "location": "S\u00e3o Paulo, SP",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-06-13 10:59:32",
+      "deleted": 1
+    },
+    {
+      "id": 17595427923,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jena-tomer-37469a195",
+      "title": "Charge Nurse at Asbury Solomons",
+      "location": "Washington DC-Baltimore Area",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427922,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/suzanne-hendricks-81714232",
+      "title": "Work Culture Solutions",
+      "location": "Corvallis, OR",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427921,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/berniceagreen",
+      "title": "#Results-Orientated IT Leader\n#Higher Ed Digital Transformation\n#STEM Education and Outreach",
+      "location": "Atlanta, GA",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427920,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/raybatt",
+      "title": "Senior Executive Leader",
+      "location": "Lansing, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427919,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kristin-minassian-87a85768",
+      "title": "Special Education Teacher at Special Education",
+      "location": "Aubrey, TX",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427918,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bernie-castro-36269bb2",
+      "title": "Executive Director, Information Technology at Rowan College of South Jersey",
+      "location": "Greater Philadelphia",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427917,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amber-rogers-swanson-4a931030",
+      "title": "School Counselor at Byron CUSD 226",
+      "location": "Byron, IL",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427916,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bernard-marth-934a619",
+      "title": "Education Management",
+      "location": "Nazareth, PA",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427915,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/matthew-morgan-498879125",
+      "title": "Art Director at Living Under Studios",
+      "location": "Flint, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427914,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/tawna-martello-71230a29",
+      "title": "Secretary at Lake Fenton High School",
+      "location": "Fenton, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427913,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/alicia-bennett-164270104",
+      "title": "Educator at Southfield Public Schools",
+      "location": "Southfield, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427912,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kimberly-crenshaw-12a75ba0",
+      "title": "Executive Director of Curriculum and Technology at Redford Union School District",
+      "location": "Redford, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427911,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/deb-tiller-77392144",
+      "title": "Teacher at Grand Blanc Schools",
+      "location": "Grand Blanc, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427910,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jason-ohrt-081ba6154",
+      "title": "School Principal at Avondale Middle School",
+      "location": "Utica, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 17595427909,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-0505a922",
+      "title": "Executive Director at Inclusion US / W-A-Y Program",
+      "location": "Saline, MI",
+      "created": "2021-06-03 19:12:23",
+      "last_updated": "2021-10-21 22:28:21",
+      "deleted": 1
+    },
+    {
+      "id": 14965144316,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethlanestaffingspecialist",
+      "title": "CEOs, CNOs, COOs, Nurse Directors & Managers\nAspen Associates Acute Care, SRA Executive Search\nPerm and Interim",
+      "location": "Waxahachie, TX",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144315,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/beth-baker",
+      "title": "Head of Careers, Employability and Alumni Relations at The University of Buckingham",
+      "location": "Greater Oxford Area",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144314,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/elizabethbakersiemens",
+      "title": "Senior Recruiter at Siemens Mobility",
+      "location": "Dallas, TX",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144313,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethpifer",
+      "title": "Sr Director, Accounting at Procore Technologies",
+      "location": "Santa Barbara, CA",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144312,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "title": "Director, Human Resources - Global Mobility and M&A at Baxter International Inc.",
+      "location": "Greater Chicago Area",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144311,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/seth-derner",
+      "title": "Co-founder and Co-CEO  \u25aa  Advocates for purpose-driven companies, experiential learning, and doing good in the world.",
+      "location": "Lincoln, NE",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144310,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": "Digital Learning Specialist: Leadership, Blended, SEL",
+      "location": "Scottsdale, AZ",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144309,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/vickywolfe",
+      "title": "Vice President, Enrollment and Marketing at IFSA",
+      "location": "Greater Indianapolis",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144308,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/sandy-foersterling-4b438a99",
+      "title": "Primary/Secondary Education Professional",
+      "location": "Cincinnati, OH",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144307,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/john-bumgarner-31ab704",
+      "title": "Sales Representative",
+      "location": "Mount Pleasant, SC",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144306,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jeff-quirk-27b36a57",
+      "title": "Independent Sales Representative specializing in College market.",
+      "location": "Warwick, RI",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144305,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bruce-mehlman-51239136",
+      "title": "Founding Partner, Mehlman Castagnetti Rosen & Thomas",
+      "location": "Washington, DC",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144304,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amity-dejong-71508128",
+      "title": "Lead Seminar Instructor at National Notary Association",
+      "location": "Elk Grove, CA",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144303,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/alison-alvidrez-6b7a5689",
+      "title": "Yearbook Sales and Training at Dorian Studio",
+      "location": "Surprise, AZ",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144302,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bryan-harber-mba-16b05b9a",
+      "title": "Quality System Manager at Packaging Corporation of America",
+      "location": "New Oxford, PA",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144301,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/marie-escobar-45a999159",
+      "title": "Realtor at Century 21 McDaniel & Associates",
+      "location": "Hemet, CA",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144300,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amanda-zientek-92170b120",
+      "title": "--",
+      "location": "Knoxville Metropolitan Area",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144299,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bobbyspears",
+      "title": "National Sales Manager at National Recognition Products, A Taylor Company",
+      "location": "Austin, TX",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144298,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/anna-segars-09840669",
+      "title": "Secondary Teacher/Varsity Cheer Coach",
+      "location": "Little Rock Metropolitan Area",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144297,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/virginia-hancock-242112177",
+      "title": "--",
+      "location": "Hawaii, United States",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144296,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kmogetsuhome",
+      "title": "Award-Winning Sales Coach",
+      "location": "Virginia Beach, VA",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144295,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/nadineheiss",
+      "title": "Event Planner/ Coordinator, Younes Hospitality",
+      "location": "Kearney, NE",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144294,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kim-johnson-763844151",
+      "title": "Elementary School Teacher at Lakemeade Christian",
+      "location": "Hemet, CA",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144293,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/joy-wood-80a23b44",
+      "title": "Primary/Secondary Teacher",
+      "location": "Grants Pass, OR",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 14965144292,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-33002930",
+      "title": "Co-Founder/ CEO at Centric Learning Systems",
+      "location": "Belleville, MI",
+      "created": "2021-01-19 00:21:17",
+      "last_updated": "2021-06-03 19:12:23",
+      "deleted": 1
+    },
+    {
+      "id": 12644451348,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-tennessen-astron1",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451346,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethlanestaffingspecialist",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451344,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/beth-baker",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451343,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/elizabethbakersiemens",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451341,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451339,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/seth-derner",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451338,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451335,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/vickywolfe",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451331,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/sandy-foersterling-4b438a99",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451329,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/john-bumgarner-31ab704",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451326,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jeff-quirk-27b36a57",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451324,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bruce-mehlman-51239136",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451323,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amity-dejong-71508128",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451321,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/alison-alvidrez-6b7a5689",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451318,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bryan-harber-mba-16b05b9a",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451316,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/marie-escobar-45a999159",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451314,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amanda-zientek-92170b120",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451313,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bobbyspears",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451311,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/anna-segars-09840669",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451310,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/virginia-hancock-242112177",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451309,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kmogetsuhome",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451308,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/nadineheiss",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451307,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kim-johnson-763844151",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451306,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/joy-wood-80a23b44",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12644451305,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-33002930",
+      "title": null,
+      "location": null,
+      "created": "2020-09-23 05:09:49",
+      "last_updated": "2021-01-19 00:21:17",
+      "deleted": 1
+    },
+    {
+      "id": 12041854542,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/anna-segars-09840669?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854540,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bobbyspears?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854538,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/virginia-hancock-242112177?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854537,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kmogetsuhome?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854536,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/nadineheiss?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854533,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/marion-waldman-4097896?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854529,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/kim-johnson-763844151?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854527,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/joy-wood-80a23b44?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854525,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/carol-blumenstein-1715a6140?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 12041854522,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-33002930?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-05-26 14:37:26",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078769,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/johnjosephgaines?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078759,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/erin-ashley-b97809101?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078751,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/dan-gonzalez-46a583?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078749,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ron-rohac-2b479032?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078745,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/susan-hall-6022592b?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078740,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/justicejones4?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078728,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jamestsanders?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078725,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jen-davis-wickens-085b9b6a?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078720,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/seth-derner?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078716,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/danavandeinse?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078712,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/beth-baker?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 10960078707,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ryan-hyde-bcre?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078704,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/dawn-carey-a27a5211?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078702,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jasonneifield?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078700,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/angie-hanke-465b468a?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078699,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/nik-lulgjuraj-0ab1b54a?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078695,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/lori-britt-a8928027?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078691,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/diana-jennings-bbb45431?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 10960078688,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/vickiemarkavitch?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-03-04 18:41:25",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 9482097093,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-0505a922?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097090,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-33002930?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097086,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethpifer?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 9482097083,
+      "member_id": 405574641,
+      "url": "https://uk.linkedin.com/in/beth-baker-5914ab44?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097079,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/beth-bannerman?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 9482097075,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethdynkowski?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 9482097072,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bethlanestaffingspecialist?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-09-23 05:09:49",
+      "deleted": 1
+    },
+    {
+      "id": 9482097068,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/jeff-gaynor-a2017743?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097065,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/susan-hardin-49104881?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097061,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/ramjibhai-m-patel-pe-bb96095b?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097057,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/rena-seltzer-9834a211?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097052,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/bob-wilkinson-2257636?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 9482097047,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/meredith-schindler-5514135b?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097042,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/carolyn-siebers-682a6b157?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-05-26 14:37:26",
+      "deleted": 1
+    },
+    {
+      "id": 9482097036,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/amy-deller-5a5b745?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097029,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/mark-davis-1b913a16?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    },
+    {
+      "id": 9482097023,
+      "member_id": 405574641,
+      "url": "https://www.linkedin.com/in/glen-taylor-33002930?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2019-12-11 23:10:36",
+      "last_updated": "2020-03-04 18:41:25",
+      "deleted": 1
+    }
+  ]
+}

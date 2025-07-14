@@ -1,0 +1,1399 @@
+{
+  "id": 377898845,
+  "name": "Dennis Baldwin",
+  "first_name": "Dennis",
+  "last_name": "Baldwin",
+  "title": "owner",
+  "user_generated_headline": "owner",
+  "url": "https://www.linkedin.com/in/dennis-baldwin-224503b5",
+  "hash": "bed38a2a1ab5fca51b7720840361c884",
+  "canonical_url": "https://www.linkedin.com/in/dennis-baldwin-224503b5",
+  "canonical_hash": "bed38a2a1ab5fca51b7720840361c884",
+  "member_shorthand_name": "dennis-baldwin-224503b5",
+  "member_shorthand_name_hash": "a717aa057c93fdce7e01e8226c1316c6",
+  "canonical_shorthand_name": "dennis-baldwin-224503b5",
+  "canonical_shorthand_name_hash": "a717aa057c93fdce7e01e8226c1316c6",
+  "created": "2016-12-15 14:42:27",
+  "last_updated": "2025-07-02 03:06:59",
+  "last_updated_ux": 1751425619,
+  "deleted": 0,
+  "last_response_code": 200,
+  "logo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+  "summary": null,
+  "location": "New York City Metropolitan Area",
+  "country": "United States",
+  "connections": "41 connections",
+  "connections_count": 41,
+  "recommendations_count": 0,
+  "industry": "Construction",
+  "outdated": 0,
+  "experience_count": 0,
+  "member_hidden_status_collection": [
+    {
+      "id": 315637829,
+      "member_id": 377898845,
+      "is_hidden": 0,
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 0
+    }
+  ],
+  "member_experience_collection": [
+    {
+      "id": 369372854522,
+      "member_id": 377898845,
+      "title": "owner",
+      "location": null,
+      "company_name": "-",
+      "company_url": null,
+      "date_from": null,
+      "date_to": null,
+      "duration": null,
+      "description": null,
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1,
+      "order_in_profile": 1,
+      "company_id": null
+    },
+    {
+      "id": 369372854521,
+      "member_id": 377898845,
+      "title": "owner",
+      "location": null,
+      "company_name": null,
+      "company_url": null,
+      "date_from": null,
+      "date_to": null,
+      "duration": null,
+      "description": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1,
+      "order_in_profile": 1,
+      "company_id": null
+    }
+  ],
+  "member_education_collection": [
+    {
+      "id": 1611642073,
+      "member_id": 377898845,
+      "title": "cyprus high,utah",
+      "subtitle": "-",
+      "date_from": "1975",
+      "date_to": "1978",
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 0,
+      "school_url": null
+    },
+    {
+      "id": 252006241,
+      "member_id": 377898845,
+      "title": "cyprus high,utah",
+      "subtitle": null,
+      "date_from": "1975",
+      "date_to": "1978",
+      "activities_and_societies": null,
+      "description": null,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1,
+      "school_url": null
+    }
+  ],
+  "member_awards_collection": [],
+  "member_certifications_collection": [],
+  "member_courses_collection": [],
+  "member_courses_suggestion_collection": [
+    {
+      "id": 4564110399,
+      "member_id": 377898845,
+      "course_suggestion_id": 18554,
+      "created": "2025-07-02 03:06:59",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 0,
+      "member_courses_suggestion_list": {
+        "id": 18554,
+        "name": "Construction Management: Safety and Health",
+        "hash": "07b826307b4e091a883fe718923995af",
+        "url": "https://www.linkedin.com/learning/construction-management-safety-and-health",
+        "created": "2024-01-03 13:07:19",
+        "last_updated": "2024-01-03 13:07:19"
+      }
+    },
+    {
+      "id": 4564110398,
+      "member_id": 377898845,
+      "course_suggestion_id": 1141,
+      "created": "2025-07-02 03:06:59",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 0,
+      "member_courses_suggestion_list": {
+        "id": 1141,
+        "name": "Integrating Temporary Workers and Third-Party Employees",
+        "hash": "4891b7eca06e81aafb11ddf233f43dca",
+        "url": "https://www.linkedin.com/learning/integrating-temporary-workers-and-third-party-employees",
+        "created": "2019-11-04 12:25:20",
+        "last_updated": "2019-11-04 12:25:20"
+      }
+    },
+    {
+      "id": 3760227829,
+      "member_id": 377898845,
+      "course_suggestion_id": 34090,
+      "created": "2025-04-13 12:54:06",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 34090,
+        "name": "Introduction to Bluebeam Revu 21",
+        "hash": "ce9dfa670b262ff6fcfe5cba03c96a0b",
+        "url": "https://www.linkedin.com/learning/introduction-to-bluebeam-revu-21",
+        "created": "2025-02-17 05:49:46",
+        "last_updated": "2025-02-17 05:49:46"
+      }
+    },
+    {
+      "id": 3760227828,
+      "member_id": 377898845,
+      "course_suggestion_id": 8645,
+      "created": "2025-04-13 12:54:06",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 0,
+      "member_courses_suggestion_list": {
+        "id": 8645,
+        "name": "Revit Architecture: Designing a House",
+        "hash": "4d4d5a894c2f741bc4b38c9b36843100",
+        "url": "https://www.linkedin.com/learning/revit-architecture-designing-a-house",
+        "created": "2019-11-04 13:08:21",
+        "last_updated": "2019-11-04 13:08:21"
+      }
+    },
+    {
+      "id": 3760227827,
+      "member_id": 377898845,
+      "course_suggestion_id": 1530,
+      "created": "2025-04-13 12:54:06",
+      "last_updated": "2025-07-02 03:06:59",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1530,
+        "name": "Creating Concrete Buildings with Revit Structure",
+        "hash": "1cea96210b98826c515593d071bf9d23",
+        "url": "https://www.linkedin.com/learning/creating-concrete-buildings-with-revit-structure",
+        "created": "2019-11-04 12:25:42",
+        "last_updated": "2019-11-04 12:25:42"
+      }
+    },
+    {
+      "id": 3147519929,
+      "member_id": 377898845,
+      "course_suggestion_id": 17622,
+      "created": "2025-02-08 18:37:40",
+      "last_updated": "2025-04-13 12:54:06",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 17622,
+        "name": "Learning OpenBuildings Designer",
+        "hash": "b791e29b406feb5a023caf17bed459d7",
+        "url": "https://www.linkedin.com/learning/learning-openbuildings-designer",
+        "created": "2021-05-26 15:01:52",
+        "last_updated": "2021-05-26 15:01:52"
+      }
+    },
+    {
+      "id": 3147519928,
+      "member_id": 377898845,
+      "course_suggestion_id": 17035,
+      "created": "2025-02-08 18:37:40",
+      "last_updated": "2025-04-13 12:54:06",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 17035,
+        "name": "Revit 2022: Essential Training for Structure (Imperial)",
+        "hash": "a424a1b6dabff1eb27827bf0ea997f2e",
+        "url": "https://www.linkedin.com/learning/revit-2022-essential-training-for-structure-imperial",
+        "created": "2021-04-15 08:38:05",
+        "last_updated": "2021-04-15 08:38:05"
+      }
+    },
+    {
+      "id": 3079609913,
+      "member_id": 377898845,
+      "course_suggestion_id": 19163,
+      "created": "2025-01-30 13:35:28",
+      "last_updated": "2025-04-13 12:54:06",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 19163,
+        "name": "Learning Revit 2024",
+        "hash": "945f040a5e243d6e1a3b31c7a7edb0a3",
+        "url": "https://www.linkedin.com/learning/learning-revit-2024",
+        "created": "2024-01-03 14:36:54",
+        "last_updated": "2024-01-03 14:36:54"
+      }
+    },
+    {
+      "id": 3079609912,
+      "member_id": 377898845,
+      "course_suggestion_id": 19138,
+      "created": "2025-01-30 13:35:28",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 19138,
+        "name": "Revit 2023: Essential Training for Architecture (Imperial and Metric)",
+        "hash": "68dedd1d13e30b0099c19d9b5d279831",
+        "url": "https://www.linkedin.com/learning/revit-2023-essential-training-for-architecture-imperial-and-metric",
+        "created": "2024-01-03 14:36:51",
+        "last_updated": "2024-01-03 14:36:51"
+      }
+    },
+    {
+      "id": 3079609911,
+      "member_id": 377898845,
+      "course_suggestion_id": 14076,
+      "created": "2025-01-30 13:35:28",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 14076,
+        "name": "Advanced  SQL \u2013 Window Functions",
+        "hash": "40b94482fef770dc85db4b27a08a145f",
+        "url": "https://www.linkedin.com/learning/advanced-sql-window-functions",
+        "created": "2020-06-01 23:11:11",
+        "last_updated": "2020-06-01 23:11:11"
+      }
+    },
+    {
+      "id": 2494667153,
+      "member_id": 377898845,
+      "course_suggestion_id": 12309,
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-01-30 13:35:28",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 12309,
+        "name": "Cert Prep: Revit for Architectural Design Professional",
+        "hash": "11d36fec8010cee73cca0aed11145471",
+        "url": "https://www.linkedin.com/learning/cert-prep-revit-for-architectural-design-professional",
+        "created": "2019-11-21 10:47:52",
+        "last_updated": "2019-11-21 10:47:52"
+      }
+    },
+    {
+      "id": 2494667151,
+      "member_id": 377898845,
+      "course_suggestion_id": 13761,
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-01-30 13:35:28",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 13761,
+        "name": "Revit 2021: Essential Training for Structure (Metric)",
+        "hash": "99f2f510867952ed48c5b9aefe03beab",
+        "url": "https://www.linkedin.com/learning/revit-2021-essential-training-for-structure-metric",
+        "created": "2020-04-18 14:10:49",
+        "last_updated": "2020-04-18 14:10:49"
+      }
+    },
+    {
+      "id": 2494667149,
+      "member_id": 377898845,
+      "course_suggestion_id": 1530,
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-01-30 13:35:28",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1530,
+        "name": "Creating Concrete Buildings with Revit Structure",
+        "hash": "1cea96210b98826c515593d071bf9d23",
+        "url": "https://www.linkedin.com/learning/creating-concrete-buildings-with-revit-structure",
+        "created": "2019-11-04 12:25:42",
+        "last_updated": "2019-11-04 12:25:42"
+      }
+    },
+    {
+      "id": 1987015325,
+      "member_id": 377898845,
+      "course_suggestion_id": 21023,
+      "created": "2024-06-12 04:31:21",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 21023,
+        "name": "Creating Construction Documents with Revit",
+        "hash": "a8041030e7c4898c91b57aa47d55dd35",
+        "url": "https://www.linkedin.com/learning/creating-construction-documents-with-revit",
+        "created": "2024-01-03 14:55:35",
+        "last_updated": "2024-01-03 14:55:35"
+      }
+    },
+    {
+      "id": 1987015324,
+      "member_id": 377898845,
+      "course_suggestion_id": 17035,
+      "created": "2024-06-12 04:31:21",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 17035,
+        "name": "Revit 2022: Essential Training for Structure (Imperial)",
+        "hash": "a424a1b6dabff1eb27827bf0ea997f2e",
+        "url": "https://www.linkedin.com/learning/revit-2022-essential-training-for-structure-imperial",
+        "created": "2021-04-15 08:38:05",
+        "last_updated": "2021-04-15 08:38:05"
+      }
+    },
+    {
+      "id": 1987015323,
+      "member_id": 377898845,
+      "course_suggestion_id": 19138,
+      "created": "2024-06-12 04:31:21",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 19138,
+        "name": "Revit 2023: Essential Training for Architecture (Imperial and Metric)",
+        "hash": "68dedd1d13e30b0099c19d9b5d279831",
+        "url": "https://www.linkedin.com/learning/revit-2023-essential-training-for-architecture-imperial-and-metric",
+        "created": "2024-01-03 14:36:51",
+        "last_updated": "2024-01-03 14:36:51"
+      }
+    },
+    {
+      "id": 291311943,
+      "member_id": 377898845,
+      "course_suggestion_id": 785,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 785,
+        "name": "Mission and Vision Statements Explained",
+        "hash": "7e69c072c72b57573cd5bc2ea1883f42",
+        "url": "https://www.linkedin.com/learning/mission-and-vision-statements-explained",
+        "created": "2019-11-04 12:25:00",
+        "last_updated": "2019-11-04 12:25:00"
+      }
+    },
+    {
+      "id": 291311942,
+      "member_id": 377898845,
+      "course_suggestion_id": 12402,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 12402,
+        "name": "Technology and Design Ethics",
+        "hash": "e9d71649cd508a5caa3ae940fc6bd944",
+        "url": "https://www.linkedin.com/learning/technology-and-design-ethics",
+        "created": "2019-11-29 19:32:03",
+        "last_updated": "2019-11-29 19:32:03"
+      }
+    },
+    {
+      "id": 291311941,
+      "member_id": 377898845,
+      "course_suggestion_id": 1530,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1,
+      "member_courses_suggestion_list": {
+        "id": 1530,
+        "name": "Creating Concrete Buildings with Revit Structure",
+        "hash": "1cea96210b98826c515593d071bf9d23",
+        "url": "https://www.linkedin.com/learning/creating-concrete-buildings-with-revit-structure",
+        "created": "2019-11-04 12:25:42",
+        "last_updated": "2019-11-04 12:25:42"
+      }
+    }
+  ],
+  "member_groups_collection": [],
+  "member_interests_collection": [],
+  "member_languages_collection": [],
+  "member_organizations_collection": [],
+  "member_patents_collection": [],
+  "member_posts_see_more_urls_collection": [],
+  "member_projects_collection": [],
+  "member_publications_collection": [],
+  "member_recommendations_collection": [],
+  "member_similar_profiles_collection": [
+    {
+      "id": 4230421554,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-9546356",
+      "created": "2024-10-12 15:26:17",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 4230421553,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-3411093",
+      "created": "2024-10-12 15:26:17",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 3759380413,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennisbaldwin",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 3759380412,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennismbaldwin",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 1669659893,
+      "member_id": 377898845,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-78b93b22",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 1669659892,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-a5567216",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 1669659891,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-88613b25",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 1669659890,
+      "member_id": 377898845,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-2364a819",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 1669659889,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-8a4b916",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 699706938,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/charliedougherty",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706937,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/stephen-b-chambers-aia-2425889",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706935,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/forrestwoods",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706933,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/jody-caliguire-bbb60523",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706931,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/larry-white-94b55a44",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706929,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/kerrymcguire1",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706928,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/vantage-design-construction-08590512",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706926,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/gene-mcferron-jr-2340a693",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706923,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/joel-ortiz-1b56a6b6",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 699706921,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/atwood-custom-homes",
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    }
+  ],
+  "member_skills_collection": [
+    {
+      "id": 1627047276,
+      "member_id": 377898845,
+      "skill_id": 52,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2017-08-23 08:52:36",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 52,
+        "skill": "construction",
+        "hash": "f5355504c5355403b74b6fd440b96c94",
+        "created": "2016-07-22 14:26:06",
+        "last_updated": "2016-07-22 14:26:06"
+      }
+    },
+    {
+      "id": 1627047275,
+      "member_id": 377898845,
+      "skill_id": 57,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2017-08-23 08:52:36",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 57,
+        "skill": "construction management",
+        "hash": "622b57e2fb31d14da5bd9750d99fbb25",
+        "created": "2016-07-22 14:26:06",
+        "last_updated": "2016-07-22 14:26:06"
+      }
+    },
+    {
+      "id": 1627047274,
+      "member_id": 377898845,
+      "skill_id": 77,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2017-08-23 08:52:36",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 77,
+        "skill": "residential homes",
+        "hash": "96b2e658120b89a045073f43c33615c4",
+        "created": "2016-07-22 14:26:09",
+        "last_updated": "2016-07-22 14:26:09"
+      }
+    },
+    {
+      "id": 1627047273,
+      "member_id": 377898845,
+      "skill_id": 63,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2017-08-23 08:52:36",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 63,
+        "skill": "contract negotiation",
+        "hash": "e872dc22aeb2b8abde49b603970cb9b1",
+        "created": "2016-07-22 14:26:07",
+        "last_updated": "2016-07-22 14:26:07"
+      }
+    },
+    {
+      "id": 1627047272,
+      "member_id": 377898845,
+      "skill_id": 1481,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2017-08-23 08:52:36",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 1481,
+        "skill": "renovation",
+        "hash": "1f296eb7a6d0989018b8a38dd8c36d70",
+        "created": "2016-07-22 14:29:44",
+        "last_updated": "2016-07-22 14:29:44"
+      }
+    },
+    {
+      "id": 1627047271,
+      "member_id": 377898845,
+      "skill_id": 55736,
+      "created": "2016-12-15 14:42:27",
+      "last_updated": "2017-08-23 08:52:36",
+      "deleted": 1,
+      "member_skill_list": {
+        "id": 55736,
+        "skill": "decorative concrete",
+        "hash": "55c68a5ac50c2871060cd55fdc159b0b",
+        "created": "2016-07-22 16:32:47",
+        "last_updated": "2016-07-22 16:32:47"
+      }
+    }
+  ],
+  "member_test_scores_collection": [],
+  "member_volunteering_cares_collection": [],
+  "member_volunteering_opportunities_collection": [],
+  "member_volunteering_positions_collection": [],
+  "member_volunteering_supports_collection": [],
+  "member_websites_collection": [],
+  "member_also_viewed_collection": [
+    {
+      "id": 43400200946,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/jim-flynn-68443114",
+      "title": null,
+      "location": "Greater Asheville",
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 43400200945,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/mike-shi-66522b55",
+      "title": "Owner at SINO-AMERICA WELDING SUPPLY, INC.",
+      "location": "Houston, TX",
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 43400200944,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/garytoles",
+      "title": "Owner at Toles Group",
+      "location": "Gorman, TX",
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 43400200943,
+      "member_id": 377898845,
+      "url": "https://ec.linkedin.com/in/roy-wiffin-06a1bb1",
+      "title": "Owner, COTACACHI DESIGNs",
+      "location": "Cotacachi Canton",
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 43400200942,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/keith-powell-7b5aa39",
+      "title": "Owner, A. Keith Powell Interior/VIU Design Inc",
+      "location": "Miami-Fort Lauderdale Area",
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 43400200941,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/jimcutter",
+      "title": null,
+      "location": "Newport, KY",
+      "created": "2024-10-12 15:26:18",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 43400200940,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/72422",
+      "title": "Executive Recruiter-Homebuilding/Developers/Multifamily",
+      "location": "Newport Beach, CA",
+      "created": "2024-10-12 15:26:17",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866420003,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennisbaldwin",
+      "title": null,
+      "location": "Dripping Springs, TX",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 40866420000,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennismbaldwin",
+      "title": null,
+      "location": "Boston, MA",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 40866419999,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/servpro-steve-pearson-owner-28ab1a45",
+      "title": "Fire & Water Damage Repairs -24/7 - 630.554.2280",
+      "location": "Oswego, IL",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419996,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/kirkmjohnson",
+      "title": null,
+      "location": "Denver, CO",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419994,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/joepclark",
+      "title": null,
+      "location": "Greater Seattle Area",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419992,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/bill-feinberg-9b794120",
+      "title": null,
+      "location": "Fort Lauderdale, FL",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419990,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/rogermcmannis",
+      "title": null,
+      "location": "Big Piney, WY",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419987,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/charliedougherty",
+      "title": null,
+      "location": "Forest Hill, MD",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419984,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/stephen-b-chambers-aia-2425889",
+      "title": null,
+      "location": "Dallas, TX",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419982,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/forrestwoods",
+      "title": null,
+      "location": "Hurst, TX",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419980,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/vantage-design-construction-08590512",
+      "title": null,
+      "location": "Gretna, NE",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419978,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/gene-mcferron-jr-2340a693",
+      "title": null,
+      "location": "Troy, MO",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419975,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/joel-ortiz-1b56a6b6",
+      "title": null,
+      "location": "Greater Tampa Bay Area",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 40866419973,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/ashley-latourelle-9a2b024",
+      "title": null,
+      "location": "New York, NY",
+      "created": "2024-06-12 04:31:20",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 29152898549,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/sophia-malko-855392b8",
+      "title": "Private Client Banker at JPMorgan Chase Bank, N.A.",
+      "location": "United States",
+      "created": "2023-03-10 20:26:11",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235339,
+      "member_id": 377898845,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-78b93b22",
+      "title": "Adjudicator Arbitrator Mediator at Soma Contract Services",
+      "location": "Greater Cardiff Area",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235337,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-a5567216",
+      "title": "Division Manager at Summit Contracting Group, Inc.",
+      "location": "Alpharetta, GA",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235335,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-88613b25",
+      "title": "Experience sales leader",
+      "location": "Des Moines Metropolitan Area",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235333,
+      "member_id": 377898845,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-2364a819",
+      "title": "WBS Fire & Security Ltd",
+      "location": "London",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235331,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-8a4b916",
+      "title": "Owner, Dennis Baldwin Interiors",
+      "location": "San Jose, CA",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235329,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/kirkmjohnson",
+      "title": "Commercial & Residential Contractor\u25c6Insurance Claims-Roofing, Solar, Windows-We Treat Your Property Like It's Our Own!",
+      "location": "Denver, CO",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235327,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/joepclark",
+      "title": "CEO, at Architectural Elements & 10K Craft Installation",
+      "location": "Greater Seattle Area",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235325,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/bill-feinberg-9b794120",
+      "title": "Owner at Allied Kitchen & Bath and Ft Laud Chamber Chair of the Board 2020",
+      "location": "Fort Lauderdale, FL",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235322,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/rogermcmannis",
+      "title": "Copywriter specializing in the construction industry.",
+      "location": "Big Piney, WY",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235320,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/charliedougherty",
+      "title": "Construction Recruiter / Facilities Management Recruiter",
+      "location": "Forest Hill, MD",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235318,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/stephen-b-chambers-aia-2425889",
+      "title": "Dallas Texas Residential Architect",
+      "location": "Dallas, TX",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235316,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/forrestwoods",
+      "title": "JetStream Outdoor Cooling",
+      "location": "Dallas-Fort Worth Metroplex",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235315,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/jody-caliguire-bbb60523",
+      "title": "Owner, CENTRAL SITE DEVELOPMENT",
+      "location": "Lakeland, FL",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 23100235314,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/kerrymcguire1",
+      "title": "Owner, E&C Precast Concrete, Inc.",
+      "location": "Littleton, CO",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2025-02-08 18:37:40",
+      "deleted": 0
+    },
+    {
+      "id": 23100235313,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/vantage-design-construction-08590512",
+      "title": "Owner at Vantage Design & Construction",
+      "location": "Gretna, NE",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235312,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/gene-mcferron-jr-2340a693",
+      "title": "--Inventor / owner of Emlo valve \nRemote controlled, timed water shut off valve for homes.",
+      "location": "Troy, MO",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235311,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/joel-ortiz-1b56a6b6",
+      "title": "Owner at Aztech Painting, Inc.",
+      "location": "Greater Tampa Bay Area",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235310,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/debi-pfeffer-2a321652",
+      "title": "CBDMarketplace.com",
+      "location": "North Miami Beach, FL",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235309,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/leekroening",
+      "title": "Branch Manager at The Legend Group, CERTIFIED FINANCIAL PLANNER\u2122 practitioner",
+      "location": "Buffalo, NY",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235308,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/ashley-latourelle-9a2b024",
+      "title": "Senior Compliance Consultant, Compliance Risk Concepts (\"CRC\")",
+      "location": "New York, NY",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-06-12 04:31:20",
+      "deleted": 1
+    },
+    {
+      "id": 23100235307,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/christopher-keel-a1b21a38",
+      "title": "1rst Vice President  Private Client Banker, JP Morgan Chase Bank NA",
+      "location": "New York City Metropolitan Area",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235306,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/jill-greenwald-b12810149",
+      "title": "Investor, Advisor, Strategy Consultant for Start-Ups",
+      "location": "Scarsdale, NY",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235304,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/sophia-malko-855392b8",
+      "title": "Relationship Banker at JPMorgan Chase Bank, N.A.",
+      "location": "Santa Barbara, CA",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2023-03-10 20:26:11",
+      "deleted": 1
+    },
+    {
+      "id": 23100235302,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/roman-magiera-1929244",
+      "title": "Senior System Engineer at Fred Alger & Co",
+      "location": "Jersey City, NJ",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 23100235298,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/andrea-erickson-04095a38",
+      "title": "--",
+      "location": "United States",
+      "created": "2022-04-16 15:22:50",
+      "last_updated": "2024-10-12 15:26:17",
+      "deleted": 1
+    },
+    {
+      "id": 10850318231,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/charliedougherty?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318230,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/stephen-b-chambers-aia-2425889?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318229,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/forrestwoods?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318227,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/jody-caliguire-bbb60523?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318225,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/larry-white-94b55a44?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318223,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/kerrymcguire1?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318221,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/vantage-design-construction-08590512?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318219,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/gene-mcferron-jr-2340a693?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318218,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/joel-ortiz-1b56a6b6?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318217,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/atwood-custom-homes?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318215,
+      "member_id": 377898845,
+      "url": "https://uk.linkedin.com/in/dennis-baldwin-1313b564?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318213,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/debaldwin?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318211,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennis-baldwin-66a806?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318209,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennisbaldwin?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318208,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dennismbaldwin?trk=public_profile_samename_profile_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 10850318206,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/teleheath?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "title": null,
+      "location": null,
+      "created": "2020-02-22 01:36:29",
+      "last_updated": "2022-04-16 15:22:50",
+      "deleted": 1
+    },
+    {
+      "id": 6620488868,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/tedpaster?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488866,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/dari-b-634a569b?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488865,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/anne-hyndman-3ab5692b?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488864,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/hubert-wiesenmaier-8ab65821?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488863,
+      "member_id": 377898845,
+      "url": "https://cn.linkedin.com/in/jackie-mao-75351942?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488862,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/catherine-holzer-7615209?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488861,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/pamela-willis-211766118?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488860,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/anaobyrne?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    },
+    {
+      "id": 6620488859,
+      "member_id": 377898845,
+      "url": "https://www.linkedin.com/in/rick-finder-b16367b?trk=pub-pbmap",
+      "title": null,
+      "location": null,
+      "created": "2019-02-26 07:41:14",
+      "last_updated": "2020-02-22 01:36:29",
+      "deleted": 1
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+2025-06-30 13:40:08,303 - main - ERROR - Please provide a valid CoreSignal API key
+2025-06-30 13:41:48,997 - main - ERROR - Please provide a valid CoreSignal API key
+2025-06-30 13:43:14,674 - main - ERROR - Please provide a valid CoreSignal API key
+2025-06-30 13:44:54,697 - main - INFO - Loading data from leads.csv
+2025-06-30 13:44:54,712 - main - INFO - Loaded 216 records
+2025-06-30 13:44:54,712 - main - INFO - Starting enrichment of 216 records
+2025-06-30 13:44:54,723 - main - INFO - Processed 10/216 records
+2025-06-30 13:44:54,725 - main - INFO - Processed 20/216 records
+2025-06-30 13:44:54,726 - main - INFO - Processed 30/216 records
+2025-06-30 13:44:54,728 - main - INFO - Processed 40/216 records
+2025-06-30 13:44:54,729 - main - INFO - Processed 50/216 records
+2025-06-30 13:44:54,730 - main - INFO - Processed 60/216 records
+2025-06-30 13:44:54,732 - main - INFO - Processed 70/216 records
+2025-06-30 13:44:54,734 - main - INFO - Processed 80/216 records
+2025-06-30 13:44:54,736 - main - INFO - Processed 90/216 records
+2025-06-30 13:44:54,738 - main - INFO - Processed 100/216 records
+2025-06-30 13:44:54,739 - main - INFO - Processed 110/216 records
+2025-06-30 13:44:54,741 - main - INFO - Processed 120/216 records
+2025-06-30 13:44:54,743 - main - INFO - Processed 130/216 records
+2025-06-30 13:44:54,744 - main - INFO - Processed 140/216 records
+2025-06-30 13:44:54,746 - main - INFO - Processed 150/216 records
+2025-06-30 13:44:54,747 - main - INFO - Processed 160/216 records
+2025-06-30 13:44:54,749 - main - INFO - Processed 170/216 records
+2025-06-30 13:44:54,751 - main - INFO - Processed 180/216 records
+2025-06-30 13:44:54,753 - main - INFO - Processed 190/216 records
+2025-06-30 13:44:54,754 - main - INFO - Processed 200/216 records
+2025-06-30 13:44:54,756 - main - INFO - Processed 210/216 records
+2025-06-30 13:44:54,766 - main - INFO - Enrichment complete: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 13:44:54,786 - main - INFO - File saved successfully: output\enriched_leads_20250630_134454.csv
+2025-06-30 13:44:54,787 - main - INFO - Enrichment completed successfully. Output saved to: output\enriched_leads_20250630_134454.csv
+2025-06-30 13:44:54,787 - main - INFO - Final stats: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 13:53:01,908 - main - INFO - Loading data from leads.csv
+2025-06-30 13:53:01,930 - main - INFO - Loaded 216 records
+2025-06-30 13:53:01,930 - main - INFO - Starting enrichment of 216 records
+2025-06-30 13:53:01,942 - main - INFO - Processed 10/216 records
+2025-06-30 13:53:01,944 - main - INFO - Processed 20/216 records
+2025-06-30 13:53:01,945 - main - INFO - Processed 30/216 records
+2025-06-30 13:53:01,947 - main - INFO - Processed 40/216 records
+2025-06-30 13:53:01,948 - main - INFO - Processed 50/216 records
+2025-06-30 13:53:01,950 - main - INFO - Processed 60/216 records
+2025-06-30 13:53:01,952 - main - INFO - Processed 70/216 records
+2025-06-30 13:53:01,953 - main - INFO - Processed 80/216 records
+2025-06-30 13:53:01,955 - main - INFO - Processed 90/216 records
+2025-06-30 13:53:01,957 - main - INFO - Processed 100/216 records
+2025-06-30 13:53:01,959 - main - INFO - Processed 110/216 records
+2025-06-30 13:53:01,960 - main - INFO - Processed 120/216 records
+2025-06-30 13:53:01,962 - main - INFO - Processed 130/216 records
+2025-06-30 13:53:01,963 - main - INFO - Processed 140/216 records
+2025-06-30 13:53:01,964 - main - INFO - Processed 150/216 records
+2025-06-30 13:53:01,966 - main - INFO - Processed 160/216 records
+2025-06-30 13:53:01,968 - main - INFO - Processed 170/216 records
+2025-06-30 13:53:01,969 - main - INFO - Processed 180/216 records
+2025-06-30 13:53:01,970 - main - INFO - Processed 190/216 records
+2025-06-30 13:53:01,972 - main - INFO - Processed 200/216 records
+2025-06-30 13:53:01,974 - main - INFO - Processed 210/216 records
+2025-06-30 13:53:01,984 - main - INFO - Enrichment complete: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 13:53:02,004 - main - INFO - File saved successfully: output\enriched_leads_20250630_135301.csv
+2025-06-30 13:53:02,004 - main - INFO - Enrichment completed successfully. Output saved to: output\enriched_leads_20250630_135301.csv
+2025-06-30 13:53:02,005 - main - INFO - Final stats: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 13:56:57,188 - main - INFO - Loading data from leads.csv
+2025-06-30 13:56:57,202 - main - INFO - Loaded 216 records
+2025-06-30 13:56:57,203 - main - INFO - Starting enrichment of 216 records
+2025-06-30 13:56:57,213 - main - INFO - Processed 10/216 records
+2025-06-30 13:56:57,215 - main - INFO - Processed 20/216 records
+2025-06-30 13:56:57,217 - main - INFO - Processed 30/216 records
+2025-06-30 13:56:57,219 - main - INFO - Processed 40/216 records
+2025-06-30 13:56:57,222 - main - INFO - Processed 50/216 records
+2025-06-30 13:56:57,224 - main - INFO - Processed 60/216 records
+2025-06-30 13:56:57,226 - main - INFO - Processed 70/216 records
+2025-06-30 13:56:57,228 - main - INFO - Processed 80/216 records
+2025-06-30 13:56:57,229 - main - INFO - Processed 90/216 records
+2025-06-30 13:56:57,231 - main - INFO - Processed 100/216 records
+2025-06-30 13:56:57,233 - main - INFO - Processed 110/216 records
+2025-06-30 13:56:57,235 - main - INFO - Processed 120/216 records
+2025-06-30 13:56:57,236 - main - INFO - Processed 130/216 records
+2025-06-30 13:56:57,238 - main - INFO - Processed 140/216 records
+2025-06-30 13:56:57,240 - main - INFO - Processed 150/216 records
+2025-06-30 13:56:57,241 - main - INFO - Processed 160/216 records
+2025-06-30 13:56:57,243 - main - INFO - Processed 170/216 records
+2025-06-30 13:56:57,244 - main - INFO - Processed 180/216 records
+2025-06-30 13:56:57,246 - main - INFO - Processed 190/216 records
+2025-06-30 13:56:57,247 - main - INFO - Processed 200/216 records
+2025-06-30 13:56:57,249 - main - INFO - Processed 210/216 records
+2025-06-30 13:56:57,259 - main - INFO - Enrichment complete: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 13:56:57,283 - main - INFO - File saved successfully: output\enriched_leads_20250630_135657.csv
+2025-06-30 13:56:57,284 - main - INFO - Enrichment completed successfully. Output saved to: output\enriched_leads_20250630_135657.csv
+2025-06-30 13:56:57,284 - main - INFO - Final stats: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 14:04:30,050 - main - INFO - Loading data from leads.csv
+2025-06-30 14:04:30,065 - main - INFO - Loaded 216 records
+2025-06-30 14:04:30,065 - main - INFO - Starting enrichment of 216 records
+2025-06-30 14:04:30,076 - main - INFO - Processed 10/216 records
+2025-06-30 14:04:30,077 - main - INFO - Processed 20/216 records
+2025-06-30 14:04:30,079 - main - INFO - Processed 30/216 records
+2025-06-30 14:04:30,080 - main - INFO - Processed 40/216 records
+2025-06-30 14:04:30,081 - main - INFO - Processed 50/216 records
+2025-06-30 14:04:30,083 - main - INFO - Processed 60/216 records
+2025-06-30 14:04:30,085 - main - INFO - Processed 70/216 records
+2025-06-30 14:04:30,086 - main - INFO - Processed 80/216 records
+2025-06-30 14:04:30,089 - main - INFO - Processed 90/216 records
+2025-06-30 14:04:30,090 - main - INFO - Processed 100/216 records
+2025-06-30 14:04:30,092 - main - INFO - Processed 110/216 records
+2025-06-30 14:04:30,093 - main - INFO - Processed 120/216 records
+2025-06-30 14:04:30,094 - main - INFO - Processed 130/216 records
+2025-06-30 14:04:30,096 - main - INFO - Processed 140/216 records
+2025-06-30 14:04:30,097 - main - INFO - Processed 150/216 records
+2025-06-30 14:04:30,098 - main - INFO - Processed 160/216 records
+2025-06-30 14:04:30,101 - main - INFO - Processed 170/216 records
+2025-06-30 14:04:30,102 - main - INFO - Processed 180/216 records
+2025-06-30 14:04:30,104 - main - INFO - Processed 190/216 records
+2025-06-30 14:04:30,106 - main - INFO - Processed 200/216 records
+2025-06-30 14:04:30,108 - main - INFO - Processed 210/216 records
+2025-06-30 14:04:30,120 - main - INFO - Enrichment complete: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}
+2025-06-30 14:04:30,139 - main - INFO - File saved successfully: output\enriched_leads_20250630_140430.csv
+2025-06-30 14:04:30,140 - main - INFO - Enrichment completed successfully. Output saved to: output\enriched_leads_20250630_140430.csv
+2025-06-30 14:04:30,140 - main - INFO - Final stats: {'processed': 216, 'person_matches': 0, 'company_matches': 0, 'api_errors': 0}

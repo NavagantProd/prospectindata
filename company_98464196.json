@@ -1,0 +1,83 @@
+{
+  "id": 98464196,
+  "url": "https://www.linkedin.com/company/linkit-puerto-rico-inc",
+  "hash": "e7c92e9c2b2e4399b540e64a1c85633e",
+  "name": "Linkit Puerto Rico, Inc",
+  "website": "https://test.linkit.com",
+  "size": null,
+  "industry": null,
+  "description": null,
+  "followers": 1,
+  "founded": null,
+  "headquarters_city": null,
+  "headquarters_country": null,
+  "headquarters_state": null,
+  "headquarters_street1": null,
+  "headquarters_street2": null,
+  "headquarters_zip": null,
+  "logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+  "created": "2025-05-18 19:02:27",
+  "last_updated": "2025-07-08 07:32:47",
+  "last_response_code": 200,
+  "type": null,
+  "headquarters_new_address": "San Juan, Puerto Rico",
+  "employees_count": 3,
+  "headquarters_country_restored": null,
+  "headquarters_country_parsed": "United States",
+  "company_shorthand_name": "linkit-puerto-rico-inc",
+  "company_shorthand_name_hash": "e280b93c328992d302c6afc0fda6d3ef",
+  "canonical_url": "https://www.linkedin.com/company/linkit-puerto-rico-inc",
+  "canonical_hash": "e7c92e9c2b2e4399b540e64a1c85633e",
+  "canonical_shorthand_name": "linkit-puerto-rico-inc",
+  "canonical_shorthand_name_hash": "e280b93c328992d302c6afc0fda6d3ef",
+  "deleted": 0,
+  "last_updated_ux": 1751959967,
+  "source_id": 97743118,
+  "company_affiliated_collection": [],
+  "company_also_viewed_collection": [],
+  "company_crunchbase_info_collection": [],
+  "company_featured_employees_collection": [
+    {
+      "id": 225650191,
+      "company_id": 98464196,
+      "url": "https://pr.linkedin.com/in/alexruiz-pr",
+      "created": "2025-05-18 19:02:27",
+      "last_updated": "2025-07-08 07:32:47",
+      "deleted": 0
+    }
+  ],
+  "company_featured_investors_collection": [],
+  "company_funding_rounds_collection": [],
+  "company_locations_collection": [
+    {
+      "id": 144918794,
+      "company_id": 98464196,
+      "location_address": "255 Ave Ponce De Leon Ste 510; San Juan, Puerto Rico 00917, US",
+      "is_primary": 0,
+      "created": "2025-05-18 19:02:27",
+      "last_updated": "2025-07-08 07:32:47",
+      "deleted": 0
+    }
+  ],
+  "company_similar_collection": [
+    {
+      "id": 1212702807,
+      "company_id": 98464196,
+      "url": "https://www.linkedin.com/company/southdade-toyota-of-homestead",
+      "created": "2025-05-18 19:02:27",
+      "last_updated": "2025-07-08 07:32:47",
+      "deleted": 0
+    },
+    {
+      "id": 1212702808,
+      "company_id": 98464196,
+      "url": "https://www.linkedin.com/company/south-dade-kia-of-miami",
+      "created": "2025-05-18 19:02:27",
+      "last_updated": "2025-07-08 07:32:47",
+      "deleted": 0
+    }
+  ],
+  "company_specialties_collection": [],
+  "company_stock_info_collection": [],
+  "company_updates_collection": []
+}

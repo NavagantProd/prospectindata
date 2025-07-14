@@ -1,0 +1,189 @@
+{
+  "id": 8312038,
+  "url": "https://www.linkedin.com/company/linki-tools",
+  "hash": "cf3868b0d8fdcbbd8a2172f6de269561",
+  "name": "Linki Tools",
+  "website": "http://linki.tools",
+  "size": "1-10 employees",
+  "industry": "Computer Software",
+  "description": "Linki Tools is a development tools consultancy geared towards providing custom solutions to both big and small clients.",
+  "followers": 4,
+  "founded": 2015,
+  "headquarters_city": "Eckental",
+  "headquarters_country": "Germany",
+  "headquarters_state": null,
+  "headquarters_street1": "Bruehlstr. 35",
+  "headquarters_street2": null,
+  "headquarters_zip": null,
+  "logo_url": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAUdAAAAJDQxYjkwYzVjLTZiNzYtNGFmNC04MzFkLTFmYzViNWM4M2JjOA.png",
+  "created": "2016-06-25 06:52:01",
+  "last_updated": "2025-07-06 16:35:11",
+  "last_response_code": 404,
+  "type": null,
+  "headquarters_new_address": null,
+  "employees_count": null,
+  "headquarters_country_restored": "Germany",
+  "headquarters_country_parsed": "Germany",
+  "company_shorthand_name": "linki-tools",
+  "company_shorthand_name_hash": "5d20a037cb54469f45932cd4e35d23a6",
+  "canonical_url": "https://www.linkedin.com/company/linki-tools",
+  "canonical_hash": "cf3868b0d8fdcbbd8a2172f6de269561",
+  "canonical_shorthand_name": "linki-tools",
+  "canonical_shorthand_name_hash": "5d20a037cb54469f45932cd4e35d23a6",
+  "deleted": 1,
+  "last_updated_ux": 1751819711,
+  "source_id": null,
+  "company_affiliated_collection": [],
+  "company_also_viewed_collection": [
+    {
+      "id": 67776260,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/biker-tools",
+      "viewed_company_id": null,
+      "created": "2016-12-29 00:40:19",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 67776261,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/us-tools-vertriebs-gmbh",
+      "viewed_company_id": null,
+      "created": "2016-12-29 00:40:19",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 67776262,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/dry-tools-gmbh",
+      "viewed_company_id": null,
+      "created": "2016-12-29 00:40:19",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 67776263,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/power-tools-gmbh",
+      "viewed_company_id": null,
+      "created": "2016-12-29 00:40:19",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 67776264,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/kungfu-tools",
+      "viewed_company_id": null,
+      "created": "2016-12-29 00:40:19",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 67776265,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/business-tools-gmbh-werbeagentur",
+      "viewed_company_id": null,
+      "created": "2016-12-29 00:40:19",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 31269652,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/alamos-ug-haftungsbeschr%C3%A4nkt-",
+      "viewed_company_id": null,
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2016-12-29 00:40:19",
+      "deleted": 1
+    },
+    {
+      "id": 31269653,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/heart-of-praise-radio",
+      "viewed_company_id": null,
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2016-12-29 00:40:19",
+      "deleted": 1
+    },
+    {
+      "id": 31269654,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/hedgecreek",
+      "viewed_company_id": null,
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2016-12-29 00:40:19",
+      "deleted": 1
+    },
+    {
+      "id": 31269655,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/lepanost-aviation-services-limited",
+      "viewed_company_id": null,
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2016-12-29 00:40:19",
+      "deleted": 1
+    },
+    {
+      "id": 31269656,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/lungis-concept",
+      "viewed_company_id": null,
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2016-12-29 00:40:19",
+      "deleted": 1
+    },
+    {
+      "id": 31269657,
+      "company_id": 8312038,
+      "viewed_company_url": "https://www.linkedin.com/company/obsessively-creative-cc",
+      "viewed_company_id": null,
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2016-12-29 00:40:19",
+      "deleted": 1
+    }
+  ],
+  "company_crunchbase_info_collection": [],
+  "company_featured_employees_collection": [],
+  "company_featured_investors_collection": [],
+  "company_funding_rounds_collection": [],
+  "company_locations_collection": [],
+  "company_similar_collection": [],
+  "company_specialties_collection": [
+    {
+      "id": 11698253,
+      "company_id": 8312038,
+      "specialty": "Development Tools",
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 11698254,
+      "company_id": 8312038,
+      "specialty": "Compilers",
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 11698255,
+      "company_id": 8312038,
+      "specialty": "Custom Tools Solutions",
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    },
+    {
+      "id": 11698256,
+      "company_id": 8312038,
+      "specialty": "GCC",
+      "created": "2016-06-25 06:52:01",
+      "last_updated": "2019-06-01 06:18:23",
+      "deleted": 1
+    }
+  ],
+  "company_stock_info_collection": [],
+  "company_updates_collection": []
+}

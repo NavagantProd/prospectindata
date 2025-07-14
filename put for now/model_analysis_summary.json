@@ -1,0 +1,143 @@
+{
+  "test_data_analysis": {
+    "total_test_records": 43,
+    "target_distribution": {
+      "0.0": 23,
+      "1.0": 20
+    },
+    "target_rate": 0.46511627906976744
+  },
+  "model_performance": {
+    "categorical": {
+      "train_accuracy": 1.0,
+      "test_accuracy": 1.0,
+      "top_features": [
+        {
+          "feature": "employee_deleted_encoded",
+          "importance": 0.3604196152043015
+        },
+        {
+          "feature": "employee_last_response_code_encoded",
+          "importance": 0.2971672539491637
+        },
+        {
+          "feature": "employee_industry_encoded",
+          "importance": 0.17164810247791104
+        },
+        {
+          "feature": "employee_education_count_encoded",
+          "importance": 0.08709201116273478
+        },
+        {
+          "feature": "employee_experience_6_duration_encoded",
+          "importance": 0.053664809902625996
+        }
+      ]
+    },
+    "continuous": {
+      "train_accuracy": 1.0,
+      "test_accuracy": 1.0,
+      "top_features": [
+        {
+          "feature": "employee_experience_count_missing",
+          "importance": 0.41776454220065207
+        },
+        {
+          "feature": "employee_connections_count_missing",
+          "importance": 0.23829340943179922
+        },
+        {
+          "feature": "employee_recommendations_count_missing",
+          "importance": 0.23665334118202885
+        },
+        {
+          "feature": "company_match_score",
+          "importance": 0.04971513025925353
+        },
+        {
+          "feature": "company_followers_missing",
+          "importance": 0.02214876466457504
+        }
+      ]
+    },
+    "combined": {
+      "train_accuracy": 1.0,
+      "test_accuracy": 1.0,
+      "top_features": [
+        {
+          "feature": "employee_experience_count_missing",
+          "importance": 0.14000000000000004
+        },
+        {
+          "feature": "employee_canonical_hash_te",
+          "importance": 0.12100297867901572
+        },
+        {
+          "feature": "employee_last_response_code_encoded",
+          "importance": 0.11074207722726705
+        },
+        {
+          "feature": "employee_created_te",
+          "importance": 0.11025443543321363
+        },
+        {
+          "feature": "employee_hash_te",
+          "importance": 0.10999999999999993
+        }
+      ]
+    }
+  },
+  "feature_insights": {
+    "most_important_feature": "employee_experience_count_missing",
+    "most_important_importance": 0.14000000000000004,
+    "top_10_features": [
+      {
+        "feature": "employee_experience_count_missing",
+        "importance": 0.14000000000000004
+      },
+      {
+        "feature": "employee_canonical_hash_te",
+        "importance": 0.12100297867901572
+      },
+      {
+        "feature": "employee_last_response_code_encoded",
+        "importance": 0.11074207722726705
+      },
+      {
+        "feature": "employee_created_te",
+        "importance": 0.11025443543321363
+      },
+      {
+        "feature": "employee_hash_te",
+        "importance": 0.10999999999999993
+      },
+      {
+        "feature": "employee_location_te",
+        "importance": 0.08120969942105412
+      },
+      {
+        "feature": "employee_deleted_encoded",
+        "importance": 0.08052218378920674
+      },
+      {
+        "feature": "employee_connections_count_missing",
+        "importance": 0.05925542939544453
+      },
+      {
+        "feature": "employee_experience_json_te",
+        "importance": 0.048480167720788704
+      },
+      {
+        "feature": "employee_recommendations_count_missing",
+        "importance": 0.03975054626140728
+      }
+    ]
+  },
+  "recommendations": [
+    "Best performing model: categorical (Test Accuracy: 100.0%)",
+    "Most important factor: employee_experience_count_missing",
+    "Continuous features are more predictive than categorical features"
+  ],
+  "best_model": "categorical",
+  "best_accuracy": 1.0
+}

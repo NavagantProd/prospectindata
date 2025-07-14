@@ -1,0 +1,1304 @@
+2025-06-30 11:13:54,604 INFO ==============================
+2025-06-30 11:13:54,604 INFO Starting Company/Employee Enrichment Script
+2025-06-30 11:13:54,604 INFO Input CSV: enhanced_enrichment.csv
+2025-06-30 11:13:54,604 INFO Output CSV: finalenrichment.csv
+2025-06-30 11:13:54,605 INFO Checkpoint file: enrichment_checkpoint.json
+2025-06-30 11:13:54,605 INFO Log file: enrichment.log
+2025-06-30 11:13:54,605 INFO ==============================
+2025-06-30 11:13:54,612 INFO Loaded 105 companies. 0 already processed. Starting enrichment.
+2025-06-30 11:13:54,672 INFO Processing company: 12082782.0 (None)
+2025-06-30 11:13:54,673 ERROR Exception for company 12082782.0: invalid literal for int() with base 10: '12082782.0'
+2025-06-30 11:13:54,673 INFO   Found 0 employees for company 12082782.0
+2025-06-30 11:13:54,673 WARNING No employees found for company 12082782.0
+2025-06-30 11:13:54,674 DEBUG Checkpoint saved after company 12082782.0
+2025-06-30 11:13:55,674 INFO Processing company: 5430751.0 (None)
+2025-06-30 11:13:55,675 ERROR Exception for company 5430751.0: invalid literal for int() with base 10: '5430751.0'
+2025-06-30 11:13:55,675 INFO   Found 0 employees for company 5430751.0
+2025-06-30 11:13:55,675 WARNING No employees found for company 5430751.0
+2025-06-30 11:13:55,676 DEBUG Checkpoint saved after company 5430751.0
+2025-06-30 11:13:56,677 INFO Processing company: 12031460.0 (None)
+2025-06-30 11:13:56,678 ERROR Exception for company 12031460.0: invalid literal for int() with base 10: '12031460.0'
+2025-06-30 11:13:56,678 INFO   Found 0 employees for company 12031460.0
+2025-06-30 11:13:56,679 WARNING No employees found for company 12031460.0
+2025-06-30 11:13:56,680 DEBUG Checkpoint saved after company 12031460.0
+2025-06-30 11:13:57,681 INFO Processing company: 7658963.0 (None)
+2025-06-30 11:13:57,682 ERROR Exception for company 7658963.0: invalid literal for int() with base 10: '7658963.0'
+2025-06-30 11:13:57,682 INFO   Found 0 employees for company 7658963.0
+2025-06-30 11:13:57,682 WARNING No employees found for company 7658963.0
+2025-06-30 11:13:57,684 DEBUG Checkpoint saved after company 7658963.0
+2025-06-30 11:13:58,685 INFO Processing company: 92776304.0 (None)
+2025-06-30 11:13:58,686 ERROR Exception for company 92776304.0: invalid literal for int() with base 10: '92776304.0'
+2025-06-30 11:13:58,686 INFO   Found 0 employees for company 92776304.0
+2025-06-30 11:13:58,686 WARNING No employees found for company 92776304.0
+2025-06-30 11:13:58,687 DEBUG Checkpoint saved after company 92776304.0
+2025-06-30 11:13:59,688 INFO Processing company: 97706126.0 (None)
+2025-06-30 11:13:59,689 ERROR Exception for company 97706126.0: invalid literal for int() with base 10: '97706126.0'
+2025-06-30 11:13:59,689 INFO   Found 0 employees for company 97706126.0
+2025-06-30 11:13:59,689 WARNING No employees found for company 97706126.0
+2025-06-30 11:13:59,691 DEBUG Checkpoint saved after company 97706126.0
+2025-06-30 11:14:00,691 INFO Processing company: 33639471.0 (None)
+2025-06-30 11:14:00,692 ERROR Exception for company 33639471.0: invalid literal for int() with base 10: '33639471.0'
+2025-06-30 11:14:00,692 INFO   Found 0 employees for company 33639471.0
+2025-06-30 11:14:00,693 WARNING No employees found for company 33639471.0
+2025-06-30 11:14:00,694 DEBUG Checkpoint saved after company 33639471.0
+2025-06-30 11:14:01,695 INFO Processing company: 93990242.0 (None)
+2025-06-30 11:14:01,695 ERROR Exception for company 93990242.0: invalid literal for int() with base 10: '93990242.0'
+2025-06-30 11:14:01,696 INFO   Found 0 employees for company 93990242.0
+2025-06-30 11:14:01,696 WARNING No employees found for company 93990242.0
+2025-06-30 11:14:01,697 DEBUG Checkpoint saved after company 93990242.0
+2025-06-30 11:14:02,698 INFO Processing company: 6691353.0 (None)
+2025-06-30 11:14:02,699 ERROR Exception for company 6691353.0: invalid literal for int() with base 10: '6691353.0'
+2025-06-30 11:14:02,699 INFO   Found 0 employees for company 6691353.0
+2025-06-30 11:14:02,700 WARNING No employees found for company 6691353.0
+2025-06-30 11:14:02,701 DEBUG Checkpoint saved after company 6691353.0
+2025-06-30 11:14:03,702 INFO Processing company: 88845187.0 (None)
+2025-06-30 11:14:03,702 ERROR Exception for company 88845187.0: invalid literal for int() with base 10: '88845187.0'
+2025-06-30 11:14:03,703 INFO   Found 0 employees for company 88845187.0
+2025-06-30 11:14:03,703 WARNING No employees found for company 88845187.0
+2025-06-30 11:14:03,705 DEBUG Checkpoint saved after company 88845187.0
+2025-06-30 11:14:04,706 INFO Processing company: 94371715.0 (None)
+2025-06-30 11:14:04,706 ERROR Exception for company 94371715.0: invalid literal for int() with base 10: '94371715.0'
+2025-06-30 11:14:04,707 INFO   Found 0 employees for company 94371715.0
+2025-06-30 11:14:04,707 WARNING No employees found for company 94371715.0
+2025-06-30 11:14:04,709 DEBUG Checkpoint saved after company 94371715.0
+2025-06-30 11:14:05,710 INFO Processing company: 1254411.0 (None)
+2025-06-30 11:14:05,710 ERROR Exception for company 1254411.0: invalid literal for int() with base 10: '1254411.0'
+2025-06-30 11:14:05,710 INFO   Found 0 employees for company 1254411.0
+2025-06-30 11:14:05,711 WARNING No employees found for company 1254411.0
+2025-06-30 11:14:05,712 DEBUG Checkpoint saved after company 1254411.0
+2025-06-30 11:14:06,712 INFO Processing company: 7470067.0 (None)
+2025-06-30 11:14:06,713 ERROR Exception for company 7470067.0: invalid literal for int() with base 10: '7470067.0'
+2025-06-30 11:14:06,713 INFO   Found 0 employees for company 7470067.0
+2025-06-30 11:14:06,714 WARNING No employees found for company 7470067.0
+2025-06-30 11:14:06,715 DEBUG Checkpoint saved after company 7470067.0
+2025-06-30 11:14:07,716 INFO Processing company: 7721630.0 (None)
+2025-06-30 11:14:07,716 ERROR Exception for company 7721630.0: invalid literal for int() with base 10: '7721630.0'
+2025-06-30 11:14:07,717 INFO   Found 0 employees for company 7721630.0
+2025-06-30 11:14:07,717 WARNING No employees found for company 7721630.0
+2025-06-30 11:14:07,718 DEBUG Checkpoint saved after company 7721630.0
+2025-06-30 11:14:08,719 INFO Processing company: 88703628.0 (None)
+2025-06-30 11:14:08,720 ERROR Exception for company 88703628.0: invalid literal for int() with base 10: '88703628.0'
+2025-06-30 11:14:08,720 INFO   Found 0 employees for company 88703628.0
+2025-06-30 11:14:08,721 WARNING No employees found for company 88703628.0
+2025-06-30 11:14:08,722 DEBUG Checkpoint saved after company 88703628.0
+2025-06-30 11:14:09,723 INFO Processing company: 25738707.0 (None)
+2025-06-30 11:14:09,724 ERROR Exception for company 25738707.0: invalid literal for int() with base 10: '25738707.0'
+2025-06-30 11:14:09,724 INFO   Found 0 employees for company 25738707.0
+2025-06-30 11:14:09,724 WARNING No employees found for company 25738707.0
+2025-06-30 11:14:09,725 DEBUG Checkpoint saved after company 25738707.0
+2025-06-30 11:14:10,726 INFO Processing company: 88114714.0 (None)
+2025-06-30 11:14:10,727 ERROR Exception for company 88114714.0: invalid literal for int() with base 10: '88114714.0'
+2025-06-30 11:14:10,728 INFO   Found 0 employees for company 88114714.0
+2025-06-30 11:14:10,728 WARNING No employees found for company 88114714.0
+2025-06-30 11:14:10,729 DEBUG Checkpoint saved after company 88114714.0
+2025-06-30 11:14:11,731 INFO Processing company: 89743218.0 (None)
+2025-06-30 11:14:11,731 ERROR Exception for company 89743218.0: invalid literal for int() with base 10: '89743218.0'
+2025-06-30 11:14:11,732 INFO   Found 0 employees for company 89743218.0
+2025-06-30 11:14:11,732 WARNING No employees found for company 89743218.0
+2025-06-30 11:14:11,734 DEBUG Checkpoint saved after company 89743218.0
+2025-06-30 11:14:12,735 INFO Processing company: 2887601.0 (None)
+2025-06-30 11:14:12,735 ERROR Exception for company 2887601.0: invalid literal for int() with base 10: '2887601.0'
+2025-06-30 11:14:12,736 INFO   Found 0 employees for company 2887601.0
+2025-06-30 11:14:12,736 WARNING No employees found for company 2887601.0
+2025-06-30 11:14:12,737 DEBUG Checkpoint saved after company 2887601.0
+2025-06-30 11:14:13,742 INFO Processing company: 3331869.0 (None)
+2025-06-30 11:14:13,743 ERROR Exception for company 3331869.0: invalid literal for int() with base 10: '3331869.0'
+2025-06-30 11:14:13,743 INFO   Found 0 employees for company 3331869.0
+2025-06-30 11:14:13,744 WARNING No employees found for company 3331869.0
+2025-06-30 11:14:13,745 DEBUG Checkpoint saved after company 3331869.0
+2025-06-30 11:14:14,746 INFO Processing company: 97628346.0 (None)
+2025-06-30 11:14:14,746 ERROR Exception for company 97628346.0: invalid literal for int() with base 10: '97628346.0'
+2025-06-30 11:14:14,747 INFO   Found 0 employees for company 97628346.0
+2025-06-30 11:14:14,747 WARNING No employees found for company 97628346.0
+2025-06-30 11:14:14,748 DEBUG Checkpoint saved after company 97628346.0
+2025-06-30 11:14:15,749 INFO Processing company: 3350518.0 (None)
+2025-06-30 11:14:15,749 ERROR Exception for company 3350518.0: invalid literal for int() with base 10: '3350518.0'
+2025-06-30 11:14:15,750 INFO   Found 0 employees for company 3350518.0
+2025-06-30 11:14:15,750 WARNING No employees found for company 3350518.0
+2025-06-30 11:14:15,752 DEBUG Checkpoint saved after company 3350518.0
+2025-06-30 11:14:16,753 INFO Processing company: 2024332.0 (None)
+2025-06-30 11:14:16,753 ERROR Exception for company 2024332.0: invalid literal for int() with base 10: '2024332.0'
+2025-06-30 11:14:16,754 INFO   Found 0 employees for company 2024332.0
+2025-06-30 11:14:16,754 WARNING No employees found for company 2024332.0
+2025-06-30 11:14:16,755 DEBUG Checkpoint saved after company 2024332.0
+2025-06-30 11:14:17,756 INFO Processing company: 23294425.0 (None)
+2025-06-30 11:14:17,756 ERROR Exception for company 23294425.0: invalid literal for int() with base 10: '23294425.0'
+2025-06-30 11:14:17,756 INFO   Found 0 employees for company 23294425.0
+2025-06-30 11:14:17,756 WARNING No employees found for company 23294425.0
+2025-06-30 11:14:17,757 DEBUG Checkpoint saved after company 23294425.0
+2025-06-30 11:14:18,758 INFO Processing company: 8388598.0 (None)
+2025-06-30 11:14:18,758 ERROR Exception for company 8388598.0: invalid literal for int() with base 10: '8388598.0'
+2025-06-30 11:14:18,759 INFO   Found 0 employees for company 8388598.0
+2025-06-30 11:14:18,759 WARNING No employees found for company 8388598.0
+2025-06-30 11:14:18,760 DEBUG Checkpoint saved after company 8388598.0
+2025-06-30 11:14:19,761 INFO Processing company: 94147208.0 (None)
+2025-06-30 11:14:19,761 ERROR Exception for company 94147208.0: invalid literal for int() with base 10: '94147208.0'
+2025-06-30 11:14:19,761 INFO   Found 0 employees for company 94147208.0
+2025-06-30 11:14:19,762 WARNING No employees found for company 94147208.0
+2025-06-30 11:14:19,763 DEBUG Checkpoint saved after company 94147208.0
+2025-06-30 11:14:20,763 INFO Processing company: 96187432.0 (None)
+2025-06-30 11:14:20,764 ERROR Exception for company 96187432.0: invalid literal for int() with base 10: '96187432.0'
+2025-06-30 11:14:20,764 INFO   Found 0 employees for company 96187432.0
+2025-06-30 11:14:20,764 WARNING No employees found for company 96187432.0
+2025-06-30 11:14:20,765 DEBUG Checkpoint saved after company 96187432.0
+2025-06-30 11:14:21,766 INFO Processing company: 98382344.0 (None)
+2025-06-30 11:14:21,767 ERROR Exception for company 98382344.0: invalid literal for int() with base 10: '98382344.0'
+2025-06-30 11:14:21,767 INFO   Found 0 employees for company 98382344.0
+2025-06-30 11:14:21,767 WARNING No employees found for company 98382344.0
+2025-06-30 11:14:21,768 DEBUG Checkpoint saved after company 98382344.0
+2025-06-30 11:14:22,769 INFO Processing company: 4486624.0 (None)
+2025-06-30 11:14:22,770 ERROR Exception for company 4486624.0: invalid literal for int() with base 10: '4486624.0'
+2025-06-30 11:14:22,770 INFO   Found 0 employees for company 4486624.0
+2025-06-30 11:14:22,770 WARNING No employees found for company 4486624.0
+2025-06-30 11:14:22,771 DEBUG Checkpoint saved after company 4486624.0
+2025-06-30 11:14:23,772 INFO Processing company: 25970118.0 (None)
+2025-06-30 11:14:23,773 ERROR Exception for company 25970118.0: invalid literal for int() with base 10: '25970118.0'
+2025-06-30 11:14:23,773 INFO   Found 0 employees for company 25970118.0
+2025-06-30 11:14:23,773 WARNING No employees found for company 25970118.0
+2025-06-30 11:14:23,775 DEBUG Checkpoint saved after company 25970118.0
+2025-06-30 11:14:24,776 INFO Processing company: 5906149.0 (None)
+2025-06-30 11:14:24,776 ERROR Exception for company 5906149.0: invalid literal for int() with base 10: '5906149.0'
+2025-06-30 11:14:24,777 INFO   Found 0 employees for company 5906149.0
+2025-06-30 11:14:24,777 WARNING No employees found for company 5906149.0
+2025-06-30 11:14:24,778 DEBUG Checkpoint saved after company 5906149.0
+2025-06-30 11:14:25,779 INFO Processing company: 11956033.0 (None)
+2025-06-30 11:14:25,779 ERROR Exception for company 11956033.0: invalid literal for int() with base 10: '11956033.0'
+2025-06-30 11:14:25,779 INFO   Found 0 employees for company 11956033.0
+2025-06-30 11:14:25,779 WARNING No employees found for company 11956033.0
+2025-06-30 11:14:25,780 DEBUG Checkpoint saved after company 11956033.0
+2025-06-30 11:14:26,781 INFO Processing company: 25725698.0 (None)
+2025-06-30 11:14:26,781 ERROR Exception for company 25725698.0: invalid literal for int() with base 10: '25725698.0'
+2025-06-30 11:14:26,781 INFO   Found 0 employees for company 25725698.0
+2025-06-30 11:14:26,782 WARNING No employees found for company 25725698.0
+2025-06-30 11:14:26,783 DEBUG Checkpoint saved after company 25725698.0
+2025-06-30 11:14:27,784 INFO Processing company: 96061136.0 (None)
+2025-06-30 11:14:27,784 ERROR Exception for company 96061136.0: invalid literal for int() with base 10: '96061136.0'
+2025-06-30 11:14:27,784 INFO   Found 0 employees for company 96061136.0
+2025-06-30 11:14:27,784 WARNING No employees found for company 96061136.0
+2025-06-30 11:14:27,785 DEBUG Checkpoint saved after company 96061136.0
+2025-06-30 11:14:28,787 INFO Processing company: 93203680.0 (None)
+2025-06-30 11:14:28,788 ERROR Exception for company 93203680.0: invalid literal for int() with base 10: '93203680.0'
+2025-06-30 11:14:28,788 INFO   Found 0 employees for company 93203680.0
+2025-06-30 11:14:28,788 WARNING No employees found for company 93203680.0
+2025-06-30 11:14:28,789 DEBUG Checkpoint saved after company 93203680.0
+2025-06-30 11:14:29,790 INFO Processing company: 93679441.0 (None)
+2025-06-30 11:14:29,791 ERROR Exception for company 93679441.0: invalid literal for int() with base 10: '93679441.0'
+2025-06-30 11:14:29,791 INFO   Found 0 employees for company 93679441.0
+2025-06-30 11:14:29,791 WARNING No employees found for company 93679441.0
+2025-06-30 11:14:29,792 DEBUG Checkpoint saved after company 93679441.0
+2025-06-30 11:14:30,793 INFO Processing company: 20820752.0 (None)
+2025-06-30 11:14:30,794 ERROR Exception for company 20820752.0: invalid literal for int() with base 10: '20820752.0'
+2025-06-30 11:14:30,794 INFO   Found 0 employees for company 20820752.0
+2025-06-30 11:14:30,794 WARNING No employees found for company 20820752.0
+2025-06-30 11:14:30,796 DEBUG Checkpoint saved after company 20820752.0
+2025-06-30 11:14:31,796 INFO Processing company: 95442385.0 (None)
+2025-06-30 11:14:31,797 ERROR Exception for company 95442385.0: invalid literal for int() with base 10: '95442385.0'
+2025-06-30 11:14:31,797 INFO   Found 0 employees for company 95442385.0
+2025-06-30 11:14:31,797 WARNING No employees found for company 95442385.0
+2025-06-30 11:14:31,798 DEBUG Checkpoint saved after company 95442385.0
+2025-06-30 11:14:32,800 INFO Processing company: 6545985.0 (None)
+2025-06-30 11:14:32,800 ERROR Exception for company 6545985.0: invalid literal for int() with base 10: '6545985.0'
+2025-06-30 11:14:32,800 INFO   Found 0 employees for company 6545985.0
+2025-06-30 11:14:32,801 WARNING No employees found for company 6545985.0
+2025-06-30 11:14:32,802 DEBUG Checkpoint saved after company 6545985.0
+2025-06-30 11:14:33,803 INFO Processing company: 33439450.0 (None)
+2025-06-30 11:14:33,803 ERROR Exception for company 33439450.0: invalid literal for int() with base 10: '33439450.0'
+2025-06-30 11:14:33,803 INFO   Found 0 employees for company 33439450.0
+2025-06-30 11:14:33,803 WARNING No employees found for company 33439450.0
+2025-06-30 11:14:33,804 DEBUG Checkpoint saved after company 33439450.0
+2025-06-30 11:14:34,805 INFO Processing company: 1666990.0 (None)
+2025-06-30 11:14:34,806 ERROR Exception for company 1666990.0: invalid literal for int() with base 10: '1666990.0'
+2025-06-30 11:14:34,806 INFO   Found 0 employees for company 1666990.0
+2025-06-30 11:14:34,806 WARNING No employees found for company 1666990.0
+2025-06-30 11:14:34,807 DEBUG Checkpoint saved after company 1666990.0
+2025-06-30 11:14:35,808 INFO Processing company: 88779576.0 (None)
+2025-06-30 11:14:35,809 ERROR Exception for company 88779576.0: invalid literal for int() with base 10: '88779576.0'
+2025-06-30 11:14:35,809 INFO   Found 0 employees for company 88779576.0
+2025-06-30 11:14:35,809 WARNING No employees found for company 88779576.0
+2025-06-30 11:14:35,810 DEBUG Checkpoint saved after company 88779576.0
+2025-06-30 11:14:36,811 INFO Processing company: 2583417.0 (None)
+2025-06-30 11:14:36,811 ERROR Exception for company 2583417.0: invalid literal for int() with base 10: '2583417.0'
+2025-06-30 11:14:36,812 INFO   Found 0 employees for company 2583417.0
+2025-06-30 11:14:36,812 WARNING No employees found for company 2583417.0
+2025-06-30 11:14:36,813 DEBUG Checkpoint saved after company 2583417.0
+2025-06-30 11:14:37,814 INFO Processing company: 96328000.0 (None)
+2025-06-30 11:14:37,814 ERROR Exception for company 96328000.0: invalid literal for int() with base 10: '96328000.0'
+2025-06-30 11:14:37,815 INFO   Found 0 employees for company 96328000.0
+2025-06-30 11:14:37,815 WARNING No employees found for company 96328000.0
+2025-06-30 11:14:37,816 DEBUG Checkpoint saved after company 96328000.0
+2025-06-30 11:14:38,817 INFO Processing company: 96067824.0 (None)
+2025-06-30 11:14:38,817 ERROR Exception for company 96067824.0: invalid literal for int() with base 10: '96067824.0'
+2025-06-30 11:14:38,817 INFO   Found 0 employees for company 96067824.0
+2025-06-30 11:14:38,818 WARNING No employees found for company 96067824.0
+2025-06-30 11:14:38,819 DEBUG Checkpoint saved after company 96067824.0
+2025-06-30 11:14:39,820 INFO Processing company: 96154913.0 (None)
+2025-06-30 11:14:39,820 ERROR Exception for company 96154913.0: invalid literal for int() with base 10: '96154913.0'
+2025-06-30 11:14:39,821 INFO   Found 0 employees for company 96154913.0
+2025-06-30 11:14:39,821 WARNING No employees found for company 96154913.0
+2025-06-30 11:14:39,822 DEBUG Checkpoint saved after company 96154913.0
+2025-06-30 11:14:40,823 INFO Processing company: 10429467.0 (None)
+2025-06-30 11:14:40,824 ERROR Exception for company 10429467.0: invalid literal for int() with base 10: '10429467.0'
+2025-06-30 11:14:40,824 INFO   Found 0 employees for company 10429467.0
+2025-06-30 11:14:40,824 WARNING No employees found for company 10429467.0
+2025-06-30 11:14:40,826 DEBUG Checkpoint saved after company 10429467.0
+2025-06-30 11:14:41,827 INFO Processing company: 5754875.0 (None)
+2025-06-30 11:14:41,827 ERROR Exception for company 5754875.0: invalid literal for int() with base 10: '5754875.0'
+2025-06-30 11:14:41,827 INFO   Found 0 employees for company 5754875.0
+2025-06-30 11:14:41,828 WARNING No employees found for company 5754875.0
+2025-06-30 11:14:41,829 DEBUG Checkpoint saved after company 5754875.0
+2025-06-30 11:14:42,830 INFO Processing company: 94719956.0 (None)
+2025-06-30 11:14:42,830 ERROR Exception for company 94719956.0: invalid literal for int() with base 10: '94719956.0'
+2025-06-30 11:14:42,830 INFO   Found 0 employees for company 94719956.0
+2025-06-30 11:14:42,831 WARNING No employees found for company 94719956.0
+2025-06-30 11:14:42,832 DEBUG Checkpoint saved after company 94719956.0
+2025-06-30 11:14:43,832 INFO Processing company: 65050334.0 (None)
+2025-06-30 11:14:43,833 ERROR Exception for company 65050334.0: invalid literal for int() with base 10: '65050334.0'
+2025-06-30 11:14:43,833 INFO   Found 0 employees for company 65050334.0
+2025-06-30 11:14:43,833 WARNING No employees found for company 65050334.0
+2025-06-30 11:14:43,834 DEBUG Checkpoint saved after company 65050334.0
+2025-06-30 11:14:44,835 INFO Processing company: 78862085.0 (None)
+2025-06-30 11:14:44,836 ERROR Exception for company 78862085.0: invalid literal for int() with base 10: '78862085.0'
+2025-06-30 11:14:44,836 INFO   Found 0 employees for company 78862085.0
+2025-06-30 11:14:44,836 WARNING No employees found for company 78862085.0
+2025-06-30 11:14:44,838 DEBUG Checkpoint saved after company 78862085.0
+2025-06-30 11:16:59,394 INFO ==============================
+2025-06-30 11:16:59,394 INFO Starting Company/Employee Enrichment Script
+2025-06-30 11:16:59,394 INFO Input CSV: enhanced_enrichment.csv
+2025-06-30 11:16:59,394 INFO Output CSV: finalenrichment.csv
+2025-06-30 11:16:59,394 INFO Checkpoint file: enrichment_checkpoint.json
+2025-06-30 11:16:59,394 INFO Log file: enrichment.log
+2025-06-30 11:16:59,395 INFO ==============================
+2025-06-30 11:16:59,402 INFO Loaded 105 companies. 51 already processed. Starting enrichment.
+2025-06-30 11:16:59,414 DEBUG Skipping already processed company: 94719956.0
+2025-06-30 11:16:59,414 INFO Processing company: 28014650.0 (None)
+2025-06-30 11:16:59,417 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:00,277 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:00,278 INFO   Collecting employee 1/19 for company 28014650.0: 360031560
+2025-06-30 11:17:00,279 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:01,153 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/360031560 HTTP/1.1" 200 None
+2025-06-30 11:17:01,956 INFO   Collecting employee 2/19 for company 28014650.0: 397147241
+2025-06-30 11:17:01,957 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:02,771 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/397147241 HTTP/1.1" 200 None
+2025-06-30 11:17:03,513 INFO   Collecting employee 3/19 for company 28014650.0: 407315988
+2025-06-30 11:17:03,514 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:04,162 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/407315988 HTTP/1.1" 200 None
+2025-06-30 11:17:04,967 INFO   Collecting employee 4/19 for company 28014650.0: 130184620
+2025-06-30 11:17:04,969 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:05,637 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/130184620 HTTP/1.1" 200 None
+2025-06-30 11:17:06,440 INFO   Collecting employee 5/19 for company 28014650.0: 261481551
+2025-06-30 11:17:06,442 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:07,083 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/261481551 HTTP/1.1" 200 None
+2025-06-30 11:17:07,889 INFO   Collecting employee 6/19 for company 28014650.0: 243239914
+2025-06-30 11:17:07,891 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:08,508 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/243239914 HTTP/1.1" 200 None
+2025-06-30 11:17:09,310 INFO   Collecting employee 7/19 for company 28014650.0: 398025962
+2025-06-30 11:17:09,312 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:09,937 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/398025962 HTTP/1.1" 200 None
+2025-06-30 11:17:10,741 INFO   Collecting employee 8/19 for company 28014650.0: 183723612
+2025-06-30 11:17:10,742 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:11,426 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/183723612 HTTP/1.1" 200 None
+2025-06-30 11:17:12,336 INFO   Collecting employee 9/19 for company 28014650.0: 333629352
+2025-06-30 11:17:12,338 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:12,986 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/333629352 HTTP/1.1" 200 None
+2025-06-30 11:17:13,816 INFO   Collecting employee 10/19 for company 28014650.0: 106207956
+2025-06-30 11:17:13,817 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:14,469 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/106207956 HTTP/1.1" 200 None
+2025-06-30 11:17:15,275 INFO   Collecting employee 11/19 for company 28014650.0: 188075724
+2025-06-30 11:17:15,276 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:16,327 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/188075724 HTTP/1.1" 200 None
+2025-06-30 11:17:17,132 INFO   Collecting employee 12/19 for company 28014650.0: 84986638
+2025-06-30 11:17:17,134 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:17,795 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/84986638 HTTP/1.1" 200 None
+2025-06-30 11:17:18,707 INFO   Collecting employee 13/19 for company 28014650.0: 458758863
+2025-06-30 11:17:18,708 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:19,563 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/458758863 HTTP/1.1" 200 None
+2025-06-30 11:17:20,365 INFO   Collecting employee 14/19 for company 28014650.0: 220763312
+2025-06-30 11:17:20,367 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:20,991 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/220763312 HTTP/1.1" 200 None
+2025-06-30 11:17:21,796 INFO   Collecting employee 15/19 for company 28014650.0: 134056269
+2025-06-30 11:17:21,798 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:22,424 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/134056269 HTTP/1.1" 200 None
+2025-06-30 11:17:23,254 INFO   Collecting employee 16/19 for company 28014650.0: 392702555
+2025-06-30 11:17:23,256 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:23,910 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/392702555 HTTP/1.1" 200 None
+2025-06-30 11:17:24,741 INFO   Collecting employee 17/19 for company 28014650.0: 155126765
+2025-06-30 11:17:24,743 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:25,565 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/155126765 HTTP/1.1" 200 None
+2025-06-30 11:17:26,398 INFO   Collecting employee 18/19 for company 28014650.0: 438111412
+2025-06-30 11:17:26,399 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:27,011 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/438111412 HTTP/1.1" 200 None
+2025-06-30 11:17:27,815 INFO   Collecting employee 19/19 for company 28014650.0: 163163940
+2025-06-30 11:17:27,817 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:28,681 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/163163940 HTTP/1.1" 200 None
+2025-06-30 11:17:29,504 INFO   Found 19 employees for company 28014650.0
+2025-06-30 11:17:29,505 DEBUG Employee IDs for company 28014650.0: [360031560, 397147241, 407315988, 130184620, 261481551, 243239914, 398025962, 183723612, 333629352, 106207956, 188075724, 84986638, 458758863, 220763312, 134056269, 392702555, 155126765, 438111412, 163163940]
+2025-06-30 11:17:29,507 DEBUG Checkpoint saved after company 28014650.0
+2025-06-30 11:17:30,508 DEBUG Skipping already processed company: 12082782.0
+2025-06-30 11:17:30,509 INFO Processing company: 32975610.0 (None)
+2025-06-30 11:17:30,510 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:31,320 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:31,321 INFO   Collecting employee 1/2 for company 32975610.0: 222995695
+2025-06-30 11:17:31,322 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:31,957 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/222995695 HTTP/1.1" 200 None
+2025-06-30 11:17:32,658 INFO   Collecting employee 2/2 for company 32975610.0: 343242365
+2025-06-30 11:17:32,660 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:33,443 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/343242365 HTTP/1.1" 200 None
+2025-06-30 11:17:34,250 INFO   Found 2 employees for company 32975610.0
+2025-06-30 11:17:34,250 DEBUG Employee IDs for company 32975610.0: [222995695, 343242365]
+2025-06-30 11:17:34,252 DEBUG Checkpoint saved after company 32975610.0
+2025-06-30 11:17:35,253 DEBUG Skipping already processed company: 78862085.0
+2025-06-30 11:17:35,253 INFO Processing company: 42116297.0 (None)
+2025-06-30 11:17:35,255 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:36,239 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:36,239 INFO No strict execs found for 42116297.0, trying fuzzy job title search...
+2025-06-30 11:17:36,240 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:37,705 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:37,706 INFO No fuzzy company name match for 42116297.0, trying broad fallback search...
+2025-06-30 11:17:37,707 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:38,440 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:38,441 WARNING No employees found for company 42116297.0 after all search strategies.
+2025-06-30 11:17:38,442 INFO   Found 0 employees for company 42116297.0
+2025-06-30 11:17:38,443 WARNING No employees found for company 42116297.0
+2025-06-30 11:17:38,443 DEBUG Checkpoint saved after company 42116297.0
+2025-06-30 11:17:39,444 DEBUG Skipping already processed company: 2583417.0
+2025-06-30 11:17:39,445 INFO Processing company: 29156709.0 (None)
+2025-06-30 11:17:39,446 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:40,280 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:40,281 INFO No strict execs found for 29156709.0, trying fuzzy job title search...
+2025-06-30 11:17:40,282 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:41,677 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:41,678 INFO No fuzzy company name match for 29156709.0, trying broad fallback search...
+2025-06-30 11:17:41,680 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:42,495 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:17:42,496 INFO   Collecting employee 1/65 for company 29156709.0: 432718973
+2025-06-30 11:17:42,497 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:43,284 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/432718973 HTTP/1.1" 200 None
+2025-06-30 11:17:44,114 INFO   Collecting employee 2/65 for company 29156709.0: 357044945
+2025-06-30 11:17:44,115 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:44,735 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/357044945 HTTP/1.1" 200 None
+2025-06-30 11:17:45,539 INFO   Collecting employee 3/65 for company 29156709.0: 352042433
+2025-06-30 11:17:45,540 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:46,188 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/352042433 HTTP/1.1" 200 None
+2025-06-30 11:17:46,988 INFO   Collecting employee 4/65 for company 29156709.0: 509404059
+2025-06-30 11:17:46,990 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:47,606 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/509404059 HTTP/1.1" 200 None
+2025-06-30 11:17:48,408 INFO   Collecting employee 5/65 for company 29156709.0: 277594411
+2025-06-30 11:17:48,409 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:49,042 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/277594411 HTTP/1.1" 200 None
+2025-06-30 11:17:49,844 INFO   Collecting employee 6/65 for company 29156709.0: 614509708
+2025-06-30 11:17:49,845 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:50,488 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/614509708 HTTP/1.1" 200 None
+2025-06-30 11:17:51,210 INFO   Collecting employee 7/65 for company 29156709.0: 264124595
+2025-06-30 11:17:51,211 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:52,066 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/264124595 HTTP/1.1" 200 None
+2025-06-30 11:17:52,894 INFO   Collecting employee 8/65 for company 29156709.0: 80863293
+2025-06-30 11:17:52,896 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:53,577 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/80863293 HTTP/1.1" 200 None
+2025-06-30 11:17:54,489 INFO   Collecting employee 9/65 for company 29156709.0: 156062053
+2025-06-30 11:17:54,490 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:55,365 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/156062053 HTTP/1.1" 200 None
+2025-06-30 11:17:56,224 INFO   Collecting employee 10/65 for company 29156709.0: 159177718
+2025-06-30 11:17:56,226 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:56,859 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/159177718 HTTP/1.1" 200 None
+2025-06-30 11:17:57,470 INFO   Collecting employee 11/65 for company 29156709.0: 249414023
+2025-06-30 11:17:57,471 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:58,114 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/249414023 HTTP/1.1" 200 None
+2025-06-30 11:17:58,943 INFO   Collecting employee 12/65 for company 29156709.0: 517247469
+2025-06-30 11:17:58,944 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:17:59,613 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/517247469 HTTP/1.1" 200 None
+2025-06-30 11:18:00,316 INFO   Collecting employee 13/65 for company 29156709.0: 455179579
+2025-06-30 11:18:00,317 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:00,955 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/455179579 HTTP/1.1" 200 None
+2025-06-30 11:18:01,675 INFO   Collecting employee 14/65 for company 29156709.0: 578802606
+2025-06-30 11:18:01,677 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:02,295 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/578802606 HTTP/1.1" 200 None
+2025-06-30 11:18:02,997 INFO   Collecting employee 15/65 for company 29156709.0: 613443838
+2025-06-30 11:18:02,999 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:03,630 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/613443838 HTTP/1.1" 200 None
+2025-06-30 11:18:04,332 INFO   Collecting employee 16/65 for company 29156709.0: 414833041
+2025-06-30 11:18:04,334 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:04,951 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/414833041 HTTP/1.1" 200 None
+2025-06-30 11:18:05,777 INFO   Collecting employee 17/65 for company 29156709.0: 676318509
+2025-06-30 11:18:05,778 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:06,398 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/676318509 HTTP/1.1" 200 None
+2025-06-30 11:18:07,102 INFO   Collecting employee 18/65 for company 29156709.0: 196867410
+2025-06-30 11:18:07,104 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:07,732 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/196867410 HTTP/1.1" 200 None
+2025-06-30 11:18:08,562 INFO   Collecting employee 19/65 for company 29156709.0: 177516166
+2025-06-30 11:18:08,564 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:09,431 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/177516166 HTTP/1.1" 200 None
+2025-06-30 11:18:10,135 INFO   Collecting employee 20/65 for company 29156709.0: 153391637
+2025-06-30 11:18:10,137 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:10,792 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/153391637 HTTP/1.1" 200 None
+2025-06-30 11:18:11,623 INFO   Found 20 employees for company 29156709.0
+2025-06-30 11:18:11,623 DEBUG Employee IDs for company 29156709.0: [432718973, 357044945, 352042433, 509404059, 277594411, 614509708, 264124595, 80863293, 156062053, 159177718, 249414023, 517247469, 455179579, 578802606, 613443838, 414833041, 676318509, 196867410, 177516166, 153391637]
+2025-06-30 11:18:11,624 DEBUG Checkpoint saved after company 29156709.0
+2025-06-30 11:18:12,625 DEBUG Skipping already processed company: 20820752.0
+2025-06-30 11:18:12,625 DEBUG Skipping already processed company: 33439450.0
+2025-06-30 11:18:12,626 INFO Processing company: 11890879.0 (None)
+2025-06-30 11:18:12,627 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:13,707 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:13,708 INFO   Collecting employee 1/2 for company 11890879.0: 217261107
+2025-06-30 11:18:13,708 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:14,371 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/217261107 HTTP/1.1" 200 None
+2025-06-30 11:18:15,174 INFO   Collecting employee 2/2 for company 11890879.0: 173856956
+2025-06-30 11:18:15,175 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:15,794 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/173856956 HTTP/1.1" 200 None
+2025-06-30 11:18:16,600 INFO   Found 2 employees for company 11890879.0
+2025-06-30 11:18:16,601 DEBUG Employee IDs for company 11890879.0: [217261107, 173856956]
+2025-06-30 11:18:16,602 DEBUG Checkpoint saved after company 11890879.0
+2025-06-30 11:18:17,603 INFO Processing company: 6687180.0 (None)
+2025-06-30 11:18:17,604 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:18,696 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:18,696 INFO   Collecting employee 1/3 for company 6687180.0: 209149885
+2025-06-30 11:18:18,697 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:19,569 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/209149885 HTTP/1.1" 200 None
+2025-06-30 11:18:20,376 INFO   Collecting employee 2/3 for company 6687180.0: 214353879
+2025-06-30 11:18:20,377 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:21,011 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/214353879 HTTP/1.1" 200 None
+2025-06-30 11:18:21,732 INFO   Collecting employee 3/3 for company 6687180.0: 345505387
+2025-06-30 11:18:21,733 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:22,545 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/345505387 HTTP/1.1" 200 None
+2025-06-30 11:18:23,050 INFO   Found 3 employees for company 6687180.0
+2025-06-30 11:18:23,051 DEBUG Employee IDs for company 6687180.0: [209149885, 214353879, 345505387]
+2025-06-30 11:18:23,052 DEBUG Checkpoint saved after company 6687180.0
+2025-06-30 11:18:24,053 DEBUG Skipping already processed company: 25725698.0
+2025-06-30 11:18:24,054 INFO Processing company: 97381448.0 (None)
+2025-06-30 11:18:24,055 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:25,039 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:25,040 INFO   Collecting employee 1/4 for company 97381448.0: 596380666
+2025-06-30 11:18:25,041 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:25,662 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/596380666 HTTP/1.1" 200 None
+2025-06-30 11:18:26,305 INFO   Collecting employee 2/4 for company 97381448.0: 131426934
+2025-06-30 11:18:26,306 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:26,950 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/131426934 HTTP/1.1" 200 None
+2025-06-30 11:18:27,657 INFO   Collecting employee 3/4 for company 97381448.0: 524518322
+2025-06-30 11:18:27,658 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:28,339 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/524518322 HTTP/1.1" 200 None
+2025-06-30 11:18:28,944 INFO   Collecting employee 4/4 for company 97381448.0: 458793600
+2025-06-30 11:18:28,945 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:29,556 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/458793600 HTTP/1.1" 200 None
+2025-06-30 11:18:30,263 INFO   Found 4 employees for company 97381448.0
+2025-06-30 11:18:30,263 DEBUG Employee IDs for company 97381448.0: [596380666, 131426934, 524518322, 458793600]
+2025-06-30 11:18:30,264 DEBUG Checkpoint saved after company 97381448.0
+2025-06-30 11:18:31,265 INFO Processing company: 11263001.0 (None)
+2025-06-30 11:18:31,267 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:32,053 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:32,054 INFO   Collecting employee 1/2 for company 11263001.0: 392364113
+2025-06-30 11:18:32,055 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:32,840 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/392364113 HTTP/1.1" 200 None
+2025-06-30 11:18:33,644 INFO   Collecting employee 2/2 for company 11263001.0: 387872231
+2025-06-30 11:18:33,645 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:34,654 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/387872231 HTTP/1.1" 200 None
+2025-06-30 11:18:35,560 INFO   Found 2 employees for company 11263001.0
+2025-06-30 11:18:35,560 DEBUG Employee IDs for company 11263001.0: [392364113, 387872231]
+2025-06-30 11:18:35,562 DEBUG Checkpoint saved after company 11263001.0
+2025-06-30 11:18:36,563 DEBUG Skipping already processed company: 1254411.0
+2025-06-30 11:18:36,564 INFO Processing company: 62888763.0 (None)
+2025-06-30 11:18:36,565 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:37,565 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:37,565 INFO   Collecting employee 1/1 for company 62888763.0: 128361956
+2025-06-30 11:18:37,567 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:38,197 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/128361956 HTTP/1.1" 200 None
+2025-06-30 11:18:39,104 INFO   Found 1 employees for company 62888763.0
+2025-06-30 11:18:39,105 DEBUG Employee IDs for company 62888763.0: [128361956]
+2025-06-30 11:18:39,106 DEBUG Checkpoint saved after company 62888763.0
+2025-06-30 11:18:40,107 DEBUG Skipping already processed company: 2887601.0
+2025-06-30 11:18:40,107 DEBUG Skipping already processed company: 1666990.0
+2025-06-30 11:18:40,108 DEBUG Skipping already processed company: 25738707.0
+2025-06-30 11:18:40,108 DEBUG Skipping already processed company: 93679441.0
+2025-06-30 11:18:40,108 INFO Processing company: 11863889.0 (None)
+2025-06-30 11:18:40,110 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:41,263 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:41,264 INFO   Collecting employee 1/9 for company 11863889.0: 86418170
+2025-06-30 11:18:41,265 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:41,892 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/86418170 HTTP/1.1" 200 None
+2025-06-30 11:18:42,692 INFO   Collecting employee 2/9 for company 11863889.0: 52930256
+2025-06-30 11:18:42,693 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:43,285 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/52930256 HTTP/1.1" 200 None
+2025-06-30 11:18:44,089 INFO   Collecting employee 3/9 for company 11863889.0: 355853398
+2025-06-30 11:18:44,090 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:44,949 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/355853398 HTTP/1.1" 200 None
+2025-06-30 11:18:45,755 INFO   Collecting employee 4/9 for company 11863889.0: 434579855
+2025-06-30 11:18:45,756 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:46,377 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/434579855 HTTP/1.1" 200 None
+2025-06-30 11:18:47,179 INFO   Collecting employee 5/9 for company 11863889.0: 385554188
+2025-06-30 11:18:47,180 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:47,814 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/385554188 HTTP/1.1" 200 None
+2025-06-30 11:18:48,533 INFO   Collecting employee 6/9 for company 11863889.0: 70508850
+2025-06-30 11:18:48,535 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:49,178 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/70508850 HTTP/1.1" 200 None
+2025-06-30 11:18:49,982 INFO   Collecting employee 7/9 for company 11863889.0: 159449165
+2025-06-30 11:18:49,983 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:50,603 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/159449165 HTTP/1.1" 200 None
+2025-06-30 11:18:51,404 INFO   Collecting employee 8/9 for company 11863889.0: 8563996
+2025-06-30 11:18:51,405 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:52,266 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/8563996 HTTP/1.1" 200 None
+2025-06-30 11:18:53,088 INFO   Collecting employee 9/9 for company 11863889.0: 116965232
+2025-06-30 11:18:53,089 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:53,705 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/116965232 HTTP/1.1" 200 None
+2025-06-30 11:18:54,412 INFO   Found 9 employees for company 11863889.0
+2025-06-30 11:18:54,412 DEBUG Employee IDs for company 11863889.0: [86418170, 52930256, 355853398, 434579855, 385554188, 70508850, 159449165, 8563996, 116965232]
+2025-06-30 11:18:54,413 DEBUG Checkpoint saved after company 11863889.0
+2025-06-30 11:18:55,414 DEBUG Skipping already processed company: 11956033.0
+2025-06-30 11:18:55,415 DEBUG Skipping already processed company: 93990242.0
+2025-06-30 11:18:55,415 INFO Processing company: 65058238.0 (None)
+2025-06-30 11:18:55,417 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:56,195 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:18:56,195 INFO   Collecting employee 1/7 for company 65058238.0: 91236241
+2025-06-30 11:18:56,196 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:56,839 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/91236241 HTTP/1.1" 200 None
+2025-06-30 11:18:57,583 INFO   Collecting employee 2/7 for company 65058238.0: 168200016
+2025-06-30 11:18:57,584 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:58,262 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/168200016 HTTP/1.1" 200 None
+2025-06-30 11:18:59,063 INFO   Collecting employee 3/7 for company 65058238.0: 356265591
+2025-06-30 11:18:59,064 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:18:59,731 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/356265591 HTTP/1.1" 200 None
+2025-06-30 11:19:00,559 INFO   Collecting employee 4/7 for company 65058238.0: 71123398
+2025-06-30 11:19:00,561 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:01,195 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/71123398 HTTP/1.1" 200 None
+2025-06-30 11:19:02,002 INFO   Collecting employee 5/7 for company 65058238.0: 481573110
+2025-06-30 11:19:02,003 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:02,625 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/481573110 HTTP/1.1" 200 None
+2025-06-30 11:19:03,453 INFO   Collecting employee 6/7 for company 65058238.0: 324605514
+2025-06-30 11:19:03,455 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:04,107 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/324605514 HTTP/1.1" 200 None
+2025-06-30 11:19:04,910 INFO   Collecting employee 7/7 for company 65058238.0: 434603841
+2025-06-30 11:19:04,912 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:05,537 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/434603841 HTTP/1.1" 200 None
+2025-06-30 11:19:06,244 INFO   Found 7 employees for company 65058238.0
+2025-06-30 11:19:06,244 DEBUG Employee IDs for company 65058238.0: [91236241, 168200016, 356265591, 71123398, 481573110, 324605514, 434603841]
+2025-06-30 11:19:06,245 DEBUG Checkpoint saved after company 65058238.0
+2025-06-30 11:19:07,246 INFO Processing company: 82372136.0 (None)
+2025-06-30 11:19:07,247 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:08,301 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:08,302 INFO No strict execs found for 82372136.0, trying fuzzy job title search...
+2025-06-30 11:19:08,303 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:09,839 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:09,840 INFO No fuzzy company name match for 82372136.0, trying broad fallback search...
+2025-06-30 11:19:09,841 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:10,616 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:10,617 WARNING No employees found for company 82372136.0 after all search strategies.
+2025-06-30 11:19:10,619 INFO   Found 0 employees for company 82372136.0
+2025-06-30 11:19:10,619 WARNING No employees found for company 82372136.0
+2025-06-30 11:19:10,620 DEBUG Checkpoint saved after company 82372136.0
+2025-06-30 11:19:11,621 DEBUG Skipping already processed company: 8388598.0
+2025-06-30 11:19:11,622 INFO Processing company: 12145726.0 (None)
+2025-06-30 11:19:11,623 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:12,423 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:12,423 INFO   Collecting employee 1/1 for company 12145726.0: 135196606
+2025-06-30 11:19:12,424 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:13,071 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/135196606 HTTP/1.1" 200 None
+2025-06-30 11:19:13,779 INFO   Found 1 employees for company 12145726.0
+2025-06-30 11:19:13,780 DEBUG Employee IDs for company 12145726.0: [135196606]
+2025-06-30 11:19:13,781 DEBUG Checkpoint saved after company 12145726.0
+2025-06-30 11:19:14,782 DEBUG Skipping already processed company: 12031460.0
+2025-06-30 11:19:14,783 INFO Processing company: 4392804.0 (None)
+2025-06-30 11:19:14,784 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:15,766 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:15,766 INFO   Collecting employee 1/2 for company 4392804.0: 327973863
+2025-06-30 11:19:15,767 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:16,536 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/327973863 HTTP/1.1" 200 None
+2025-06-30 11:19:17,336 INFO   Collecting employee 2/2 for company 4392804.0: 578443191
+2025-06-30 11:19:17,337 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:17,969 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/578443191 HTTP/1.1" 200 None
+2025-06-30 11:19:18,473 INFO   Found 2 employees for company 4392804.0
+2025-06-30 11:19:18,474 DEBUG Employee IDs for company 4392804.0: [327973863, 578443191]
+2025-06-30 11:19:18,475 DEBUG Checkpoint saved after company 4392804.0
+2025-06-30 11:19:19,476 INFO Processing company: 94816095.0 (None)
+2025-06-30 11:19:19,477 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:20,356 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:20,357 INFO   Collecting employee 1/8 for company 94816095.0: 161417395
+2025-06-30 11:19:20,358 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:21,028 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/161417395 HTTP/1.1" 200 None
+2025-06-30 11:19:21,834 INFO   Collecting employee 2/8 for company 94816095.0: 193051003
+2025-06-30 11:19:21,835 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:22,742 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/193051003 HTTP/1.1" 200 None
+2025-06-30 11:19:23,461 INFO   Collecting employee 3/8 for company 94816095.0: 379273215
+2025-06-30 11:19:23,463 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:24,083 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/379273215 HTTP/1.1" 200 None
+2025-06-30 11:19:24,914 INFO   Collecting employee 4/8 for company 94816095.0: 220194982
+2025-06-30 11:19:24,916 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:25,605 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/220194982 HTTP/1.1" 200 None
+2025-06-30 11:19:26,408 INFO   Collecting employee 5/8 for company 94816095.0: 235616015
+2025-06-30 11:19:26,409 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:27,230 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/235616015 HTTP/1.1" 200 None
+2025-06-30 11:19:28,035 INFO   Collecting employee 6/8 for company 94816095.0: 223825101
+2025-06-30 11:19:28,037 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:28,692 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/223825101 HTTP/1.1" 200 None
+2025-06-30 11:19:29,501 INFO   Collecting employee 7/8 for company 94816095.0: 434669031
+2025-06-30 11:19:29,502 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:30,151 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/434669031 HTTP/1.1" 200 None
+2025-06-30 11:19:30,955 INFO   Collecting employee 8/8 for company 94816095.0: 62660542
+2025-06-30 11:19:30,956 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:31,821 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/62660542 HTTP/1.1" 200 None
+2025-06-30 11:19:32,630 INFO   Found 8 employees for company 94816095.0
+2025-06-30 11:19:32,631 DEBUG Employee IDs for company 94816095.0: [161417395, 193051003, 379273215, 220194982, 235616015, 223825101, 434669031, 62660542]
+2025-06-30 11:19:32,632 DEBUG Checkpoint saved after company 94816095.0
+2025-06-30 11:19:33,633 INFO Processing company: 64825666.0 (None)
+2025-06-30 11:19:33,634 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:34,615 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:34,616 INFO No strict execs found for 64825666.0, trying fuzzy job title search...
+2025-06-30 11:19:34,617 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:36,069 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:36,070 INFO   Collecting employee 1/1 for company 64825666.0: 357884038
+2025-06-30 11:19:36,071 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:36,962 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/357884038 HTTP/1.1" 200 None
+2025-06-30 11:19:37,706 INFO   Found 1 employees for company 64825666.0
+2025-06-30 11:19:37,707 DEBUG Employee IDs for company 64825666.0: [357884038]
+2025-06-30 11:19:37,708 DEBUG Checkpoint saved after company 64825666.0
+2025-06-30 11:19:38,709 INFO Processing company: 7376568.0 (None)
+2025-06-30 11:19:38,710 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:39,509 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:39,510 INFO   Collecting employee 1/1 for company 7376568.0: 17520159
+2025-06-30 11:19:39,511 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:40,154 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/17520159 HTTP/1.1" 200 None
+2025-06-30 11:19:40,959 INFO   Found 1 employees for company 7376568.0
+2025-06-30 11:19:40,959 DEBUG Employee IDs for company 7376568.0: [17520159]
+2025-06-30 11:19:40,961 DEBUG Checkpoint saved after company 7376568.0
+2025-06-30 11:19:41,961 DEBUG Skipping already processed company: 7658963.0
+2025-06-30 11:19:41,962 INFO Processing company: 4545165.0 (None)
+2025-06-30 11:19:41,963 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:42,768 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:42,769 INFO   Collecting employee 1/3 for company 4545165.0: 359192445
+2025-06-30 11:19:42,770 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:43,410 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/359192445 HTTP/1.1" 200 None
+2025-06-30 11:19:44,214 INFO   Collecting employee 2/3 for company 4545165.0: 331298739
+2025-06-30 11:19:44,215 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:44,854 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/331298739 HTTP/1.1" 200 None
+2025-06-30 11:19:45,659 INFO   Collecting employee 3/3 for company 4545165.0: 111209987
+2025-06-30 11:19:45,660 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:46,302 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/111209987 HTTP/1.1" 200 None
+2025-06-30 11:19:47,209 INFO   Found 3 employees for company 4545165.0
+2025-06-30 11:19:47,209 DEBUG Employee IDs for company 4545165.0: [359192445, 331298739, 111209987]
+2025-06-30 11:19:47,210 DEBUG Checkpoint saved after company 4545165.0
+2025-06-30 11:19:48,211 INFO Processing company: 7929678.0 (None)
+2025-06-30 11:19:48,213 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:49,022 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:49,022 INFO   Collecting employee 1/2 for company 7929678.0: 219094308
+2025-06-30 11:19:49,023 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:49,650 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/219094308 HTTP/1.1" 200 None
+2025-06-30 11:19:50,360 INFO   Collecting employee 2/2 for company 7929678.0: 294155733
+2025-06-30 11:19:50,362 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:50,987 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/294155733 HTTP/1.1" 200 None
+2025-06-30 11:19:51,697 INFO   Found 2 employees for company 7929678.0
+2025-06-30 11:19:51,697 DEBUG Employee IDs for company 7929678.0: [219094308, 294155733]
+2025-06-30 11:19:51,698 DEBUG Checkpoint saved after company 7929678.0
+2025-06-30 11:19:52,699 DEBUG Skipping already processed company: 96187432.0
+2025-06-30 11:19:52,700 INFO Processing company: 97678942.0 (None)
+2025-06-30 11:19:52,701 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:53,506 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:53,506 INFO No strict execs found for 97678942.0, trying fuzzy job title search...
+2025-06-30 11:19:53,507 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:54,885 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:54,886 INFO No fuzzy company name match for 97678942.0, trying broad fallback search...
+2025-06-30 11:19:54,887 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:55,684 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:55,685 WARNING No employees found for company 97678942.0 after all search strategies.
+2025-06-30 11:19:55,686 INFO   Found 0 employees for company 97678942.0
+2025-06-30 11:19:55,686 WARNING No employees found for company 97678942.0
+2025-06-30 11:19:55,688 DEBUG Checkpoint saved after company 97678942.0
+2025-06-30 11:19:56,688 DEBUG Skipping already processed company: 96154913.0
+2025-06-30 11:19:56,689 DEBUG Skipping already processed company: 4486624.0
+2025-06-30 11:19:56,689 INFO Processing company: 26189629.0 (None)
+2025-06-30 11:19:56,690 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:57,513 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:57,513 INFO No strict execs found for 26189629.0, trying fuzzy job title search...
+2025-06-30 11:19:57,514 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:58,913 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:58,915 INFO No fuzzy company name match for 26189629.0, trying broad fallback search...
+2025-06-30 11:19:58,916 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:19:59,749 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:19:59,751 WARNING No employees found for company 26189629.0 after all search strategies.
+2025-06-30 11:19:59,753 INFO   Found 0 employees for company 26189629.0
+2025-06-30 11:19:59,753 WARNING No employees found for company 26189629.0
+2025-06-30 11:19:59,754 DEBUG Checkpoint saved after company 26189629.0
+2025-06-30 11:20:00,755 INFO Processing company: 12751919.0 (None)
+2025-06-30 11:20:00,756 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:01,607 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:01,608 INFO   Collecting employee 1/1 for company 12751919.0: 803265130
+2025-06-30 11:20:01,609 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:02,819 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/803265130 HTTP/1.1" 200 None
+2025-06-30 11:20:03,323 INFO   Found 1 employees for company 12751919.0
+2025-06-30 11:20:03,323 DEBUG Employee IDs for company 12751919.0: [803265130]
+2025-06-30 11:20:03,324 DEBUG Checkpoint saved after company 12751919.0
+2025-06-30 11:20:04,326 INFO Processing company: 3358627.0 (None)
+2025-06-30 11:20:04,327 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:05,517 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:05,518 INFO   Collecting employee 1/7 for company 3358627.0: 136300758
+2025-06-30 11:20:05,519 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:06,242 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/136300758 HTTP/1.1" 200 None
+2025-06-30 11:20:07,045 INFO   Collecting employee 2/7 for company 3358627.0: 402676041
+2025-06-30 11:20:07,046 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:07,781 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/402676041 HTTP/1.1" 200 None
+2025-06-30 11:20:08,585 INFO   Collecting employee 3/7 for company 3358627.0: 75567452
+2025-06-30 11:20:08,587 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:09,217 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/75567452 HTTP/1.1" 200 None
+2025-06-30 11:20:10,048 INFO   Collecting employee 4/7 for company 3358627.0: 211565199
+2025-06-30 11:20:10,049 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:10,675 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/211565199 HTTP/1.1" 200 None
+2025-06-30 11:20:11,504 INFO   Collecting employee 5/7 for company 3358627.0: 366535687
+2025-06-30 11:20:11,505 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:12,173 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/366535687 HTTP/1.1" 200 None
+2025-06-30 11:20:12,977 INFO   Collecting employee 6/7 for company 3358627.0: 85656776
+2025-06-30 11:20:12,978 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:13,648 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/85656776 HTTP/1.1" 200 None
+2025-06-30 11:20:14,453 INFO   Collecting employee 7/7 for company 3358627.0: 224586833
+2025-06-30 11:20:14,455 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:15,106 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/224586833 HTTP/1.1" 200 None
+2025-06-30 11:20:15,913 INFO   Found 7 employees for company 3358627.0
+2025-06-30 11:20:15,913 DEBUG Employee IDs for company 3358627.0: [136300758, 402676041, 75567452, 211565199, 366535687, 85656776, 224586833]
+2025-06-30 11:20:15,914 DEBUG Checkpoint saved after company 3358627.0
+2025-06-30 11:20:16,915 INFO Processing company: 96090889.0 (None)
+2025-06-30 11:20:16,916 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:17,826 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:17,827 INFO   Collecting employee 1/2 for company 96090889.0: 96458885
+2025-06-30 11:20:17,828 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:18,489 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/96458885 HTTP/1.1" 200 None
+2025-06-30 11:20:19,291 INFO   Collecting employee 2/2 for company 96090889.0: 221007472
+2025-06-30 11:20:19,292 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:20,199 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/221007472 HTTP/1.1" 200 None
+2025-06-30 11:20:21,008 INFO   Found 2 employees for company 96090889.0
+2025-06-30 11:20:21,008 DEBUG Employee IDs for company 96090889.0: [96458885, 221007472]
+2025-06-30 11:20:21,010 DEBUG Checkpoint saved after company 96090889.0
+2025-06-30 11:20:22,011 DEBUG Skipping already processed company: 5430751.0
+2025-06-30 11:20:22,012 DEBUG Skipping already processed company: 65050334.0
+2025-06-30 11:20:22,012 DEBUG Skipping already processed company: 88845187.0
+2025-06-30 11:20:22,012 INFO Processing company: 33449846.0 (None)
+2025-06-30 11:20:22,013 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:23,054 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:23,055 INFO No strict execs found for 33449846.0, trying fuzzy job title search...
+2025-06-30 11:20:23,056 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:24,735 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:24,737 INFO   Collecting employee 1/5 for company 33449846.0: 56234426
+2025-06-30 11:20:24,737 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:25,350 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/56234426 HTTP/1.1" 200 None
+2025-06-30 11:20:26,178 INFO   Collecting employee 2/5 for company 33449846.0: 723634788
+2025-06-30 11:20:26,180 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:26,813 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/723634788 HTTP/1.1" 200 None
+2025-06-30 11:20:27,417 INFO   Collecting employee 3/5 for company 33449846.0: 772870739
+2025-06-30 11:20:27,419 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:28,087 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/772870739 HTTP/1.1" 200 None
+2025-06-30 11:20:28,589 INFO   Collecting employee 4/5 for company 33449846.0: 377967278
+2025-06-30 11:20:28,591 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:29,298 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/377967278 HTTP/1.1" 200 None
+2025-06-30 11:20:30,005 INFO   Collecting employee 5/5 for company 33449846.0: 755736614
+2025-06-30 11:20:30,006 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:30,970 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/755736614 HTTP/1.1" 200 None
+2025-06-30 11:20:31,544 INFO   Found 5 employees for company 33449846.0
+2025-06-30 11:20:31,545 DEBUG Employee IDs for company 33449846.0: [56234426, 723634788, 772870739, 377967278, 755736614]
+2025-06-30 11:20:31,546 DEBUG Checkpoint saved after company 33449846.0
+2025-06-30 11:20:32,546 INFO Processing company: 96657689.0 (None)
+2025-06-30 11:20:32,547 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:33,348 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:33,350 INFO   Collecting employee 1/1 for company 96657689.0: 135281267
+2025-06-30 11:20:33,351 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:33,993 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/135281267 HTTP/1.1" 200 None
+2025-06-30 11:20:34,795 INFO   Found 1 employees for company 96657689.0
+2025-06-30 11:20:34,795 DEBUG Employee IDs for company 96657689.0: [135281267]
+2025-06-30 11:20:34,797 DEBUG Checkpoint saved after company 96657689.0
+2025-06-30 11:20:35,797 DEBUG Skipping already processed company: 23294425.0
+2025-06-30 11:20:35,798 INFO Processing company: 94459766.0 (None)
+2025-06-30 11:20:35,799 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:36,617 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:36,617 INFO   Collecting employee 1/2 for company 94459766.0: 168942726
+2025-06-30 11:20:36,618 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:37,269 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/168942726 HTTP/1.1" 200 None
+2025-06-30 11:20:38,206 INFO   Collecting employee 2/2 for company 94459766.0: 4388496
+2025-06-30 11:20:38,207 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:38,911 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/4388496 HTTP/1.1" 200 None
+2025-06-30 11:20:39,743 INFO   Found 2 employees for company 94459766.0
+2025-06-30 11:20:39,743 DEBUG Employee IDs for company 94459766.0: [168942726, 4388496]
+2025-06-30 11:20:39,744 DEBUG Checkpoint saved after company 94459766.0
+2025-06-30 11:20:40,745 INFO Processing company: 5273957.0 (None)
+2025-06-30 11:20:40,746 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:41,523 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:41,523 INFO   Collecting employee 1/2 for company 5273957.0: 67735495
+2025-06-30 11:20:41,525 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:42,176 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/67735495 HTTP/1.1" 200 None
+2025-06-30 11:20:42,980 INFO   Collecting employee 2/2 for company 5273957.0: 395101766
+2025-06-30 11:20:42,981 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:43,653 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/395101766 HTTP/1.1" 200 None
+2025-06-30 11:20:44,596 INFO   Found 2 employees for company 5273957.0
+2025-06-30 11:20:44,597 DEBUG Employee IDs for company 5273957.0: [67735495, 395101766]
+2025-06-30 11:20:44,598 DEBUG Checkpoint saved after company 5273957.0
+2025-06-30 11:20:45,599 DEBUG Skipping already processed company: 93203680.0
+2025-06-30 11:20:45,600 DEBUG Skipping already processed company: 7470067.0
+2025-06-30 11:20:45,601 INFO Processing company: 617917.0 (None)
+2025-06-30 11:20:45,602 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:46,427 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:46,427 INFO   Collecting employee 1/1 for company 617917.0: 281388176
+2025-06-30 11:20:46,429 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:47,070 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/281388176 HTTP/1.1" 200 None
+2025-06-30 11:20:47,898 INFO   Found 1 employees for company 617917.0
+2025-06-30 11:20:47,899 DEBUG Employee IDs for company 617917.0: [281388176]
+2025-06-30 11:20:47,900 DEBUG Checkpoint saved after company 617917.0
+2025-06-30 11:20:48,901 INFO Processing company: 11822128.0 (None)
+2025-06-30 11:20:48,902 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:49,969 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:49,969 INFO   Collecting employee 1/4 for company 11822128.0: 162540183
+2025-06-30 11:20:49,971 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:50,664 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/162540183 HTTP/1.1" 200 None
+2025-06-30 11:20:51,614 INFO   Collecting employee 2/4 for company 11822128.0: 251912118
+2025-06-30 11:20:51,616 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:52,242 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/251912118 HTTP/1.1" 200 None
+2025-06-30 11:20:53,145 INFO   Collecting employee 3/4 for company 11822128.0: 394804676
+2025-06-30 11:20:53,147 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:53,798 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/394804676 HTTP/1.1" 200 None
+2025-06-30 11:20:54,604 INFO   Collecting employee 4/4 for company 11822128.0: 251954822
+2025-06-30 11:20:54,605 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:55,266 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/251954822 HTTP/1.1" 200 None
+2025-06-30 11:20:56,070 INFO   Found 4 employees for company 11822128.0
+2025-06-30 11:20:56,070 DEBUG Employee IDs for company 11822128.0: [162540183, 251912118, 394804676, 251954822]
+2025-06-30 11:20:56,071 DEBUG Checkpoint saved after company 11822128.0
+2025-06-30 11:20:57,072 DEBUG Skipping already processed company: 94147208.0
+2025-06-30 11:20:57,075 DEBUG Skipping already processed company: 95442385.0
+2025-06-30 11:20:57,076 INFO Processing company: 8346093.0 (None)
+2025-06-30 11:20:57,079 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:58,056 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:20:58,056 INFO   Collecting employee 1/1 for company 8346093.0: 253010690
+2025-06-30 11:20:58,057 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:20:58,718 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/253010690 HTTP/1.1" 200 None
+2025-06-30 11:20:59,550 INFO   Found 1 employees for company 8346093.0
+2025-06-30 11:20:59,551 DEBUG Employee IDs for company 8346093.0: [253010690]
+2025-06-30 11:20:59,552 DEBUG Checkpoint saved after company 8346093.0
+2025-06-30 11:21:00,553 INFO Processing company: 10903103.0 (None)
+2025-06-30 11:21:00,554 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:01,383 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:01,384 INFO   Collecting employee 1/5 for company 10903103.0: 193655883
+2025-06-30 11:21:01,385 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:02,157 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/193655883 HTTP/1.1" 200 None
+2025-06-30 11:21:02,961 INFO   Collecting employee 2/5 for company 10903103.0: 521007416
+2025-06-30 11:21:02,963 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:03,796 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/521007416 HTTP/1.1" 200 None
+2025-06-30 11:21:04,502 INFO   Collecting employee 3/5 for company 10903103.0: 472900844
+2025-06-30 11:21:04,503 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:05,418 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/472900844 HTTP/1.1" 200 None
+2025-06-30 11:21:06,131 INFO   Collecting employee 4/5 for company 10903103.0: 835527566
+2025-06-30 11:21:06,132 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:06,804 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/835527566 HTTP/1.1" 200 None
+2025-06-30 11:21:07,414 INFO   Collecting employee 5/5 for company 10903103.0: 269021118
+2025-06-30 11:21:07,415 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:08,259 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/269021118 HTTP/1.1" 200 None
+2025-06-30 11:21:09,051 INFO   Found 5 employees for company 10903103.0
+2025-06-30 11:21:09,051 DEBUG Employee IDs for company 10903103.0: [193655883, 521007416, 472900844, 835527566, 269021118]
+2025-06-30 11:21:09,052 DEBUG Checkpoint saved after company 10903103.0
+2025-06-30 11:21:10,054 DEBUG Skipping already processed company: 98382344.0
+2025-06-30 11:21:10,054 DEBUG Skipping already processed company: 6545985.0
+2025-06-30 11:21:10,055 INFO Processing company: 2086393.0 (None)
+2025-06-30 11:21:10,056 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:10,899 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:10,899 INFO   Collecting employee 1/8 for company 2086393.0: 304559456
+2025-06-30 11:21:10,901 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:11,632 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/304559456 HTTP/1.1" 200 None
+2025-06-30 11:21:12,438 INFO   Collecting employee 2/8 for company 2086393.0: 127089383
+2025-06-30 11:21:12,440 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:13,094 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/127089383 HTTP/1.1" 200 None
+2025-06-30 11:21:13,903 INFO   Collecting employee 3/8 for company 2086393.0: 271090412
+2025-06-30 11:21:13,905 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:14,577 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/271090412 HTTP/1.1" 200 None
+2025-06-30 11:21:15,324 INFO   Collecting employee 4/8 for company 2086393.0: 69495138
+2025-06-30 11:21:15,325 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:16,020 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/69495138 HTTP/1.1" 200 None
+2025-06-30 11:21:16,722 INFO   Collecting employee 5/8 for company 2086393.0: 335446095
+2025-06-30 11:21:16,723 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:17,384 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/335446095 HTTP/1.1" 200 None
+2025-06-30 11:21:18,187 INFO   Collecting employee 6/8 for company 2086393.0: 227116437
+2025-06-30 11:21:18,189 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:18,975 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/227116437 HTTP/1.1" 200 None
+2025-06-30 11:21:19,678 INFO   Collecting employee 7/8 for company 2086393.0: 163825805
+2025-06-30 11:21:19,679 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:20,354 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/163825805 HTTP/1.1" 200 None
+2025-06-30 11:21:21,077 INFO   Collecting employee 8/8 for company 2086393.0: 414991109
+2025-06-30 11:21:21,078 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:21,810 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/414991109 HTTP/1.1" 200 None
+2025-06-30 11:21:22,516 INFO   Found 8 employees for company 2086393.0
+2025-06-30 11:21:22,516 DEBUG Employee IDs for company 2086393.0: [304559456, 127089383, 271090412, 69495138, 335446095, 227116437, 163825805, 414991109]
+2025-06-30 11:21:22,517 DEBUG Checkpoint saved after company 2086393.0
+2025-06-30 11:21:23,518 INFO Processing company: 48761081.0 (None)
+2025-06-30 11:21:23,520 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:24,847 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:24,848 INFO No strict execs found for 48761081.0, trying fuzzy job title search...
+2025-06-30 11:21:24,850 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:26,256 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:26,258 INFO No fuzzy company name match for 48761081.0, trying broad fallback search...
+2025-06-30 11:21:26,259 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:27,059 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:27,060 INFO   Collecting employee 1/1 for company 48761081.0: 503437289
+2025-06-30 11:21:27,061 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:27,698 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/503437289 HTTP/1.1" 200 None
+2025-06-30 11:21:28,304 INFO   Found 1 employees for company 48761081.0
+2025-06-30 11:21:28,305 DEBUG Employee IDs for company 48761081.0: [503437289]
+2025-06-30 11:21:28,306 DEBUG Checkpoint saved after company 48761081.0
+2025-06-30 11:21:29,306 INFO Processing company: 3927433.0 (None)
+2025-06-30 11:21:29,308 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:30,332 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:30,333 INFO   Collecting employee 1/1 for company 3927433.0: 133598667
+2025-06-30 11:21:30,334 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:31,037 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/133598667 HTTP/1.1" 200 None
+2025-06-30 11:21:31,843 INFO   Found 1 employees for company 3927433.0
+2025-06-30 11:21:31,843 DEBUG Employee IDs for company 3927433.0: [133598667]
+2025-06-30 11:21:31,844 DEBUG Checkpoint saved after company 3927433.0
+2025-06-30 11:21:32,845 DEBUG Skipping already processed company: 96061136.0
+2025-06-30 11:21:32,846 DEBUG Skipping already processed company: 3350518.0
+2025-06-30 11:21:32,846 INFO Processing company: 1838025.0 (None)
+2025-06-30 11:21:32,847 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:33,911 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:33,912 INFO No strict execs found for 1838025.0, trying fuzzy job title search...
+2025-06-30 11:21:33,912 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:35,536 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:35,538 INFO No fuzzy company name match for 1838025.0, trying broad fallback search...
+2025-06-30 11:21:35,539 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:36,501 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:36,503 INFO   Collecting employee 1/5 for company 1838025.0: 446621104
+2025-06-30 11:21:36,504 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:37,200 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/446621104 HTTP/1.1" 200 None
+2025-06-30 11:21:37,800 INFO   Collecting employee 2/5 for company 1838025.0: 355158790
+2025-06-30 11:21:37,801 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:38,452 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/355158790 HTTP/1.1" 200 None
+2025-06-30 11:21:39,254 INFO   Collecting employee 3/5 for company 1838025.0: 338918984
+2025-06-30 11:21:39,256 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:40,185 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/338918984 HTTP/1.1" 200 None
+2025-06-30 11:21:41,017 INFO   Collecting employee 4/5 for company 1838025.0: 463513502
+2025-06-30 11:21:41,018 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:41,897 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/463513502 HTTP/1.1" 200 None
+2025-06-30 11:21:42,508 INFO   Collecting employee 5/5 for company 1838025.0: 633323601
+2025-06-30 11:21:42,510 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:43,220 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/633323601 HTTP/1.1" 200 None
+2025-06-30 11:21:43,834 INFO   Found 5 employees for company 1838025.0
+2025-06-30 11:21:43,834 DEBUG Employee IDs for company 1838025.0: [446621104, 355158790, 338918984, 463513502, 633323601]
+2025-06-30 11:21:43,835 DEBUG Checkpoint saved after company 1838025.0
+2025-06-30 11:21:44,840 INFO Processing company: 31356135.0 (None)
+2025-06-30 11:21:44,841 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:45,716 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:45,717 INFO   Collecting employee 1/1 for company 31356135.0: 479097924
+2025-06-30 11:21:45,718 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:46,396 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/479097924 HTTP/1.1" 200 None
+2025-06-30 11:21:47,001 INFO   Found 1 employees for company 31356135.0
+2025-06-30 11:21:47,001 DEBUG Employee IDs for company 31356135.0: [479097924]
+2025-06-30 11:21:47,002 DEBUG Checkpoint saved after company 31356135.0
+2025-06-30 11:21:48,003 INFO Processing company: 94672917.0 (None)
+2025-06-30 11:21:48,005 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:48,834 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:48,834 INFO   Collecting employee 1/1 for company 94672917.0: 469336843
+2025-06-30 11:21:48,836 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:49,548 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/469336843 HTTP/1.1" 200 None
+2025-06-30 11:21:50,151 INFO   Found 1 employees for company 94672917.0
+2025-06-30 11:21:50,151 DEBUG Employee IDs for company 94672917.0: [469336843]
+2025-06-30 11:21:50,152 DEBUG Checkpoint saved after company 94672917.0
+2025-06-30 11:21:51,153 DEBUG Skipping already processed company: 89743218.0
+2025-06-30 11:21:51,153 INFO Processing company: 89090880.0 (None)
+2025-06-30 11:21:51,154 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:51,970 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:51,971 INFO   Collecting employee 1/2 for company 89090880.0: 424013754
+2025-06-30 11:21:51,972 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:52,651 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/424013754 HTTP/1.1" 200 None
+2025-06-30 11:21:53,479 INFO   Collecting employee 2/2 for company 89090880.0: 432316454
+2025-06-30 11:21:53,480 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:54,120 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/432316454 HTTP/1.1" 200 None
+2025-06-30 11:21:54,927 INFO   Found 2 employees for company 89090880.0
+2025-06-30 11:21:54,928 DEBUG Employee IDs for company 89090880.0: [424013754, 432316454]
+2025-06-30 11:21:54,929 DEBUG Checkpoint saved after company 89090880.0
+2025-06-30 11:21:55,930 DEBUG Skipping already processed company: 97706126.0
+2025-06-30 11:21:55,931 DEBUG Skipping already processed company: 96067824.0
+2025-06-30 11:21:55,931 DEBUG Skipping already processed company: 3331869.0
+2025-06-30 11:21:55,931 INFO Processing company: 65081930.0 (None)
+2025-06-30 11:21:55,933 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:56,790 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:56,790 INFO No strict execs found for 65081930.0, trying fuzzy job title search...
+2025-06-30 11:21:56,791 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:58,096 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:21:58,098 INFO   Collecting employee 1/1 for company 65081930.0: 254310546
+2025-06-30 11:21:58,099 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:21:58,755 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/254310546 HTTP/1.1" 200 None
+2025-06-30 11:21:59,659 INFO   Found 1 employees for company 65081930.0
+2025-06-30 11:21:59,660 DEBUG Employee IDs for company 65081930.0: [254310546]
+2025-06-30 11:21:59,661 DEBUG Checkpoint saved after company 65081930.0
+2025-06-30 11:22:00,661 DEBUG Skipping already processed company: 2024332.0
+2025-06-30 11:22:00,662 INFO Processing company: 29236477.0 (None)
+2025-06-30 11:22:00,663 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:01,524 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:01,524 INFO   Collecting employee 1/2 for company 29236477.0: 203018545
+2025-06-30 11:22:01,525 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:02,192 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/203018545 HTTP/1.1" 200 None
+2025-06-30 11:22:03,020 INFO   Collecting employee 2/2 for company 29236477.0: 359713549
+2025-06-30 11:22:03,021 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:03,682 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/359713549 HTTP/1.1" 200 None
+2025-06-30 11:22:04,493 INFO   Found 2 employees for company 29236477.0
+2025-06-30 11:22:04,493 DEBUG Employee IDs for company 29236477.0: [203018545, 359713549]
+2025-06-30 11:22:04,495 DEBUG Checkpoint saved after company 29236477.0
+2025-06-30 11:22:05,495 INFO Processing company: 6631431.0 (None)
+2025-06-30 11:22:05,497 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:06,360 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:06,360 INFO   Collecting employee 1/6 for company 6631431.0: 31586566
+2025-06-30 11:22:06,361 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:07,091 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/31586566 HTTP/1.1" 200 None
+2025-06-30 11:22:07,893 INFO   Collecting employee 2/6 for company 6631431.0: 73908895
+2025-06-30 11:22:07,894 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:08,551 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/73908895 HTTP/1.1" 200 None
+2025-06-30 11:22:09,254 INFO   Collecting employee 3/6 for company 6631431.0: 82533088
+2025-06-30 11:22:09,255 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:10,101 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/82533088 HTTP/1.1" 200 None
+2025-06-30 11:22:10,835 INFO   Collecting employee 4/6 for company 6631431.0: 357674499
+2025-06-30 11:22:10,836 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:11,476 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/357674499 HTTP/1.1" 200 None
+2025-06-30 11:22:12,279 INFO   Collecting employee 5/6 for company 6631431.0: 405554629
+2025-06-30 11:22:12,280 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:12,948 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/405554629 HTTP/1.1" 200 None
+2025-06-30 11:22:13,651 INFO   Collecting employee 6/6 for company 6631431.0: 339597918
+2025-06-30 11:22:13,653 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:14,307 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/339597918 HTTP/1.1" 200 None
+2025-06-30 11:22:15,013 INFO   Found 6 employees for company 6631431.0
+2025-06-30 11:22:15,014 DEBUG Employee IDs for company 6631431.0: [31586566, 73908895, 82533088, 357674499, 405554629, 339597918]
+2025-06-30 11:22:15,015 DEBUG Checkpoint saved after company 6631431.0
+2025-06-30 11:22:16,015 INFO Processing company: 82489043.0 (None)
+2025-06-30 11:22:16,017 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:17,344 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:17,344 INFO No strict execs found for 82489043.0, trying fuzzy job title search...
+2025-06-30 11:22:17,345 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:18,762 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:18,764 INFO No fuzzy company name match for 82489043.0, trying broad fallback search...
+2025-06-30 11:22:18,765 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:19,927 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:19,928 WARNING No employees found for company 82489043.0 after all search strategies.
+2025-06-30 11:22:19,929 INFO   Found 0 employees for company 82489043.0
+2025-06-30 11:22:19,929 WARNING No employees found for company 82489043.0
+2025-06-30 11:22:19,930 DEBUG Checkpoint saved after company 82489043.0
+2025-06-30 11:22:20,931 INFO Processing company: 94719348.0 (None)
+2025-06-30 11:22:20,933 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:21,855 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:21,855 INFO No strict execs found for 94719348.0, trying fuzzy job title search...
+2025-06-30 11:22:21,856 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:23,213 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:23,214 INFO No fuzzy company name match for 94719348.0, trying broad fallback search...
+2025-06-30 11:22:23,216 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:25,269 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:25,271 INFO   Collecting employee 1/2 for company 94719348.0: 747888146
+2025-06-30 11:22:25,272 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:25,923 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/747888146 HTTP/1.1" 200 None
+2025-06-30 11:22:26,425 INFO   Collecting employee 2/2 for company 94719348.0: 497356689
+2025-06-30 11:22:26,426 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:27,075 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/497356689 HTTP/1.1" 200 None
+2025-06-30 11:22:27,881 INFO   Found 2 employees for company 94719348.0
+2025-06-30 11:22:27,881 DEBUG Employee IDs for company 94719348.0: [747888146, 497356689]
+2025-06-30 11:22:27,883 DEBUG Checkpoint saved after company 94719348.0
+2025-06-30 11:22:28,884 INFO Processing company: 89054274.0 (None)
+2025-06-30 11:22:28,885 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:29,912 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:29,912 INFO No strict execs found for 89054274.0, trying fuzzy job title search...
+2025-06-30 11:22:29,914 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:31,356 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:31,357 INFO No fuzzy company name match for 89054274.0, trying broad fallback search...
+2025-06-30 11:22:31,358 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:32,138 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:32,140 INFO   Collecting employee 1/2 for company 89054274.0: 287793803
+2025-06-30 11:22:32,140 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:32,828 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/287793803 HTTP/1.1" 200 None
+2025-06-30 11:22:33,658 INFO   Collecting employee 2/2 for company 89054274.0: 480593677
+2025-06-30 11:22:33,659 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:34,274 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/480593677 HTTP/1.1" 200 None
+2025-06-30 11:22:34,981 INFO   Found 2 employees for company 89054274.0
+2025-06-30 11:22:34,981 DEBUG Employee IDs for company 89054274.0: [287793803, 480593677]
+2025-06-30 11:22:34,982 DEBUG Checkpoint saved after company 89054274.0
+2025-06-30 11:22:35,984 DEBUG Skipping already processed company: 94371715.0
+2025-06-30 11:22:35,984 INFO Processing company: 1863303.0 (None)
+2025-06-30 11:22:35,986 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:36,880 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:36,881 INFO   Collecting employee 1/1 for company 1863303.0: 251253313
+2025-06-30 11:22:36,882 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:37,955 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/251253313 HTTP/1.1" 200 None
+2025-06-30 11:22:38,675 INFO   Found 1 employees for company 1863303.0
+2025-06-30 11:22:38,675 DEBUG Employee IDs for company 1863303.0: [251253313]
+2025-06-30 11:22:38,676 DEBUG Checkpoint saved after company 1863303.0
+2025-06-30 11:22:39,677 INFO Processing company: 93789653.0 (None)
+2025-06-30 11:22:39,679 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:40,558 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:40,558 INFO   Collecting employee 1/2 for company 93789653.0: 340100943
+2025-06-30 11:22:40,559 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:41,410 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/340100943 HTTP/1.1" 200 None
+2025-06-30 11:22:42,239 INFO   Collecting employee 2/2 for company 93789653.0: 113878245
+2025-06-30 11:22:42,240 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:42,896 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/113878245 HTTP/1.1" 200 None
+2025-06-30 11:22:43,801 INFO   Found 2 employees for company 93789653.0
+2025-06-30 11:22:43,802 DEBUG Employee IDs for company 93789653.0: [340100943, 113878245]
+2025-06-30 11:22:43,803 DEBUG Checkpoint saved after company 93789653.0
+2025-06-30 11:22:44,804 DEBUG Skipping already processed company: 33639471.0
+2025-06-30 11:22:44,805 DEBUG Skipping already processed company: 5754875.0
+2025-06-30 11:22:44,805 INFO Processing company: 27489065.0 (None)
+2025-06-30 11:22:44,806 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:45,919 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:22:45,919 INFO   Collecting employee 1/15 for company 27489065.0: 445454124
+2025-06-30 11:22:45,920 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:46,551 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/445454124 HTTP/1.1" 200 None
+2025-06-30 11:22:47,352 INFO   Collecting employee 2/15 for company 27489065.0: 85902401
+2025-06-30 11:22:47,354 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:47,998 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/85902401 HTTP/1.1" 200 None
+2025-06-30 11:22:48,828 INFO   Collecting employee 3/15 for company 27489065.0: 92026723
+2025-06-30 11:22:48,830 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:49,480 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/92026723 HTTP/1.1" 200 None
+2025-06-30 11:22:50,287 INFO   Collecting employee 4/15 for company 27489065.0: 53131827
+2025-06-30 11:22:50,288 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:50,943 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/53131827 HTTP/1.1" 200 None
+2025-06-30 11:22:51,750 INFO   Collecting employee 5/15 for company 27489065.0: 208972698
+2025-06-30 11:22:51,751 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:52,416 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/208972698 HTTP/1.1" 200 None
+2025-06-30 11:22:53,321 INFO   Collecting employee 6/15 for company 27489065.0: 418075855
+2025-06-30 11:22:53,322 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:54,179 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/418075855 HTTP/1.1" 200 None
+2025-06-30 11:22:54,879 INFO   Collecting employee 7/15 for company 27489065.0: 208427691
+2025-06-30 11:22:54,880 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:55,801 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/208427691 HTTP/1.1" 200 None
+2025-06-30 11:22:56,604 INFO   Collecting employee 8/15 for company 27489065.0: 640038831
+2025-06-30 11:22:56,605 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:57,230 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/640038831 HTTP/1.1" 200 None
+2025-06-30 11:22:57,732 INFO   Collecting employee 9/15 for company 27489065.0: 357667198
+2025-06-30 11:22:57,734 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:58,511 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/357667198 HTTP/1.1" 200 None
+2025-06-30 11:22:59,313 INFO   Collecting employee 10/15 for company 27489065.0: 355695769
+2025-06-30 11:22:59,315 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:22:59,958 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/355695769 HTTP/1.1" 200 None
+2025-06-30 11:23:00,760 INFO   Collecting employee 11/15 for company 27489065.0: 411395029
+2025-06-30 11:23:00,762 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:01,658 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/411395029 HTTP/1.1" 200 None
+2025-06-30 11:23:02,380 INFO   Collecting employee 12/15 for company 27489065.0: 359596717
+2025-06-30 11:23:02,381 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:03,235 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/359596717 HTTP/1.1" 200 None
+2025-06-30 11:23:04,038 INFO   Collecting employee 13/15 for company 27489065.0: 433130869
+2025-06-30 11:23:04,039 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:04,889 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/433130869 HTTP/1.1" 200 None
+2025-06-30 11:23:05,627 INFO   Collecting employee 14/15 for company 27489065.0: 195274631
+2025-06-30 11:23:05,628 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:06,378 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/195274631 HTTP/1.1" 200 None
+2025-06-30 11:23:07,184 INFO   Collecting employee 15/15 for company 27489065.0: 253408019
+2025-06-30 11:23:07,186 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:07,925 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/253408019 HTTP/1.1" 200 None
+2025-06-30 11:23:08,767 INFO   Found 15 employees for company 27489065.0
+2025-06-30 11:23:08,768 DEBUG Employee IDs for company 27489065.0: [445454124, 85902401, 92026723, 53131827, 208972698, 418075855, 208427691, 640038831, 357667198, 355695769, 411395029, 359596717, 433130869, 195274631, 253408019]
+2025-06-30 11:23:08,769 DEBUG Checkpoint saved after company 27489065.0
+2025-06-30 11:23:09,769 INFO Processing company: 28499963.0 (None)
+2025-06-30 11:23:09,771 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:10,598 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:10,599 INFO   Collecting employee 1/2 for company 28499963.0: 151184623
+2025-06-30 11:23:10,600 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:11,267 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/151184623 HTTP/1.1" 200 None
+2025-06-30 11:23:12,169 INFO   Collecting employee 2/2 for company 28499963.0: 157096496
+2025-06-30 11:23:12,170 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:12,856 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/157096496 HTTP/1.1" 200 None
+2025-06-30 11:23:13,686 INFO   Found 2 employees for company 28499963.0
+2025-06-30 11:23:13,687 DEBUG Employee IDs for company 28499963.0: [151184623, 157096496]
+2025-06-30 11:23:13,688 DEBUG Checkpoint saved after company 28499963.0
+2025-06-30 11:23:14,689 DEBUG Skipping already processed company: 88114714.0
+2025-06-30 11:23:14,690 INFO Processing company: 1613643.0 (None)
+2025-06-30 11:23:14,691 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:15,512 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:15,512 INFO No strict execs found for 1613643.0, trying fuzzy job title search...
+2025-06-30 11:23:15,513 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:17,027 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:17,029 INFO   Collecting employee 1/3 for company 1613643.0: 463696375
+2025-06-30 11:23:17,030 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:17,828 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/463696375 HTTP/1.1" 200 None
+2025-06-30 11:23:18,632 INFO   Collecting employee 2/3 for company 1613643.0: 18275501
+2025-06-30 11:23:18,634 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:19,308 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/18275501 HTTP/1.1" 200 None
+2025-06-30 11:23:20,114 INFO   Collecting employee 3/3 for company 1613643.0: 73157390
+2025-06-30 11:23:20,115 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:20,775 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/73157390 HTTP/1.1" 200 None
+2025-06-30 11:23:21,499 INFO   Found 3 employees for company 1613643.0
+2025-06-30 11:23:21,499 DEBUG Employee IDs for company 1613643.0: [463696375, 18275501, 73157390]
+2025-06-30 11:23:21,501 DEBUG Checkpoint saved after company 1613643.0
+2025-06-30 11:23:22,502 DEBUG Skipping already processed company: 97628346.0
+2025-06-30 11:23:22,502 DEBUG Skipping already processed company: 96328000.0
+2025-06-30 11:23:22,502 INFO Processing company: 96522025.0 (None)
+2025-06-30 11:23:22,504 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:23,430 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:23,431 INFO No strict execs found for 96522025.0, trying fuzzy job title search...
+2025-06-30 11:23:23,432 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:24,874 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:24,875 INFO No fuzzy company name match for 96522025.0, trying broad fallback search...
+2025-06-30 11:23:24,876 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:25,650 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:25,652 WARNING No employees found for company 96522025.0 after all search strategies.
+2025-06-30 11:23:25,653 INFO   Found 0 employees for company 96522025.0
+2025-06-30 11:23:25,653 WARNING No employees found for company 96522025.0
+2025-06-30 11:23:25,654 DEBUG Checkpoint saved after company 96522025.0
+2025-06-30 11:23:26,656 INFO Processing company: 8707398.0 (None)
+2025-06-30 11:23:26,657 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:27,490 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:27,491 INFO No strict execs found for 8707398.0, trying fuzzy job title search...
+2025-06-30 11:23:27,492 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:28,941 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:28,942 INFO No fuzzy company name match for 8707398.0, trying broad fallback search...
+2025-06-30 11:23:28,943 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:29,940 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:29,941 INFO   Collecting employee 1/10 for company 8707398.0: 449846568
+2025-06-30 11:23:29,943 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:30,584 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/449846568 HTTP/1.1" 200 None
+2025-06-30 11:23:31,289 INFO   Collecting employee 2/10 for company 8707398.0: 65663918
+2025-06-30 11:23:31,290 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:32,175 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/65663918 HTTP/1.1" 200 None
+2025-06-30 11:23:32,939 INFO   Collecting employee 3/10 for company 8707398.0: 469242637
+2025-06-30 11:23:32,940 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:33,603 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/469242637 HTTP/1.1" 200 None
+2025-06-30 11:23:34,308 INFO   Collecting employee 4/10 for company 8707398.0: 202921289
+2025-06-30 11:23:34,309 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:34,971 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/202921289 HTTP/1.1" 200 None
+2025-06-30 11:23:35,803 INFO   Collecting employee 5/10 for company 8707398.0: 655454603
+2025-06-30 11:23:35,804 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:36,482 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/655454603 HTTP/1.1" 200 None
+2025-06-30 11:23:36,985 INFO   Collecting employee 6/10 for company 8707398.0: 360427329
+2025-06-30 11:23:36,986 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:37,956 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/360427329 HTTP/1.1" 200 None
+2025-06-30 11:23:38,760 INFO   Collecting employee 7/10 for company 8707398.0: 397271280
+2025-06-30 11:23:38,761 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:39,409 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/397271280 HTTP/1.1" 200 None
+2025-06-30 11:23:40,239 INFO   Collecting employee 8/10 for company 8707398.0: 468739556
+2025-06-30 11:23:40,241 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:40,852 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/468739556 HTTP/1.1" 200 None
+2025-06-30 11:23:41,354 INFO   Collecting employee 9/10 for company 8707398.0: 334650912
+2025-06-30 11:23:41,356 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:41,985 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/334650912 HTTP/1.1" 200 None
+2025-06-30 11:23:42,689 INFO   Collecting employee 10/10 for company 8707398.0: 402424731
+2025-06-30 11:23:42,691 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:43,357 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/402424731 HTTP/1.1" 200 None
+2025-06-30 11:23:43,962 INFO   Found 10 employees for company 8707398.0
+2025-06-30 11:23:43,962 DEBUG Employee IDs for company 8707398.0: [449846568, 65663918, 469242637, 202921289, 655454603, 360427329, 397271280, 468739556, 334650912, 402424731]
+2025-06-30 11:23:43,963 DEBUG Checkpoint saved after company 8707398.0
+2025-06-30 11:23:44,964 DEBUG Skipping already processed company: 7721630.0
+2025-06-30 11:23:44,965 DEBUG Skipping already processed company: 88779576.0
+2025-06-30 11:23:44,965 DEBUG Skipping already processed company: 88703628.0
+2025-06-30 11:23:44,965 DEBUG Skipping already processed company: 25970118.0
+2025-06-30 11:23:44,966 DEBUG Skipping already processed company: 6691353.0
+2025-06-30 11:23:44,966 INFO Processing company: 10945347.0 (None)
+2025-06-30 11:23:44,967 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:45,891 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:45,892 INFO   Collecting employee 1/2 for company 10945347.0: 128326801
+2025-06-30 11:23:45,893 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:46,689 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/128326801 HTTP/1.1" 200 None
+2025-06-30 11:23:47,497 INFO   Collecting employee 2/2 for company 10945347.0: 495765475
+2025-06-30 11:23:47,498 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:48,159 DEBUG https://api.coresignal.com:443 "GET /cdapi/v2/member/collect/495765475 HTTP/1.1" 200 None
+2025-06-30 11:23:48,772 INFO   Found 2 employees for company 10945347.0
+2025-06-30 11:23:48,773 DEBUG Employee IDs for company 10945347.0: [128326801, 495765475]
+2025-06-30 11:23:48,774 DEBUG Checkpoint saved after company 10945347.0
+2025-06-30 11:23:49,775 DEBUG Skipping already processed company: 92776304.0
+2025-06-30 11:23:49,776 INFO Processing company: 26559163.0 (None)
+2025-06-30 11:23:49,777 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:50,588 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:50,588 INFO No strict execs found for 26559163.0, trying fuzzy job title search...
+2025-06-30 11:23:50,589 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:52,287 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:52,288 INFO No fuzzy company name match for 26559163.0, trying broad fallback search...
+2025-06-30 11:23:52,289 DEBUG Starting new HTTPS connection (1): api.coresignal.com:443
+2025-06-30 11:23:53,261 DEBUG https://api.coresignal.com:443 "POST /cdapi/v2/member/search/es_dsl HTTP/1.1" 200 None
+2025-06-30 11:23:53,262 WARNING No employees found for company 26559163.0 after all search strategies.
+2025-06-30 11:23:53,263 INFO   Found 0 employees for company 26559163.0
+2025-06-30 11:23:53,263 WARNING No employees found for company 26559163.0
+2025-06-30 11:23:53,264 DEBUG Checkpoint saved after company 26559163.0
+2025-06-30 11:23:54,265 DEBUG Skipping already processed company: 10429467.0
+2025-06-30 11:23:54,266 DEBUG Skipping already processed company: 5906149.0
+2025-06-30 11:23:54,267 INFO Writing output to finalenrichment.csv ...
+2025-06-30 11:23:54,899 INFO Enrichment complete. Output written to finalenrichment.csv
+2025-06-30 11:23:54,900 INFO Total companies processed: 105
+2025-06-30 11:23:54,900 INFO Total employees written: 185
+2025-06-30 11:23:54,900 INFO ==============================
+2025-06-30 11:23:54,900 INFO Script finished. You can safely close this window.

@@ -1,0 +1,907 @@
+is_opened,name,email,company_name,company_website,company_id,company_display_name,company_canonical_url,company_website_url,company_industry,company_size,company_type,company_founded,company_employees,company_description,company_headquarters,company_specialties,company_logo_url,employee_id,employee_full_name,employee_first_name,employee_last_name,employee_title,employee_headline,employee_url,employee_canonical_url,employee_location,employee_country,employee_industry,employee_connections_count,employee_summary,employee_experience,employee_education,employee_created,employee_last_updated,enrichment_status,enrichment_error,company_match_score,employee_match_score,api_calls_made,company_name_exact,company_website_domain_only,company_industry_exact,company_size_range,company_employees_count,company_founded_year,company_is_public,company_ipo_date,company_stock_ticker_ticker,company_revenue_annual_source_1_annual_revenue,company_revenue_annual_range_source_4_annual_revenue_range_from,company_hq_country_iso2,company_hq_region,company_hq_city,company_hq_state,company_locations_full_location_address,company_income_statements_net_income,company_income_statements_ebitda_margin,company_total_website_visits_monthly,company_visits_breakdown_by_country_country,company_bounce_rate,company_pages_per_visit,company_employees_count_change_yearly_percentage,company_total_website_visits_change_monthly_percentage,company_active_job_postings_count_change_monthly_percentage,company_followers_count_professional_network,company_followers_count_twitter,company_updates_1_date,company_updates_1_description,company_updates_1_reactions_count,company_updates_1_comments_count,company_updates_2_date,company_updates_2_description,company_updates_2_reactions_count,company_updates_2_comments_count,company_updates_3_date,company_updates_3_description,company_updates_3_reactions_count,company_updates_3_comments_count,company_updates_4_date,company_updates_4_description,company_updates_4_reactions_count,company_updates_4_comments_count,company_updates_5_date,company_updates_5_description,company_updates_5_reactions_count,company_updates_5_comments_count,company_last_funding_round_name,company_last_funding_round_announced_date,company_last_funding_round_amount_raised,company_funding_rounds_1_name,company_funding_rounds_2_name,company_funding_rounds_3_name,company_funding_rounds_4_name,company_funding_rounds_5_name,company_parent_company_information_parent_company_name,company_acquired_by_summary_acquirer_name,company_technologies_used_1_technology,company_technologies_used_2_technology,company_technologies_used_3_technology,company_technologies_used_4_technology,company_technologies_used_5_technology,company_num_news_articles,employee_full_name_exact,employee_headline,employee_location_full_exact,employee_location_country_iso2,employee_connections_count,employee_followers_count,employee_primary_professional_email_exact,employee_active_experience_title,employee_active_experience_company_id,employee_total_experience_duration_months,employee_experience_1_position_title_exact,employee_experience_1_duration_months,employee_experience_1_company_name_exact,employee_experience_2_position_title_exact,employee_experience_2_duration_months,employee_experience_2_company_name_exact,employee_experience_3_position_title_exact,employee_experience_3_duration_months,employee_experience_3_company_name_exact,employee_experience_4_position_title_exact,employee_experience_4_duration_months,employee_experience_4_company_name_exact,employee_experience_5_position_title_exact,employee_experience_5_duration_months,employee_experience_5_company_name_exact,employee_education_1_institution_name_exact,employee_education_1_degree_exact,employee_education_2_institution_name_exact,employee_education_2_degree_exact,employee_education_3_institution_name_exact,employee_education_3_degree_exact,employee_last_graduation_date,employee_inferred_skills,employee_historical_skills,employee_recommendations_count,employee_experience_change_last_identified_at,employee_experience_recently_started_date_from,employee_experience_recently_closed_date_to,company_facebook_urls,company_twitter_urls,company_instagram_urls,company_youtube_urls,company_github_urls,company_reddit_urls,company_discord_urls,company_pinterest_urls,company_tiktok_urls,company_crunchbase_url,company_logo_raw,company_logo_url,company_description_enriched,company_description_metadata_raw,company_sic_codes,company_naics_codes,company_categories_and_keywords,company_type,company_status_value,company_status_comment,company_ownership_status,company_hq_country,company_hq_country_iso3,company_hq_full_address,company_hq_street,company_hq_zipcode,company_locations_1_address,company_locations_1_is_primary,company_locations_2_address,company_locations_2_is_primary,company_locations_3_address,company_locations_3_is_primary,company_locations_4_address,company_locations_4_is_primary,company_locations_5_address,company_locations_5_is_primary,company_competitors_1_website,company_competitors_1_similarity_score,company_competitors_1_total_website_visits_monthly,company_competitors_1_category,company_competitors_1_rank_category,company_competitors_2_website,company_competitors_2_similarity_score,company_competitors_2_total_website_visits_monthly,company_competitors_2_category,company_competitors_2_rank_category,company_competitors_3_website,company_competitors_3_similarity_score,company_competitors_3_total_website_visits_monthly,company_competitors_3_category,company_competitors_3_rank_category,company_competitors_4_website,company_competitors_4_similarity_score,company_competitors_4_total_website_visits_monthly,company_competitors_4_category,company_competitors_4_rank_category,company_competitors_5_website,company_competitors_5_similarity_score,company_competitors_5_total_website_visits_monthly,company_competitors_5_category,company_competitors_5_rank_category,company_phone_number_1,company_phone_number_2,company_phone_number_3,company_email_1,company_email_2,company_email_3,company_visits_country_1_name,company_visits_country_1_percentage,company_visits_country_1_monthly_change,company_visits_country_2_name,company_visits_country_2_percentage,company_visits_country_2_monthly_change,company_visits_country_3_name,company_visits_country_3_percentage,company_visits_country_3_monthly_change,company_visits_country_4_name,company_visits_country_4_percentage,company_visits_country_4_monthly_change,company_visits_country_5_name,company_visits_country_5_percentage,company_visits_country_5_monthly_change,company_visits_male_percentage,company_visits_female_percentage,company_visits_age_18_24_percentage,company_visits_age_25_34_percentage,company_visits_age_35_44_percentage,company_visits_age_45_54_percentage,company_visits_age_55_64_percentage,company_visits_age_65_plus_percentage,company_bounce_rate,company_pages_per_visit,company_average_visit_duration_seconds,company_similar_website_1,company_similar_website_2,company_similar_website_3,company_similar_website_4,company_similar_website_5,company_linkedin_followers_1_count,company_linkedin_followers_1_date,company_linkedin_followers_2_count,company_linkedin_followers_2_date,company_linkedin_followers_3_count,company_linkedin_followers_3_date,company_linkedin_followers_4_count,company_linkedin_followers_4_date,company_linkedin_followers_5_count,company_linkedin_followers_5_date,company_employees_1_count,company_employees_1_date,company_employees_2_count,company_employees_2_date,company_employees_3_count,company_employees_3_date,company_employees_4_count,company_employees_4_date,company_employees_5_count,company_employees_5_date,company_employees_count_owner,company_employees_count_founder,company_employees_count_clevel,company_employees_count_partner,company_employees_count_vp,company_employees_count_head,company_employees_count_director,company_employees_count_manager,company_employees_count_senior,company_employees_count_intern,company_employees_count_specialist,company_employees_count_other_management,company_key_executive_1_full_name,company_key_executive_1_position_title,company_key_executive_2_full_name,company_key_executive_2_position_title,company_key_executive_3_full_name,company_key_executive_3_position_title,company_key_executive_4_full_name,company_key_executive_4_position_title,company_key_executive_5_full_name,company_key_executive_5_position_title,company_top_previous_company_1_name,company_top_previous_company_1_count,company_top_previous_company_2_name,company_top_previous_company_2_count,company_top_previous_company_3_name,company_top_previous_company_3_count,company_top_previous_company_4_name,company_top_previous_company_4_count,company_top_previous_company_5_name,company_top_previous_company_5_count,company_top_next_company_1_name,company_top_next_company_1_count,company_top_next_company_2_name,company_top_next_company_2_count,company_top_next_company_3_name,company_top_next_company_3_count,company_top_next_company_4_name,company_top_next_company_4_count,company_top_next_company_5_name,company_top_next_company_5_count,company_revenue_annual_source_5_annual_revenue,company_revenue_annual_source_5_annual_revenue_currency,company_revenue_annual_range_source_6_annual_revenue_range_from,company_revenue_annual_range_source_6_annual_revenue_range_to,company_revenue_annual_range_source_6_annual_revenue_range_currency,company_visits_country_1_name,company_visits_country_1_percentage,company_visits_country_1_monthly_change,company_visits_country_2_name,company_visits_country_2_percentage,company_visits_country_2_monthly_change,company_visits_country_3_name,company_visits_country_3_percentage,company_visits_country_3_monthly_change,company_visits_country_4_name,company_visits_country_4_percentage,company_visits_country_4_monthly_change,company_visits_country_5_name,company_visits_country_5_percentage,company_visits_country_5_monthly_change,company_updates_1_date,company_updates_1_description,company_updates_1_reactions_count,company_updates_1_comments_count,company_updates_2_date,company_updates_2_description,company_updates_2_reactions_count,company_updates_2_comments_count,company_updates_3_date,company_updates_3_description,company_updates_3_reactions_count,company_updates_3_comments_count,company_updates_4_date,company_updates_4_description,company_updates_4_reactions_count,company_updates_4_comments_count,company_updates_5_date,company_updates_5_description,company_updates_5_reactions_count,company_updates_5_comments_count,company_funding_rounds_1_name,company_funding_rounds_1_announced_date,company_funding_rounds_1_lead_investors,company_funding_rounds_1_amount_raised,company_funding_rounds_1_amount_raised_currency,company_funding_rounds_1_num_investors,company_funding_rounds_2_name,company_funding_rounds_2_announced_date,company_funding_rounds_2_lead_investors,company_funding_rounds_2_amount_raised,company_funding_rounds_2_amount_raised_currency,company_funding_rounds_2_num_investors,company_funding_rounds_3_name,company_funding_rounds_3_announced_date,company_funding_rounds_3_lead_investors,company_funding_rounds_3_amount_raised,company_funding_rounds_3_amount_raised_currency,company_funding_rounds_3_num_investors,company_funding_rounds_4_name,company_funding_rounds_4_announced_date,company_funding_rounds_4_lead_investors,company_funding_rounds_4_amount_raised,company_funding_rounds_4_amount_raised_currency,company_funding_rounds_4_num_investors,company_funding_rounds_5_name,company_funding_rounds_5_announced_date,company_funding_rounds_5_lead_investors,company_funding_rounds_5_amount_raised,company_funding_rounds_5_amount_raised_currency,company_funding_rounds_5_num_investors,company_technologies_used_1_technology,company_technologies_used_1_first_verified_at,company_technologies_used_1_last_verified_at,company_technologies_used_2_technology,company_technologies_used_2_first_verified_at,company_technologies_used_2_last_verified_at,company_technologies_used_3_technology,company_technologies_used_3_first_verified_at,company_technologies_used_3_last_verified_at,company_technologies_used_4_technology,company_technologies_used_4_first_verified_at,company_technologies_used_4_last_verified_at,company_technologies_used_5_technology,company_technologies_used_5_first_verified_at,company_technologies_used_5_last_verified_at,company_followers_count_linkedin,company_followers_count_twitter,company_followers_count_owler,company_num_news_articles,is_pe_vc_funded
+,Pioneer Valley Books,,Pioneer Valley Books,http://www.pioneervalleybooks.com,7721630.0,Pioneer Valley Books,https://www.linkedin.com/company/pioneer-valley-books,http://www.pioneervalleybooks.com,Book and Periodical Publishing,51-200 employees,Privately Held,1998,55,"Your trusted literacy partner for over 25 years, Pioneer Valley Books is dedicated to providing educators with high-quality print and digital resources for comprehensive literacy instruction. We offer engaging books and research-based materials to improve educational outcomes and foster a love of reading. Our robust literacy programs empower educators to create the best possible learning experience for their students.",,,https://media.licdn.com/dms/image/v2/D4E0BAQHQJsKCY8Ogjg/company-logo_200_200/company-logo_200_200/0/1734546907233/pioneer_valley_books_logo?e=2147483647&v=beta&t=jKsF3JwKtetmlkaM9fXt79GKLyJqBdAWzgfAxHiGwfw,118425296.0,Pioneer Valley Books,Michele,Dufresne,President at Pioneer Valley Books,President at Pioneer Valley Books,https://www.linkedin.com/in/michele-dufresne-242b9614,https://www.linkedin.com/in/michele-dufresne-242b9614,"Amherst, Massachusetts, United States",United States,Publishing,189.0,,3.0,"Amherst, Massachusetts, United States",2016-08-07 07:19:58,2025-07-02 03:24:27,,,,,,,,Book and Periodical Publishing,,55,1998,,,,,,,,,,,,,,,,,,,,,,6mo,"Step into our NEW Shared Reading kits! We are so excited to announce that Stepping Together Shared Reading is here! Complete your whole-group classroom literacy program with reading, writing, phonological awareness, and phonics. Learn more: https://bit.ly/3HSn1Od",6,6,1w,"NEW! We've recently added three brand-new phonics book sets to our fabulous Digital Reader app—72 decodable readers! 
+
+The Ready, Set, Go books provide the most novice reader with opportunities to develop concepts of print, such as one-to-one matching and return sweep, as well as practice in decoding using consonant sounds and short vowels.
+
+The On Our Way books provide the beginning reader with opportunities to practice decoding CVC words, words with initial and final digraphs, and simple words with initial blends.
+
+The Building Up books provide the early reader with opportunities to practice decoding words with final blends, long vowels, and vowel teams. digitalreader.com
+
+#reading #reading #teacher #teaching #phonics #literacy #digitalreader #pioneervalleybooks #decodablebooks #decoding",5,5,1mo,"If you missed our last dynamic webinar, Unpacking Reading Science to Inform a Different Path to Literacy, featuring Paul Thomas, Ed.D., you can now watch it (and sign up for future webinars) at https://lnkd.in/d7XRkpN
+
+#sor #scienceofreading #literacy #reading #teacher #teachers #readingscience #paulthomas #webinar #professionallearning #decode #decoding #decodable",2,2,2mo,"Navigating the current demands of literacy instruction can be time-consuming! Our new Stepping Together Shared Reading kits are YOUR integrated curriculum solution! HINT: Use code SHARED15 to save Save 15% off! Check out the kits: https://bit.ly/3HSn1Od
+
+#sharedreading #reading #phonics #decoding #books #book #read #teachers #teaching #classroom #kindergarten #kindergartenteacher #firstgrade #firstgradeteacher #secondgrade #secondgradeteacher #elementaryschool #elementary #elementaryeducation #elementaryteacher",3,3,2mo,"NEW! Pioneer Valley Phonics Storybooks are here! Your readers will gain both skill and confidence with these engaging books, and our first set is arriving in our warehouse THIS WEEK! These Ready, Set, Go books provide the most novice reader with opportunities to develop concepts of print, such as one-to-one matching and return sweep, as well as practice in decoding using consonant sounds and short vowels. Ready, Set, Go Set 1 is available to purchase now: https://bit.ly/3BS6d9h
+
+#phonics #reading #teacher #literacy #readingteacher #decode #decoding #decodablebooks #kindergarten #kindergartenteacher #firstgrade #firstgradeteacher #secondgrade #secondgradeteacher #school #schools #principals",6,6,,,,,,,,,,,,,,,,,,President at Pioneer Valley Books,"Amherst, Massachusetts, United States",,189.0,,,,,,President,,Pioneer Valley Books,Reading Recovery Teacher Leader,,Amherst Public Schools,Literacy Coordinator,,South Hadley Public Schools,,,,,,,"University of Massachusetts, Amherst","Doctor of Education (EdD), Literacy","University of Massachusetts, Amherst","Doctor of Education (EdD), Elementary Education and Teaching",,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/D4E0BAQHQJsKCY8Ogjg/company-logo_200_200/company-logo_200_200/0/1734546907233/pioneer_valley_books_logo?e=2147483647&v=beta&t=jKsF3JwKtetmlkaM9fXt79GKLyJqBdAWzgfAxHiGwfw,https://media.licdn.com/dms/image/v2/D4E0BAQHQJsKCY8Ogjg/company-logo_200_200/company-logo_200_200/0/1734546907233/pioneer_valley_books_logo?e=2147483647&v=beta&t=jKsF3JwKtetmlkaM9fXt79GKLyJqBdAWzgfAxHiGwfw,"Your trusted literacy partner for over 25 years, Pioneer Valley Books is dedicated to providing educators with high-quality print and digital resources for comprehensive literacy instruction. We offer engaging books and research-based materials to improve educational outcomes and foster a love of reading. Our robust literacy programs empower educators to create the best possible learning experience for their students.",,,,,Privately Held,,,,,,,,,"155-A Industrial Drive; Northampton, MA 01060, US",1.0,"199 Pine St; Florence, Massachusetts 01062, US",1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6mo,"Step into our NEW Shared Reading kits! We are so excited to announce that Stepping Together Shared Reading is here! Complete your whole-group classroom literacy program with reading, writing, phonological awareness, and phonics. Learn more: https://bit.ly/3HSn1Od",6,6,1w,"NEW! We've recently added three brand-new phonics book sets to our fabulous Digital Reader app—72 decodable readers! 
+
+The Ready, Set, Go books provide the most novice reader with opportunities to develop concepts of print, such as one-to-one matching and return sweep, as well as practice in decoding using consonant sounds and short vowels.
+
+The On Our Way books provide the beginning reader with opportunities to practice decoding CVC words, words with initial and final digraphs, and simple words with initial blends.
+
+The Building Up books provide the early reader with opportunities to practice decoding words with final blends, long vowels, and vowel teams. digitalreader.com
+
+#reading #reading #teacher #teaching #phonics #literacy #digitalreader #pioneervalleybooks #decodablebooks #decoding",5,5,1mo,"If you missed our last dynamic webinar, Unpacking Reading Science to Inform a Different Path to Literacy, featuring Paul Thomas, Ed.D., you can now watch it (and sign up for future webinars) at https://lnkd.in/d7XRkpN
+
+#sor #scienceofreading #literacy #reading #teacher #teachers #readingscience #paulthomas #webinar #professionallearning #decode #decoding #decodable",2,2,2mo,"Navigating the current demands of literacy instruction can be time-consuming! Our new Stepping Together Shared Reading kits are YOUR integrated curriculum solution! HINT: Use code SHARED15 to save Save 15% off! Check out the kits: https://bit.ly/3HSn1Od
+
+#sharedreading #reading #phonics #decoding #books #book #read #teachers #teaching #classroom #kindergarten #kindergartenteacher #firstgrade #firstgradeteacher #secondgrade #secondgradeteacher #elementaryschool #elementary #elementaryeducation #elementaryteacher",3,3,2mo,"NEW! Pioneer Valley Phonics Storybooks are here! Your readers will gain both skill and confidence with these engaging books, and our first set is arriving in our warehouse THIS WEEK! These Ready, Set, Go books provide the most novice reader with opportunities to develop concepts of print, such as one-to-one matching and return sweep, as well as practice in decoding using consonant sounds and short vowels. Ready, Set, Go Set 1 is available to purchase now: https://bit.ly/3BS6d9h
+
+#phonics #reading #teacher #literacy #readingteacher #decode #decoding #decodablebooks #kindergarten #kindergartenteacher #firstgrade #firstgradeteacher #secondgrade #secondgradeteacher #school #schools #principals",6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,CyberHoot,,CyberHoot,https://www.cyberhoot.com/,20820752.0,CyberHoot,https://www.linkedin.com/company/cyberhoot,https://www.cyberhoot.com/,Computer and Network Security,2-10 employees,Partnership,2015,7,"Automate your Training & Policy Program:
+
+Password-less access to an OPEN Training Platform
+
+Over 900 ""Ready to Go"" Security Awareness and Product Training Videos
+
+100+ Phishing Assignments
+
+50+ Phish Email Testing Templates
+
+25 Policy Templates
+
+Full automation on Managing Training, Governance, and Compliance
+
+Automated Dark Web Monitoring and Reporting
+
+Quiz Employees to Test Awareness
+
+Assess and Track your Cyber Program Readiness
+
+Bonus training programs on programs like Teams, HIPAA, QuickBooks, Slack, PayPal, Excel, etc. 
+
+Winner of American Cyber Award's 2020 'Start-Up of the Year'",,,https://media.licdn.com/dms/image/v2/C4E0BAQEPh5F5eb42CA/company-logo_200_200/company-logo_200_200/0/1630579636921/cyberhoot_logo?e=2147483647&v=beta&t=nbGF18VXHVkKnAsmmevjaGvagoO2Kar3kTKtcACkChU,233171183.0,CyberHoot,Bradley,Margist,Co-Founder at CyberHoot,Co-Founder at CyberHoot,https://www.linkedin.com/in/bradley-margist-8a85b39b,https://www.linkedin.com/in/bradley-margist-8a85b39b,"Charlotte, North Carolina, United States",United States,Information Technology & Services,65535.0,,4.0,"Charlotte, North Carolina, United States",2016-08-17 11:25:57,2025-06-15 03:45:48,,,,,,,,Computer and Network Security,,7,2015,,,,,,,,,,,,,,,,,,,,,,1mo,https://lnkd.in/eeU-bKty,3,,1mo,"11 Reasons to Upgrade Aging Hardware and/or Software
+
+https://lnkd.in/eX92QaVQ
+
+Don’t make it easier for the bad guys, keep your environment up-to-date.
+
+#Cybersecurity #PatchSecurity",3,3,1mo,"CyberHoot - 10 Reasons to Adopt Awareness Training
+
+https://lnkd.in/eP6y5eY6",9,9,1mo,"Cybersecurity Awareness Month - Day 31 – Malicious Websites
+
+Read on to find out how to protect yourself online.
+
+https://lnkd.in/e6kMPh4f
+
+#Cybersecurity #MaliciousSites",2,2,1mo,"Cybersecurity Awareness Month - Day 30 – Insider Attacks
+
+Learn how to spot insider threat within your business.
+
+https://lnkd.in/ePp6dQPE
+
+#Cybersecurity #InsiderThreats",2,2,,,,,,,,,,,,,,,,,,Co-Founder at CyberHoot,"Charlotte, North Carolina, United States",,65535.0,,,,,,Co-Founder,,CyberHoot,Chief Technology Officer,,"eVolve Computing, LLC",Developer,,DXC Technology,Software Engineer,,CSC,,,,University of Delaware,"Bachelor's degree, Computer Science, 3.4 Cumulative GPA",Penn State University,"Master's Degree, Computer Software Engineering",,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/C4E0BAQEPh5F5eb42CA/company-logo_200_200/company-logo_200_200/0/1630579636921/cyberhoot_logo?e=2147483647&v=beta&t=nbGF18VXHVkKnAsmmevjaGvagoO2Kar3kTKtcACkChU,https://media.licdn.com/dms/image/v2/C4E0BAQEPh5F5eb42CA/company-logo_200_200/company-logo_200_200/0/1630579636921/cyberhoot_logo?e=2147483647&v=beta&t=nbGF18VXHVkKnAsmmevjaGvagoO2Kar3kTKtcACkChU,"Automate your Training & Policy Program:
+
+Password-less access to an OPEN Training Platform
+
+Over 900 ""Ready to Go"" Security Awareness and Product Training Videos
+
+100+ Phishing Assignments
+
+50+ Phish Email Testing Templates
+
+25 Policy Templates
+
+Full automation on Managing Training, Governance, and Compliance
+
+Automated Dark Web Monitoring and Reporting
+
+Quiz Employees to Test Awareness
+
+Assess and Track your Cyber Program Readiness
+
+Bonus training programs on programs like Teams, HIPAA, QuickBooks, Slack, PayPal, Excel, etc. 
+
+Winner of American Cyber Award's 2020 'Start-Up of the Year'",,,,,Partnership,,,,,,,,,"Portsmouth, NH 03801, US",1.0,,1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1mo,https://lnkd.in/eeU-bKty,3,,1mo,"11 Reasons to Upgrade Aging Hardware and/or Software
+
+https://lnkd.in/eX92QaVQ
+
+Don’t make it easier for the bad guys, keep your environment up-to-date.
+
+#Cybersecurity #PatchSecurity",3,3,1mo,"CyberHoot - 10 Reasons to Adopt Awareness Training
+
+https://lnkd.in/eP6y5eY6",9,9,1mo,"Cybersecurity Awareness Month - Day 31 – Malicious Websites
+
+Read on to find out how to protect yourself online.
+
+https://lnkd.in/e6kMPh4f
+
+#Cybersecurity #MaliciousSites",2,2,1mo,"Cybersecurity Awareness Month - Day 30 – Insider Attacks
+
+Learn how to spot insider threat within your business.
+
+https://lnkd.in/ePp6dQPE
+
+#Cybersecurity #InsiderThreats",2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,AssessPrep,,AssessPrep,http://about.assessprep.com,29236477.0,AssessPrep,https://in.linkedin.com/company/assessprep,http://about.assessprep.com,E-Learning Providers,11-50 employees,Privately Held,2013,49,"AssessPrep is an advanced assessment platform designed for K-12 schools to make assessments efficient and improve learning outcomes. AssessPrep can be used for low-stakes, online formative assessments or high-stakes, offline and secure summative assessments for multiple curricula - IB, Pearson, Cambridge, CBSE and National Curriculum. Our educator community of 100+ schools in 25 countries, is growing fast and creating record resources and assessments to make full use of AssessPrep and gather half a million responses from students every month. Ideal for remote assessments and online assessments in times of school closures.",,,https://media.licdn.com/dms/image/v2/D560BAQEN0l0dcJZZ9A/company-logo_200_200/B56ZcL2.maHUAI-/0/1748250651808/assessprep_logo?e=2147483647&v=beta&t=MNGhtfMw6YAjhk3JXOikPq0-vGu7tvZAG3ffO_1u738,359713549.0,AssessPrep,Karan,Gupta,"Co-Founder, AssessPrep and Chalopadho","Co-Founder, AssessPrep and Chalopadho",https://www.linkedin.com/in/karan-gupta12,https://in.linkedin.com/in/karan-gupta12,"West Delhi, Delhi, India",India,Education Management,65535.0,,2.0,"West Delhi, Delhi, India",2016-11-30 18:05:15,2025-07-01 06:32:17,,,,,,,,E-Learning Providers,,49,2013,,,,,,,,,,,,,,,,,,,,,,1mo,We're Hiring!,,,1mo,We're Hiring!,,,2mo,We're Hiring!,,,4mo,We're Hiring!,,,4mo,We're Hiring!,,,,,,,,,,,,,,,,,,,,"Co-Founder, AssessPrep and Chalopadho","West Delhi, Delhi, India",,65535.0,,,,,,Co-Founder,,AssessPrep,Co-Founder,,Chalopadho,,,,,,,,,,Delhi Public School - R. K. Puram,"Schooling, Science",Jawaharlal Nehru Vishvavidyalaya,"Master of Arts (M.A.), Economics",Shri Ram College of Commerce,"Bachelor of Arts (B.A.), Economics",,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/D560BAQEN0l0dcJZZ9A/company-logo_200_200/B56ZcL2.maHUAI-/0/1748250651808/assessprep_logo?e=2147483647&v=beta&t=MNGhtfMw6YAjhk3JXOikPq0-vGu7tvZAG3ffO_1u738,https://media.licdn.com/dms/image/v2/D560BAQEN0l0dcJZZ9A/company-logo_200_200/B56ZcL2.maHUAI-/0/1748250651808/assessprep_logo?e=2147483647&v=beta&t=MNGhtfMw6YAjhk3JXOikPq0-vGu7tvZAG3ffO_1u738,"AssessPrep is an advanced assessment platform designed for K-12 schools to make assessments efficient and improve learning outcomes. AssessPrep can be used for low-stakes, online formative assessments or high-stakes, offline and secure summative assessments for multiple curricula - IB, Pearson, Cambridge, CBSE and National Curriculum. Our educator community of 100+ schools in 25 countries, is growing fast and creating record resources and assessments to make full use of AssessPrep and gather half a million responses from students every month. Ideal for remote assessments and online assessments in times of school closures.",,,,,Privately Held,,,,,,,,,"New Delhi, Delhi 110026, IN",1.0,"B-10, Sushant Lok, Phase 1; Haryana, Gurgaon 122002, IN",1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1mo,We're Hiring!,,,1mo,We're Hiring!,,,2mo,We're Hiring!,,,4mo,We're Hiring!,,,4mo,We're Hiring!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EdShed,,EdShed,https://www.edshed.com,25738707.0,EdShed,https://www.linkedin.com/company/edshed,https://www.edshed.com,E-Learning Providers,11-50 employees,Privately Held,2017,34,"Curriculum and technology products for schools and home. The home of Literacy Shed, Spelling Shed, MathShed and other sheds coming soon!",,,https://media.licdn.com/dms/image/v2/C4E0BAQFBMCTQfZAGcA/company-logo_200_200/company-logo_200_200/0/1631379854492/spellingshed_logo?e=2147483647&v=beta&t=46DcH96sxEcMjySvPDPVInTY2RAgFz9hdMtxb6A6NPU,358395219.0,EdShed,Rob,Smith,CEO at LIteracy Shed and Chair at Education Shed (Ed Shed),CEO at LIteracy Shed and Chair at Education Shed (Ed Shed),https://www.linkedin.com/in/rob-smith-ba780667,https://uk.linkedin.com/in/rob-smith-ba780667,"Ramsbottom, England, United Kingdom",United Kingdom,Education Management,65535.0,"Founder of The Literacy Shed and Co-Founder of Education Shed.
+
+Following over a decade as a classroom teacher and middle leader, I wanted to reach more classrooms than those in my school.  Blogging about film and images in the classroom became www.literacyshed.com.  The original Literacy Shed website is a curated collection of short films and animations to inspire writing and discussions.
+
+Literacy Shed Plus is a collection of reading and writing resources for teachers with 1000s of schools and teachers around the world making downloads every day.
+
+In addition to creating and managing these two sites, I also co-founded Spelling Shed, Maths Shed and the new Phonics Shed which all come under the EdShed umbrella.",5.0,"Ramsbottom, England, United Kingdom",2016-11-28 21:28:33,2025-06-17 03:12:45,,,,,,,,E-Learning Providers,,34,2017,,,,,,,,,,,,,,,,,,,,,,3w,"We’re looking forwards to meeting everyone at GESS Dubai and telling you all about Phonics Shed, Spelling Shed and MathShed. 
+
+If you are an existing customer, come and say hello at stand P44, and we can give you an account review to help you get the most out of our system. #dubai #edshed #teaching #gessdubai #spelling #phonics #maths",9,9,3mo,We’re all ready at Schoolscape in Stellenbosch. Come and talk to us to learn more about our products for primary English and Maths.,3,3,5mo,"🤩FREE Interactive Letter Tiles Tool 🥳
+
+https://lnkd.in/eW6bPJmv
+
+FREE for non-subscribers and EdShed subscribers
+
+👉 Shows graphemes and single letters
+👉 Displays phonics notation
+👉 Reads words aloud
+👉 Tiles can be hidden
+👉 Shows definition
+👉 Shows word classes / part of speech
+👉 Has a useful drawing tool
+👉 Includes uppercase and lowercase letters",2,2,5mo,"Hey #ISTELive22 - Yep we got them! 
+
+Come by booth #2345 and get your beads on.
+
+#neworleans #istelive #edtech #mardigras",2,2,5mo,"We can’t wait to see you at #istelive! Come and visit us next week at booth #2345. 
+
+#scienceofreading #spelling #phonics #teaching #neworleans",3,3,,,,,,,,,,,,,,,,,,CEO at LIteracy Shed and Chair at Education Shed (Ed Shed),"Ramsbottom, England, United Kingdom",,65535.0,,,,,,Founder and Director,,EdShed,Chief Executive Officer,,THE LITERACY SHED LIMITED,Founder,,THE LITERACY SHED LIMITED,Creator,,Literacy Shed,Teacher,,Irk Valley Community School,The University of Northampton,"BA Primary Education, Education",The Bankfield School,-,,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/C4E0BAQFBMCTQfZAGcA/company-logo_200_200/company-logo_200_200/0/1631379854492/spellingshed_logo?e=2147483647&v=beta&t=46DcH96sxEcMjySvPDPVInTY2RAgFz9hdMtxb6A6NPU,https://media.licdn.com/dms/image/v2/C4E0BAQFBMCTQfZAGcA/company-logo_200_200/company-logo_200_200/0/1631379854492/spellingshed_logo?e=2147483647&v=beta&t=46DcH96sxEcMjySvPDPVInTY2RAgFz9hdMtxb6A6NPU,"Curriculum and technology products for schools and home. The home of Literacy Shed, Spelling Shed, MathShed and other sheds coming soon!",,,,,Privately Held,,,,,,,,,"Severn House, Riverside North; Bewdley, England DY12 1AB, GB",1.0,"13833 Wellington Trace; Suite E4-#171; Wellington, FL 33414, US",0.0,"Severn House, Riverside North; Bewdley, England DY12 1AB, GB",1.0,"13833 Wellington Trace; Suite E4-#171; Wellington, FL 33414, US",0.0,"Severn House, Riverside North; Bewdley, England DY12 1AB, GB",1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3w,"We’re looking forwards to meeting everyone at GESS Dubai and telling you all about Phonics Shed, Spelling Shed and MathShed. 
+
+If you are an existing customer, come and say hello at stand P44, and we can give you an account review to help you get the most out of our system. #dubai #edshed #teaching #gessdubai #spelling #phonics #maths",9,9,3mo,We’re all ready at Schoolscape in Stellenbosch. Come and talk to us to learn more about our products for primary English and Maths.,3,3,5mo,"🤩FREE Interactive Letter Tiles Tool 🥳
+
+https://lnkd.in/eW6bPJmv
+
+FREE for non-subscribers and EdShed subscribers
+
+👉 Shows graphemes and single letters
+👉 Displays phonics notation
+👉 Reads words aloud
+👉 Tiles can be hidden
+👉 Shows definition
+👉 Shows word classes / part of speech
+👉 Has a useful drawing tool
+👉 Includes uppercase and lowercase letters",2,2,5mo,"Hey #ISTELive22 - Yep we got them! 
+
+Come by booth #2345 and get your beads on.
+
+#neworleans #istelive #edtech #mardigras",2,2,5mo,"We can’t wait to see you at #istelive! Come and visit us next week at booth #2345. 
+
+#scienceofreading #spelling #phonics #teaching #neworleans",3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Wacebo USA, Inc.",,"Wacebo USA, Inc.",www.wacebousa.com,96657689.0,"Wacebo USA, Inc.",https://www.linkedin.com/company/wacebo-usa-inc,www.wacebousa.com,"Technology, Information and Internet",11-50 employees,Privately Held,,3,"Established in 2013, we are leaders in the Italian EdTech market, with headquarters in Rome, Milan, and Bari, as well as hubs in New York (USA) and London (UK). We specialize in crafting interactive solutions tailored for both educational and commercial landscapes, and in creating innovative learning environments. 
+
+Our slogan, ""Think Digital"", embodies our unwavering commitment to revolutionizing learning and professional engagement, ushering in a new era of modernity, dynamism, and interactivity. We are dedicated to the relentless pursuit of technologically advanced ecosystems, fostering digital exploration, seamless communication, and immersive learning experiences. 
+
+We are a young, dynamic, and versatile group, driven by passion and determination. Our commitment to teamwork, sharing, and constant dialogue enables us to adapt quickly to changes while remaining innovative and competitive in the market. Central to our corporate mission is the establishment of an extensive network of Distributors, Partners, and Retailers. Our B2B business model allows us to collaborate closely with our partners rather than compete with them. 
+
+We were the first Italian manufacturer to secure the esteemed Google EDLA (Enterprise Device License Agreement) license for our groundbreaking interactive displays. This achievement underscores our pledge to deliver products characterized by unparalleled security, longevity, upgradability, and user-friendliness.",,,https://media.licdn.com/dms/image/v2/D4D0BAQFnP4gXBxuUgg/company-logo_200_200/company-logo_200_200/0/1725437088068?e=2147483647&v=beta&t=99SlsJwBeuhIbmKw2cdPauGcWer9QGrgkiLQbYzlcwQ,486136409.0,"Wacebo USA, Inc.",Christian,Fanizzi,CEO & Founder @Wacebo Europe Srl,CEO & Founder @Wacebo Europe Srl,https://www.linkedin.com/in/christian-fanizzi-9576619,https://it.linkedin.com/in/christian-fanizzi,"Castellana Grotte, Apulia, Italy",Italy,,65535.0,"Dopo varie esperienze da lavoratore dipendente, nel 2013 nasce la mia “creatura” Wacebo Europe srl: una piccola realtà del mercato education.
+Dopo anni di sacrifici, posso affermare di aver portato Wacebo ad essere uno dei più importanti player del settore, in particolare, col marchio DabliuTouch, siamo diventati nel 2022 il brand numero #1 in Italia per quote di mercato nel segmento “display interattivi education” (IFPD Interactive Flat Panel Display) con oltre 45.000 unità vendute ed un fatturato di oltre 45 milioni di euro.
+Abbiamo trasformato un piccolo Vendor del settore edu in una EdTech Company pronta a varcare i confini del territorio nazionale.
+Prossimi step: internazionalizzazione dell’azienda e ampliamento della lineup prodotto.
+Nel 2019 è nata anche una realtà complementare alla tecnologia di Wacebo, ovvero SmartArreda, azienda di cui sono socio e fondatore.
+SmartArreda propone un nuovo concept di arredo collaborativo education, oltre a sviluppare una nuova visione degli ambienti di lavoro, funzionali e moderni, in ambito Business/Corporate.",5.0,"Castellana Grotte, Apulia, Italy",2021-09-04 16:44:47,2025-06-24 11:46:02,,,,,,,,"Technology, Information and Internet",,3,,,,,,,,,,,,,,,,,,,,,,,6d,"✨ A pinnacle of cutting-edge Made in Italy technology, the Dabliu Touch E13 is designed to transform the way we teach, learn, and work. Already the #1 interactive monitor in Italy, it comes in four sizes (65, 75, 86 and 100 inches) and a breathtaking 4K Ultra HD resolution. 
+
+Supporting multiple simultaneous touches and equipped with powerful features, it fosters seamless collaboration and efficiency. Preloaded with many interactive tools and countless apps, the Dabliu Touch E13 transforms lessons, meetings, and teamwork into dynamic, engaging, and immersive experiences. 🚀
+
+✅ Thanks to the EDLA certification, it also offers seamless integration with the entire Google ecosystem and fits effortlessly into any environment, whether mounted on the wall or on its dedicated accessories. 
+
+Dabliu Touch E13 (Education Series): smart learning and working begins with a #Touch. 
+
+👉🏻 Discover more: https://lnkd.in/dMmS9MEa 
+
+👉🏻 Download the data sheet: https://lnkd.in/dTdzNZgd",15,1,2w,"And now that the opening of Wacebo USA Inc. is official…
+
+We are excited to introduce our new Director of Sales & Vice President of Wacebo USA Inc., John Geerlings! 💙
+
+John is a highly respected professional with extensive experience in both the audio-visual technology and education markets. He will be responsible for establishing a network of distributors, partners, and retailers across the USA, while overseeing all Wacebo operations in the American market.
+
+Please, join us in extending a warm welcome and our best wishes for success and growth to John - welcome aboard! 🎉 
+
+Wacebo Europe Srl
+#wacebousa",18,4,2w,"We are thrilled to announce the opening of Wacebo USA Inc.! 🥳 
+
+It's with great pride that we share this incredible milestone with you all: Wacebo has landed in the United States! After years of envisioning this moment, our American dream is now a reality. 🤩
+
+This new chapter propels us into a future of greater innovation, allowing us to develop even more cutting-edge solutions for both education and training. Our mission? To continue transforming education on a global scale. 🚀
+
+Come visit us in the heart of New York City, at our flagship showroom located at 246 E 58th St. We’re ready for this bold ""stars and stripes"" adventure...are you ready to join us? 💓
+
+Wacebo Europe Srl
+#wacebousa #americandream #dreamsdocometrue",28,2,2w,"Embark on a journey into the future of education and business, where boundaries dissolve and possibilities unfold through digital, interactive, immersive, and customizable solutions.
+
+At Wacebo, we redefine tomorrow's landscape today. Welcome to the future. 🚀✨
+
+#wacebousa",22,1,4d,"🖋️ Dabliu Pen + is the perfect companion to immortalize brilliant ideas, take notes or bring inspired drawings to life, all while preserving the #authentic #beauty and #benefits of writing or drawing by hand. 
+
+Whether you’re in class, in a meeting or simply immersed in your favorite creative zone, this magical pen is ready to capture and #digitize every stroke on paper, ensuring a #unique, #seamless, and #accessible experience for all. ✨ 
+
+As sleek and ergonomic as a classic fountain pen, Dabliu Pen + is to be used in #combination with a Dabliu smart notepad or notebook after it has been synced to the #DabliuPen app. 🚀
+
+👉🏻 Get in touch for more information or to schedule a demonstration!",13,1,,,,,,,,,,,,,,,,,,CEO & Founder @Wacebo Europe Srl,"Castellana Grotte, Apulia, Italy",,65535.0,,,,,,Presidente,,"Wacebo USA, Inc.",CEO & Founder,,Wacebo Europe Srl,CEO & Founder,,Motris Srl,Owner & Co-Founder,,SmartArreda Srl,Direttore Commerciale,,Terracube Srl,"ITIS ""L.DELL'ERBA""","Perito informatico, informatica",Scienze Statistiche ed Economiche - Università degli Studi di Bari,-,,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/D4D0BAQFnP4gXBxuUgg/company-logo_200_200/company-logo_200_200/0/1725437088068?e=2147483647&v=beta&t=99SlsJwBeuhIbmKw2cdPauGcWer9QGrgkiLQbYzlcwQ,https://media.licdn.com/dms/image/v2/D4D0BAQFnP4gXBxuUgg/company-logo_200_200/company-logo_200_200/0/1725437088068?e=2147483647&v=beta&t=99SlsJwBeuhIbmKw2cdPauGcWer9QGrgkiLQbYzlcwQ,"Established in 2013, we are leaders in the Italian EdTech market, with headquarters in Rome, Milan, and Bari, as well as hubs in New York (USA) and London (UK). We specialize in crafting interactive solutions tailored for both educational and commercial landscapes, and in creating innovative learning environments. 
+
+Our slogan, ""Think Digital"", embodies our unwavering commitment to revolutionizing learning and professional engagement, ushering in a new era of modernity, dynamism, and interactivity. We are dedicated to the relentless pursuit of technologically advanced ecosystems, fostering digital exploration, seamless communication, and immersive learning experiences. 
+
+We are a young, dynamic, and versatile group, driven by passion and determination. Our commitment to teamwork, sharing, and constant dialogue enables us to adapt quickly to changes while remaining innovative and competitive in the market. Central to our corporate mission is the establishment of an extensive network of Distributors, Partners, and Retailers. Our B2B business model allows us to collaborate closely with our partners rather than compete with them. 
+
+We were the first Italian manufacturer to secure the esteemed Google EDLA (Enterprise Device License Agreement) license for our groundbreaking interactive displays. This achievement underscores our pledge to deliver products characterized by unparalleled security, longevity, upgradability, and user-friendliness.",,,,,Privately Held,,,,,,,,,"8 The Green; Dover, Delaware 19901, US",1.0,"246 E 58th St; New York, NY 10022, US",0.0,"7345 W Sand Lake Rd; Orlando, Florida 32819, US",0.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6d,"✨ A pinnacle of cutting-edge Made in Italy technology, the Dabliu Touch E13 is designed to transform the way we teach, learn, and work. Already the #1 interactive monitor in Italy, it comes in four sizes (65, 75, 86 and 100 inches) and a breathtaking 4K Ultra HD resolution. 
+
+Supporting multiple simultaneous touches and equipped with powerful features, it fosters seamless collaboration and efficiency. Preloaded with many interactive tools and countless apps, the Dabliu Touch E13 transforms lessons, meetings, and teamwork into dynamic, engaging, and immersive experiences. 🚀
+
+✅ Thanks to the EDLA certification, it also offers seamless integration with the entire Google ecosystem and fits effortlessly into any environment, whether mounted on the wall or on its dedicated accessories. 
+
+Dabliu Touch E13 (Education Series): smart learning and working begins with a #Touch. 
+
+👉🏻 Discover more: https://lnkd.in/dMmS9MEa 
+
+👉🏻 Download the data sheet: https://lnkd.in/dTdzNZgd",15,1,2w,"And now that the opening of Wacebo USA Inc. is official…
+
+We are excited to introduce our new Director of Sales & Vice President of Wacebo USA Inc., John Geerlings! 💙
+
+John is a highly respected professional with extensive experience in both the audio-visual technology and education markets. He will be responsible for establishing a network of distributors, partners, and retailers across the USA, while overseeing all Wacebo operations in the American market.
+
+Please, join us in extending a warm welcome and our best wishes for success and growth to John - welcome aboard! 🎉 
+
+Wacebo Europe Srl
+#wacebousa",18,4,2w,"We are thrilled to announce the opening of Wacebo USA Inc.! 🥳 
+
+It's with great pride that we share this incredible milestone with you all: Wacebo has landed in the United States! After years of envisioning this moment, our American dream is now a reality. 🤩
+
+This new chapter propels us into a future of greater innovation, allowing us to develop even more cutting-edge solutions for both education and training. Our mission? To continue transforming education on a global scale. 🚀
+
+Come visit us in the heart of New York City, at our flagship showroom located at 246 E 58th St. We’re ready for this bold ""stars and stripes"" adventure...are you ready to join us? 💓
+
+Wacebo Europe Srl
+#wacebousa #americandream #dreamsdocometrue",28,2,2w,"Embark on a journey into the future of education and business, where boundaries dissolve and possibilities unfold through digital, interactive, immersive, and customizable solutions.
+
+At Wacebo, we redefine tomorrow's landscape today. Welcome to the future. 🚀✨
+
+#wacebousa",22,1,4d,"🖋️ Dabliu Pen + is the perfect companion to immortalize brilliant ideas, take notes or bring inspired drawings to life, all while preserving the #authentic #beauty and #benefits of writing or drawing by hand. 
+
+Whether you’re in class, in a meeting or simply immersed in your favorite creative zone, this magical pen is ready to capture and #digitize every stroke on paper, ensuring a #unique, #seamless, and #accessible experience for all. ✨ 
+
+As sleek and ergonomic as a classic fountain pen, Dabliu Pen + is to be used in #combination with a Dabliu smart notepad or notebook after it has been synced to the #DabliuPen app. 🚀
+
+👉🏻 Get in touch for more information or to schedule a demonstration!",13,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DroneBlocks,,DroneBlocks,https://www.droneblocks.io,25725698.0,DroneBlocks,https://www.linkedin.com/company/droneblocks,https://www.droneblocks.io,E-Learning Providers,2-10 employees,Privately Held,,9,"DroneBlocks teaches STEM and the real-world application of drone technology through our free app, online curriculum, and professional development services.",,,https://media.licdn.com/dms/image/v2/C4D0BAQEv93pcJjGeQg/company-logo_200_200/company-logo_200_200/0/1630473987633?e=2147483647&v=beta&t=HjAgp3zSu3CVyZ6AOG5Dz9UEZdtZhLTytgozfkvKgyQ,532009521.0,DroneBlocks,Dennis,Baldwin,OSA Tech at RNMC,OSA Tech at RNMC,https://www.linkedin.com/in/dennis-baldwin-020254153,https://www.linkedin.com/in/dennis-baldwin-020254153,"Sacramento, California, United States",United States,,3.0,,1.0,"Sacramento, California, United States",2022-03-31 15:23:34,2025-07-05 23:49:19,,,,,,,,E-Learning Providers,,9,,,,,,,,,,,,,,,,,,,,,,,2mo,"30+ New video lessons are Available for the DroneBlocks Mars Simulator Course!
+
+DroneBlocks' new #drone simulator map features a highly interactive #Mars Surface Environment ripe with learning opportunities for #STEM students. For the very first time, this map arrives paired with an in-depth course packed with amazing STEM-filled lessons.
+
+We are excited to introduce our Special Guest and Rocket Scientist, Jasmine LeFlore, MSE, MBA
+
+Join DroneBlocks instructor Clinton Evans as he works with Jasmine LeFlore, MSE, MBA from Greater Than Tech to inspect the rockets on Mars using drones!",4,4,3w,"Major Update for Android & iOS Devices!
+
+Make sure your apps are up to date today! DroneBlocks apps for Android and iOS now offer manual flight controls for Tello series drones. This new feature is called ""Virtual Sticks"". It's time to put an end to switching between apps during class!
+
+WHAT ARE VIRTUAL STICKS?
+Using the on-screen joysticks from within the app, the virtual sticks send commands in real-time such as pitch, roll, yaw, and throttle to the drone just as a drone pilot would using the sticks on a larger remote-controlled drone.
+
+HOW DO I GET THIS FEATURE?
+Simply update your DroneBlocks apps on your Android / iOS devices to the latest version and click on the menu on the right side of the screen to reveal the new feature.
+
+Questions? Send us an email at support@droneblocks.io, we will be happy to help.
+
+Newsletter: https://lnkd.in/eNT57feR",8,2,1mo,"30+ New video lessons are Available for the DroneBlocks Mars Simulator Course!
+
+DroneBlocks' new #drone simulator map features a highly interactive #Mars Surface Environment ripe with learning opportunities for #STEM students. For the very first time, this map arrives paired with an in-depth course packed with amazing STEM-filled lessons.
+
+We are excited to introduce our Special Guest and Rocket Scientist, Jasmine LeFlore, MSE, MBA
+
+Join DroneBlocks instructor Clinton Evans as he works with Jasmine LeFlore, MSE, MBA from Greater Than Tech to inspect the rockets on Mars using drones!",12,2,2mo,"30+ New video lessons are Available for the DroneBlocks Mars Simulator Course!
+
+DroneBlocks' new #drone simulator map features a highly interactive #Mars Surface Environment ripe with learning opportunities for #STEM students. For the very first time, this map arrives paired with an in-depth course packed with amazing STEM-filled lessons.
+
+We are excited to introduce our Special Guest and Rocket Scientist, Jasmine LeFlore, MSE, MBA
+
+Join DroneBlocks instructor Clinton Evans as he works with Jasmine LeFlore, MSE, MBA from Greater Than Tech to inspect the rockets on Mars using drones!",1,2,3mo,DroneBlocks Donates #STEM Drone Kit to Villanova University Computing Sciences Program!,25,1,,,,,,,,,,,,,,,,,,OSA Tech at RNMC,"Sacramento, California, United States",,3.0,,,,,,OSA Tech,,RNMC,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/C4D0BAQEv93pcJjGeQg/company-logo_200_200/company-logo_200_200/0/1630473987633?e=2147483647&v=beta&t=HjAgp3zSu3CVyZ6AOG5Dz9UEZdtZhLTytgozfkvKgyQ,https://media.licdn.com/dms/image/v2/C4D0BAQEv93pcJjGeQg/company-logo_200_200/company-logo_200_200/0/1630473987633?e=2147483647&v=beta&t=HjAgp3zSu3CVyZ6AOG5Dz9UEZdtZhLTytgozfkvKgyQ,"DroneBlocks teaches STEM and the real-world application of drone technology through our free app, online curriculum, and professional development services.",,,,,Privately Held,,,,,,,,,"Austin, Texas 78735, US",1.0,"Austin, Texas 78735, US",1.0,"Austin, Texas 78735, US",1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2mo,"30+ New video lessons are Available for the DroneBlocks Mars Simulator Course!
+
+DroneBlocks' new #drone simulator map features a highly interactive #Mars Surface Environment ripe with learning opportunities for #STEM students. For the very first time, this map arrives paired with an in-depth course packed with amazing STEM-filled lessons.
+
+We are excited to introduce our Special Guest and Rocket Scientist, Jasmine LeFlore, MSE, MBA
+
+Join DroneBlocks instructor Clinton Evans as he works with Jasmine LeFlore, MSE, MBA from Greater Than Tech to inspect the rockets on Mars using drones!",4,4,3w,"Major Update for Android & iOS Devices!
+
+Make sure your apps are up to date today! DroneBlocks apps for Android and iOS now offer manual flight controls for Tello series drones. This new feature is called ""Virtual Sticks"". It's time to put an end to switching between apps during class!
+
+WHAT ARE VIRTUAL STICKS?
+Using the on-screen joysticks from within the app, the virtual sticks send commands in real-time such as pitch, roll, yaw, and throttle to the drone just as a drone pilot would using the sticks on a larger remote-controlled drone.
+
+HOW DO I GET THIS FEATURE?
+Simply update your DroneBlocks apps on your Android / iOS devices to the latest version and click on the menu on the right side of the screen to reveal the new feature.
+
+Questions? Send us an email at support@droneblocks.io, we will be happy to help.
+
+Newsletter: https://lnkd.in/eNT57feR",8,2,1mo,"30+ New video lessons are Available for the DroneBlocks Mars Simulator Course!
+
+DroneBlocks' new #drone simulator map features a highly interactive #Mars Surface Environment ripe with learning opportunities for #STEM students. For the very first time, this map arrives paired with an in-depth course packed with amazing STEM-filled lessons.
+
+We are excited to introduce our Special Guest and Rocket Scientist, Jasmine LeFlore, MSE, MBA
+
+Join DroneBlocks instructor Clinton Evans as he works with Jasmine LeFlore, MSE, MBA from Greater Than Tech to inspect the rockets on Mars using drones!",12,2,2mo,"30+ New video lessons are Available for the DroneBlocks Mars Simulator Course!
+
+DroneBlocks' new #drone simulator map features a highly interactive #Mars Surface Environment ripe with learning opportunities for #STEM students. For the very first time, this map arrives paired with an in-depth course packed with amazing STEM-filled lessons.
+
+We are excited to introduce our Special Guest and Rocket Scientist, Jasmine LeFlore, MSE, MBA
+
+Join DroneBlocks instructor Clinton Evans as he works with Jasmine LeFlore, MSE, MBA from Greater Than Tech to inspect the rockets on Mars using drones!",1,2,3mo,DroneBlocks Donates #STEM Drone Kit to Villanova University Computing Sciences Program!,25,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,MyEduIn,,MyEduIn,https://www.myeduin.com,97381448.0,MyEduIn,https://www.linkedin.com/company/myeduin,https://www.myeduin.com,Education,11-50 employees,Privately Held,2024,10,"MyEduIn is a comprehensive educational platform tailored to meet the needs of students, educators, and enthusiasts preparing for Digital SAT,  ACT, pre-Olympiad and Olympiad math tests, Kangaroo, Standardized Tests, and AP tests.
+
+The platform provides a real simulation of each exam, and a custom mode. Through customizable test creation, users can design their own exams based on specific needs, enabling focused and efficient preparation for their targeted competitions or exams.
+
+The platform also offers real-time performance analytics, giving users immediate feedback on their progress. This allows both individual learners and group leaders, such as teachers and coaches, to track performance trends and identify areas that require further attention.
+
+MyEduIn's adaptive learning technology adjusts the difficulty of questions based on user performance, ensuring a continuously challenging learning experience. This feature keeps learners engaged, helping them to progress steadily and efficiently.
+
+MyEduIn also emphasizes community engagement, creating a space where users can connect, collaborate, and learn from each other. This supportive environment fosters motivation and collective growth, essential for success in competitive math challenges.",,,https://media.licdn.com/dms/image/v2/D4D0BAQHzJw_fpNF11w/company-logo_200_200/company-logo_200_200/0/1731278070942/myeduin_logo?e=2147483647&v=beta&t=qdOz43SEZOxIi6rJNdjzI-671j_vK8jz8cfvTqAAlWU,458793600.0,MyEduIn,Valmir,Krasniqi,Mathematician,Mathematician,https://www.linkedin.com/in/valmir-krasniqi,https://www.linkedin.com/in/valmir-krasniqi,Kosovo,Kosovo,,65535.0,,5.0,Kosovo,2020-07-28 10:40:11,2025-04-18 13:05:43,,,,,,,,Education,,10,2024,,,,,,,,,,,,,,,,,,,,,,5d,"MyEduin is thrilled to announce its participation in the prestigious ISTELive 25 and ASCD Annual Conference, taking place in San Antonio, Texas, from June 29 to July 2. We invite all interested attendees to explore our innovative product and learn more about our solutions at Booth #2636. We look forward to meeting you there!
+
+Ready to elevate your learning journey?
+
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G",12,12,6d,"Announcing MyEduIn: Your Digital Learning Companion!
+
+We're thrilled to announce the launch of MyEduIn, our innovative platform transforming how students prepare for standardized tests and STEM competitions.
+
+Our initial release focuses on Digital SAT preparation, featuring:
+
+✨ Real exam simulations
+✨ Customizable practice tests
+✨ Real-time performance analytics
+✨ Adaptive learning technology
+✨ Native mobile app
+
+This is just the beginning! In the upcoming weeks, we'll be:
+📚 Adding modules for the Math Kangaroo Test, ACT, Math Olympiads, AP Tests, and more
+🔄 Enhancing interactive test preparation tools
+👥 Expanding access for institutions, teachers, and parents
+🆕 Adding more practice problems across all modules
+🤖 Integrating AI-driven analytics and score predictions
+
+At MyEduIn, we’re not just building a test-prep platform - we’re creating an intelligent learning ecosystem where students, educators, and enthusiasts can connect, collaborate, and succeed.
+
+Ready to elevate your learning journey?
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G
+
+#EdTech #DigitalSAT #Education #TestPrep #STEM",33,1,3w,"MyEduin is thrilled to announce its participation in the prestigious ISTELive 25 and ASCD Annual Conference, taking place in San Antonio, Texas, from June 29 to July 2. We invite all interested attendees to explore our innovative product and learn more about our solutions at Booth #2636. We look forward to meeting you there!
+
+Ready to elevate your learning journey?
+
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G",13,1,3w,"Announcing MyEduIn: Your Digital Learning Companion!
+
+We're thrilled to announce the launch of MyEduIn, our innovative platform transforming how students prepare for standardized tests and STEM competitions.
+
+Our initial release focuses on Digital SAT preparation, featuring:
+
+✨ Real exam simulations
+✨ Customizable practice tests
+✨ Real-time performance analytics
+✨ Adaptive learning technology
+✨ Native mobile app
+
+This is just the beginning! In the upcoming weeks, we'll be:
+📚 Adding modules for the Math Kangaroo Test, ACT, Math Olympiads, AP Tests, and more
+🔄 Enhancing interactive test preparation tools
+👥 Expanding access for institutions, teachers, and parents
+🆕 Adding more practice problems across all modules
+🤖 Integrating AI-driven analytics and score predictions
+
+At MyEduIn, we’re not just building a test-prep platform - we’re creating an intelligent learning ecosystem where students, educators, and enthusiasts can connect, collaborate, and succeed.
+
+Ready to elevate your learning journey?
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G
+
+#EdTech #DigitalSAT #Education #TestPrep #STEM",36,1,6d,"MyEduIn is proud to announce that we are the Gold Sponsor of EGMO 2025!
+
+Our sponsorship reflects our dedication to enhancing educational opportunities and supporting the growth of young talent at European Girls' Mathematical Olympiad (EGMO). 
+
+#EGMO2025 #MyEduln #goldsponsor",25,2,,,,,,,,,,,,,,,,,,Mathematician,Kosovo,,65535.0,,,,,,Co-Founder & Chief Executive Officer,,MyEduIn,Organizative Director,,New York School of Science in Kosova,President,,Math Kangaroo Contest - Kosovo,Editor in Chief,,MathProblems Journal,Executive Manager of Prishtina Branch,,Ninety One,"Universiteti i Prishtinës ""Hasan Prishtina""",Mathematics,,,,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/D4D0BAQHzJw_fpNF11w/company-logo_200_200/company-logo_200_200/0/1731278070942/myeduin_logo?e=2147483647&v=beta&t=qdOz43SEZOxIi6rJNdjzI-671j_vK8jz8cfvTqAAlWU,https://media.licdn.com/dms/image/v2/D4D0BAQHzJw_fpNF11w/company-logo_200_200/company-logo_200_200/0/1731278070942/myeduin_logo?e=2147483647&v=beta&t=qdOz43SEZOxIi6rJNdjzI-671j_vK8jz8cfvTqAAlWU,"MyEduIn is a comprehensive educational platform tailored to meet the needs of students, educators, and enthusiasts preparing for Digital SAT,  ACT, pre-Olympiad and Olympiad math tests, Kangaroo, Standardized Tests, and AP tests.
+
+The platform provides a real simulation of each exam, and a custom mode. Through customizable test creation, users can design their own exams based on specific needs, enabling focused and efficient preparation for their targeted competitions or exams.
+
+The platform also offers real-time performance analytics, giving users immediate feedback on their progress. This allows both individual learners and group leaders, such as teachers and coaches, to track performance trends and identify areas that require further attention.
+
+MyEduIn's adaptive learning technology adjusts the difficulty of questions based on user performance, ensuring a continuously challenging learning experience. This feature keeps learners engaged, helping them to progress steadily and efficiently.
+
+MyEduIn also emphasizes community engagement, creating a space where users can connect, collaborate, and learn from each other. This supportive environment fosters motivation and collective growth, essential for success in competitive math challenges.",,,,,Privately Held,,,,,,,,,"New York, US",1.0,,1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5d,"MyEduin is thrilled to announce its participation in the prestigious ISTELive 25 and ASCD Annual Conference, taking place in San Antonio, Texas, from June 29 to July 2. We invite all interested attendees to explore our innovative product and learn more about our solutions at Booth #2636. We look forward to meeting you there!
+
+Ready to elevate your learning journey?
+
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G",12,12,6d,"Announcing MyEduIn: Your Digital Learning Companion!
+
+We're thrilled to announce the launch of MyEduIn, our innovative platform transforming how students prepare for standardized tests and STEM competitions.
+
+Our initial release focuses on Digital SAT preparation, featuring:
+
+✨ Real exam simulations
+✨ Customizable practice tests
+✨ Real-time performance analytics
+✨ Adaptive learning technology
+✨ Native mobile app
+
+This is just the beginning! In the upcoming weeks, we'll be:
+📚 Adding modules for the Math Kangaroo Test, ACT, Math Olympiads, AP Tests, and more
+🔄 Enhancing interactive test preparation tools
+👥 Expanding access for institutions, teachers, and parents
+🆕 Adding more practice problems across all modules
+🤖 Integrating AI-driven analytics and score predictions
+
+At MyEduIn, we’re not just building a test-prep platform - we’re creating an intelligent learning ecosystem where students, educators, and enthusiasts can connect, collaborate, and succeed.
+
+Ready to elevate your learning journey?
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G
+
+#EdTech #DigitalSAT #Education #TestPrep #STEM",33,1,3w,"MyEduin is thrilled to announce its participation in the prestigious ISTELive 25 and ASCD Annual Conference, taking place in San Antonio, Texas, from June 29 to July 2. We invite all interested attendees to explore our innovative product and learn more about our solutions at Booth #2636. We look forward to meeting you there!
+
+Ready to elevate your learning journey?
+
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G",13,1,3w,"Announcing MyEduIn: Your Digital Learning Companion!
+
+We're thrilled to announce the launch of MyEduIn, our innovative platform transforming how students prepare for standardized tests and STEM competitions.
+
+Our initial release focuses on Digital SAT preparation, featuring:
+
+✨ Real exam simulations
+✨ Customizable practice tests
+✨ Real-time performance analytics
+✨ Adaptive learning technology
+✨ Native mobile app
+
+This is just the beginning! In the upcoming weeks, we'll be:
+📚 Adding modules for the Math Kangaroo Test, ACT, Math Olympiads, AP Tests, and more
+🔄 Enhancing interactive test preparation tools
+👥 Expanding access for institutions, teachers, and parents
+🆕 Adding more practice problems across all modules
+🤖 Integrating AI-driven analytics and score predictions
+
+At MyEduIn, we’re not just building a test-prep platform - we’re creating an intelligent learning ecosystem where students, educators, and enthusiasts can connect, collaborate, and succeed.
+
+Ready to elevate your learning journey?
+🌐 Visit: https://www.myeduin.com
+📱 iOS: https://lnkd.in/daCAA9Si
+🤖 Android: https://lnkd.in/d2hqjR_G
+
+#EdTech #DigitalSAT #Education #TestPrep #STEM",36,1,6d,"MyEduIn is proud to announce that we are the Gold Sponsor of EGMO 2025!
+
+Our sponsorship reflects our dedication to enhancing educational opportunities and supporting the growth of young talent at European Girls' Mathematical Olympiad (EGMO). 
+
+#EGMO2025 #MyEduln #goldsponsor",25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Kognity,,Kognity,http://www.kognity.com,6687180.0,Kognity,https://se.linkedin.com/company/kognity,http://www.kognity.com,"Technology, Information and Internet",51-200 employees,Privately Held,2014,194,"The single factor that has the highest impact on the prosperity and well-being of humankind is education. Still, technology has not yet delivered on any of its promises for better learning. At Kognity, we have set out to change this. Our vision is to radically improve learning for the world’s school students.
+
+Kognity is the all-in-one, curriculum-aligned teaching and learning platform for Cambridge IGCSE™, the IB Diploma Programme and High School Science. The platform provides interactive textbooks, analytics and assessment support – all in one place. We are experts at combining pedagogy and technology to create comprehensive, engaging, digital-first teaching and learning resources. Kognity saves teachers time, improves learning experiences and empowers students to become independent learners.
+
+It all began with two students who wanted to create the dynamic and interactive learning resources they’d always wanted to experience in their own classrooms. Today, teachers and students in over 1000 schools and over 100 countries rely on Kognity.",,,https://media.licdn.com/dms/image/v2/C4D0BAQGDEJKeN-R5Bg/company-logo_200_200/company-logo_200_200/0/1657882347414/kognity_logo?e=2147483647&v=beta&t=kOk7GZ9nmhVfnrrPRAyTZoUMbiZiika8r7CM-JZW0gk,345505387.0,Kognity,Nicholas Johansson,Nicholas Johansson,Co-Founder at Kognity,,https://www.linkedin.com/in/nicholas-johansson-4607091b,https://www.linkedin.com/in/nicholas-johansson-4607091b,"Stockholm, Sweden",Sweden,Education Management,65535.0,,2.0,"Stockholm, Sweden",2016-10-03 15:56:23,2023-07-11 15:11:09,,,,,,,,"Technology, Information and Internet",,194,2014,,,,,,,,,,,,,,,,,,,,,,24m,"This month, we held our annual summit - a.k.a. KAS! This get-together is where all Kognites gather in Stockholm to celebrate and collaborate together😊 KAS is typically a two-day conference filled with workshops and activities designed for Kognites to connect in person. Check out a few photos of the fun. Until next year! 📷  #kognity #edtech #edtechjobs",3,3,2d,Happy Holidays! 😊 🎁,18,18,4d,"With Kognity’s integrated #readingassistance, your students get truly customisable language support (not to mention instant translation into over 130 languages!) #languagelearning #englishlearners #eslteaching",5,1,5d,"Our Kognity Annual Summit theme this year was Belonging. To us, Belonging is the sweet spot where Diversity, Inclusion, and Equity overlap. Many thanks to Sofia Falk!  
+
+This work is a lifelong and sustainable goal — we will continue learning about the importance of inclusion within the workplace. The great Diversity Paradox — ""diversity means nothing to the business if we do not include it."" #business #work #learning #diversity #sustainable",35,1,1w,"⮕ Loading fun times with Kognites... We made it to Mallorca 🇪🇸 We spent two weeks in a warm (and slightly windy) villa where we worked, cooked, and explored Palma together. Nina Fazeli Vasily Loginov Sahana Jayashankar Simone Lopes Pereira Kyle Van Niekerk Marina Hartung Kirsten Siekmann Kristina Videberger Ana Casas Cortes Gustaf Folkmar Viktor Paripás",35,1,,,,,,,,,,,,,,,,,,,"Stockholm, Sweden",,65535.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65535.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/C4D0BAQGDEJKeN-R5Bg/company-logo_200_200/company-logo_200_200/0/1657882347414/kognity_logo?e=2147483647&v=beta&t=kOk7GZ9nmhVfnrrPRAyTZoUMbiZiika8r7CM-JZW0gk,https://media.licdn.com/dms/image/v2/C4D0BAQGDEJKeN-R5Bg/company-logo_200_200/company-logo_200_200/0/1657882347414/kognity_logo?e=2147483647&v=beta&t=kOk7GZ9nmhVfnrrPRAyTZoUMbiZiika8r7CM-JZW0gk,"The single factor that has the highest impact on the prosperity and well-being of humankind is education. Still, technology has not yet delivered on any of its promises for better learning. At Kognity, we have set out to change this. Our vision is to radically improve learning for the world’s school students.
+
+Kognity is the all-in-one, curriculum-aligned teaching and learning platform for Cambridge IGCSE™, the IB Diploma Programme and High School Science. The platform provides interactive textbooks, analytics and assessment support – all in one place. We are experts at combining pedagogy and technology to create comprehensive, engaging, digital-first teaching and learning resources. Kognity saves teachers time, improves learning experiences and empowers students to become independent learners.
+
+It all began with two students who wanted to create the dynamic and interactive learning resources they’d always wanted to experience in their own classrooms. Today, teachers and students in over 1000 schools and over 100 countries rely on Kognity.",,,,,Privately Held,,,,,,,,,"Linnégatan 87; Stockholm, SE",1.0,"Linnégatan 87; Stockholm, SE",1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24m,"This month, we held our annual summit - a.k.a. KAS! This get-together is where all Kognites gather in Stockholm to celebrate and collaborate together😊 KAS is typically a two-day conference filled with workshops and activities designed for Kognites to connect in person. Check out a few photos of the fun. Until next year! 📷  #kognity #edtech #edtechjobs",3,3,2d,Happy Holidays! 😊 🎁,18,18,4d,"With Kognity’s integrated #readingassistance, your students get truly customisable language support (not to mention instant translation into over 130 languages!) #languagelearning #englishlearners #eslteaching",5,1,5d,"Our Kognity Annual Summit theme this year was Belonging. To us, Belonging is the sweet spot where Diversity, Inclusion, and Equity overlap. Many thanks to Sofia Falk!  
+
+This work is a lifelong and sustainable goal — we will continue learning about the importance of inclusion within the workplace. The great Diversity Paradox — ""diversity means nothing to the business if we do not include it."" #business #work #learning #diversity #sustainable",35,1,1w,"⮕ Loading fun times with Kognites... We made it to Mallorca 🇪🇸 We spent two weeks in a warm (and slightly windy) villa where we worked, cooked, and explored Palma together. Nina Fazeli Vasily Loginov Sahana Jayashankar Simone Lopes Pereira Kyle Van Niekerk Marina Hartung Kirsten Siekmann Kristina Videberger Ana Casas Cortes Gustaf Folkmar Viktor Paripás",35,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Centric Learning,,Centric Learning,http://centriclearning.net,1613643.0,Centric Learning,https://www.linkedin.com/company/learnatcentric,http://centriclearning.net,E-Learning Providers,51-200 employees,Educational,2011,29,We are a group of diverse educators who share a common passion for project-based learning. We continue growing in the U.S. and across the globe.,,,https://media.licdn.com/dms/image/v2/D560BAQGdro0jPLma7A/company-logo_200_200/company-logo_200_200/0/1667492674312/learnatcentric_logo?e=2147483647&v=beta&t=XDpbaf8dIREol56WyE_0XQSX5jAQ4P9FJmVJfSHCcvM,405574641.0,Centric Learning,Beth,Baker,,Co-Founder and Co-CEO at Centric Learning System,https://www.linkedin.com/in/beth-baker-71743231,https://www.linkedin.com/in/beth-baker-71743231,"Belleville, Michigan, United States",United States,E-learning,425.0,,4.0,"Belleville, Michigan, United States",2018-11-16 12:53:37,2025-05-24 04:12:10,,,,,,,,E-Learning Providers,,29,2011,,,,,,,,,,,,,,,,,,,,,,3w,"WAY American School, the international arm of Centric Learning, was elected the best American High School program in Brazil in 2022. The award comes from The Knowledge Review, one of the leading magazines on education in the United States.
+
+WAY American School is a high school program that offers an American curriculum capable of preparing Brazilian students to apply to American and international universities. All this is done through the Centric platform, which houses the curriculum in the form of hundreds of educational projects available to students and teachers.
+
+Speaking about the impacts that project-based learning has had on schools, WAY Executive Director Thiago Pinto dos Reis told Knowledge Review: “We work with thousands of students daily, and the positive impact of PBL on their lives in and out of school is evident. The feedback we receive from parents is overwhelming, who notice their child’s improved communication skills, ability to express themselves creatively, and sense of independence on their learning journey, essential to their future endeavors.”",1,1,6mo,"Amy Cook, teacher at Centric Learning and WAY American School, talks a little about what she likes most about the active methodology of PBL (Project-Based Learning).
+
+Centric Learning
+http://centriclearning.net
+
+#centriclearning #learnatcentric",1,,7mo,"Destiney Smith, Project Manager at Centric Learning, talks about how Centric Learning’s PBL helps students and how it would have made a difference in her life when changing schools when she was a student.
+
+Centric Learning
+http://centriclearning.net
+
+#centriclearning #learnatcentric",3,3,7mo,"David Chen, a teacher at Centric Learning, talks about his perceptions on how Centric Learning’s PBL delivers what it promises.
+
+""I truly do enjoy teaching here at Centric Learning. Why? Because they do practice what they preach, which is the Project-Based Learning method, or the PBL practices. This is truly important because, why? In my lifetime, I felt like I was not prepared. In most jobs, many careers and in college, most students have to work together to collaborate, to fulfill an assignment or a project.
+
+Unfortunately for me, when I grew up and when I went to high school, we still worked on memory over learning and once I got into the real world I had to learn these skills. Therefore I feel like this platform does really help students for the future. At the same time, students can work at their own pace due to their busy lifestyles.
+
+Also, teachers can tweak their projects based on the student needs and levels, whether they’re IEP students, ELLs, Honors, or GenEd. And so this is the reason why I continue and enjoy working at Centric because it is truly student-centered. at Centric Learning we really care about the students.""
+
+Centric Learning
+http://centriclearning.net
+
+#centriclearning #learnatcentric",8,8,8mo,"We are so proud of our partner WAY program, Watervliet school district and Livingston ISD for their dynamic presentation at a statewide Technology conference sharing the effectiveness of PBL utilizing our Centric platform. 
+
+Congratulations to all! Great job!
+
+#watervliet #livingston #technology #pbl #wayprogram",13,13,,,,,,,,,,,,,,,,,,Co-Founder and Co-CEO at Centric Learning System,"Belleville, Michigan, United States",,425.0,,,,,,Co-Founder and Co-CEO,,Centric Learning System,Co-Founder Executive Director,,Way Program - Widening Advancements for Youth,cohort 2016,,Village Capital,School Improvement/Curriculum Resource Consultant,,Wayne RESA,,,,Wayne State University,"Ed.S, Organizational Leadership",Central Michigan University,"Master of Science (MS), Alternative Ed in Non-traditional Settings",University of Detroit Mercy,"Bachelor of Applied Science (BASc), General Science and Respiratory Therapy",,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/D560BAQGdro0jPLma7A/company-logo_200_200/company-logo_200_200/0/1667492674312/learnatcentric_logo?e=2147483647&v=beta&t=XDpbaf8dIREol56WyE_0XQSX5jAQ4P9FJmVJfSHCcvM,https://media.licdn.com/dms/image/v2/D560BAQGdro0jPLma7A/company-logo_200_200/company-logo_200_200/0/1667492674312/learnatcentric_logo?e=2147483647&v=beta&t=XDpbaf8dIREol56WyE_0XQSX5jAQ4P9FJmVJfSHCcvM,We are a group of diverse educators who share a common passion for project-based learning. We continue growing in the U.S. and across the globe.,,,,,Educational,,,,,,,,,"555 Briarwood Circle; Suite 105; Ann Arbor, MI 48108, US",1.0,"397 Main Street; Belleville, MI 48111, US",1.0,"23772 West Road #342; Brownstown Township, MI 48183, US",1.0,"220 S Main St; Suite 300; Ann Arbor, MI 48104, US",1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3w,"WAY American School, the international arm of Centric Learning, was elected the best American High School program in Brazil in 2022. The award comes from The Knowledge Review, one of the leading magazines on education in the United States.
+
+WAY American School is a high school program that offers an American curriculum capable of preparing Brazilian students to apply to American and international universities. All this is done through the Centric platform, which houses the curriculum in the form of hundreds of educational projects available to students and teachers.
+
+Speaking about the impacts that project-based learning has had on schools, WAY Executive Director Thiago Pinto dos Reis told Knowledge Review: “We work with thousands of students daily, and the positive impact of PBL on their lives in and out of school is evident. The feedback we receive from parents is overwhelming, who notice their child’s improved communication skills, ability to express themselves creatively, and sense of independence on their learning journey, essential to their future endeavors.”",1,1,6mo,"Amy Cook, teacher at Centric Learning and WAY American School, talks a little about what she likes most about the active methodology of PBL (Project-Based Learning).
+
+Centric Learning
+http://centriclearning.net
+
+#centriclearning #learnatcentric",1,,7mo,"Destiney Smith, Project Manager at Centric Learning, talks about how Centric Learning’s PBL helps students and how it would have made a difference in her life when changing schools when she was a student.
+
+Centric Learning
+http://centriclearning.net
+
+#centriclearning #learnatcentric",3,3,7mo,"David Chen, a teacher at Centric Learning, talks about his perceptions on how Centric Learning’s PBL delivers what it promises.
+
+""I truly do enjoy teaching here at Centric Learning. Why? Because they do practice what they preach, which is the Project-Based Learning method, or the PBL practices. This is truly important because, why? In my lifetime, I felt like I was not prepared. In most jobs, many careers and in college, most students have to work together to collaborate, to fulfill an assignment or a project.
+
+Unfortunately for me, when I grew up and when I went to high school, we still worked on memory over learning and once I got into the real world I had to learn these skills. Therefore I feel like this platform does really help students for the future. At the same time, students can work at their own pace due to their busy lifestyles.
+
+Also, teachers can tweak their projects based on the student needs and levels, whether they’re IEP students, ELLs, Honors, or GenEd. And so this is the reason why I continue and enjoy working at Centric because it is truly student-centered. at Centric Learning we really care about the students.""
+
+Centric Learning
+http://centriclearning.net
+
+#centriclearning #learnatcentric",8,8,8mo,"We are so proud of our partner WAY program, Watervliet school district and Livingston ISD for their dynamic presentation at a statewide Technology conference sharing the effectiveness of PBL utilizing our Centric platform. 
+
+Congratulations to all! Great job!
+
+#watervliet #livingston #technology #pbl #wayprogram",13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Elite Model High-Class Companion Angelina,,Elite Model High-Class Companion Angelina,http://escortcompanionhighendangelina.com,96522025.0,Elite Model High-Class Companion Angelina,https://www.linkedin.com/company/elite-model-high-class-companion-angelina,http://escortcompanionhighendangelina.com,,96522025,,,,,,,https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f,722409925.0,Elite Model High-Class Companion Angelina,Jack,Forbes,Co-Founder at Class Companion,Co-Founder at Class Companion,https://www.linkedin.com/in/canerdian,https://www.linkedin.com/in/canerdian,"Seattle, Washington, United States",United States,,65535.0,"Entrepreneur, nerd, and athletic enthusiast! I love inspiring people and using code to build amazing digital experiences.
+
+My fun fact: I've driven across North America 14 times",17.0,"Seattle, Washington, United States",2023-08-19 00:31:48,2025-07-01 22:10:18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Co-Founder at Class Companion,"Seattle, Washington, United States",,65535.0,,,,,,Technical Lead,,Panorama Education,Co-Founder,,Class Companion,Co-Founder,,Kopa,"Technical Lead, Innovation",,MasterClass,"Technical Lead, SEO",,MasterClass,Bainbridge High School,High School Diploma,University of Waterloo,"Bachelor of Applied Science (B.A.Sc.), Management Engineering",Y Combinator,Winter,,,,1.0,,,,,,,,,,,,,,https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f,https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f,,,,,,,,,,,,,,,"Virgin St; Reno, Nevada 89512, US",0.0,,0.0,,0.0,,0.0,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Struggly,,Struggly,https://www.struggly.com/,88845187.0,Struggly,https://www.linkedin.com/company/struggly,https://www.struggly.com/,E-Learning Providers,2-10 employees,Self-Owned,2021,6,"We believe in a limitless approach to learning – in mathematics and in life – leading to higher and more enjoyable achievements.
+
+Struggly is a brand of Boggl Inc",,,https://media.licdn.com/dms/image/v2/C4E0BAQFlolh0gYIITQ/company-logo_200_200/company-logo_200_200/0/1663745994239/struggly_logo?e=2147483647&v=beta&t=GNXnADRp4hgk5tMFeEPniDgQsRA99lYn4py6oJ2VX24,489265602.0,Struggly,Tanya,LaMar,CEO & Co-founder @ Struggly.com | Stanford Math Ed Ph.D.,CEO & Co-founder @ Struggly.com | Stanford Math Ed Ph.D.,https://www.linkedin.com/in/tanya-lamar,https://www.linkedin.com/in/tanya-lamar,"Austin, Texas, United States",United States,,65535.0,"K-12 Educator, researcher, co-founder and CEO igniting students’ mathematical curiosity and engagement because every child deserves a math education that empowers them.",10.0,"Austin, Texas, United States",2021-09-07 00:23:43,2025-06-24 07:27:23,,,,,,,,E-Learning Providers,,6,2021,,,,,,,,,,,,,,,,,,,,,,2mo,#edutech #growthmindset #mathworks #design,16,16,3mo,#edutech #growthmindset #mathworks #design,16,16,4mo,#edutech #growthmindset #mathworks #design,16,16,5mo,#edutech #growthmindset #mathworks #design,16,16,2d,"We have created a compilation of some of our tasks. #growthmindset, #mathworks
+
+Emoji-Tastatur öffnen",5,5,,,,,,,,,,,,,,,,,,CEO & Co-founder @ Struggly.com | Stanford Math Ed Ph.D.,"Austin, Texas, United States",,65535.0,,,,,,Chief Executive Officer & Co-Founder,,Struggly,WiDS Next Gen Curriculum Director,,Women in Data Science (WiDS) Worldwide,Advisory Council Member,,Tableau,Research Assistant- youcubed math and data science education,,Stanford University Graduate School of Education,Teaching Assistant- Data Science Curriculum and Instruction,,Stanford University Graduate School of Education,Stanford University Graduate School of Education,"Doctor of Philosophy - PhD, Mathematics Education",California State University-Long Beach,"Bachelor of Science - BS, University Honors, Mathematics",Stanford University Graduate School of Education,"Master of Arts - MA, Teaching of Mathematics",,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/C4E0BAQFlolh0gYIITQ/company-logo_200_200/company-logo_200_200/0/1663745994239/struggly_logo?e=2147483647&v=beta&t=GNXnADRp4hgk5tMFeEPniDgQsRA99lYn4py6oJ2VX24,https://media.licdn.com/dms/image/v2/C4E0BAQFlolh0gYIITQ/company-logo_200_200/company-logo_200_200/0/1663745994239/struggly_logo?e=2147483647&v=beta&t=GNXnADRp4hgk5tMFeEPniDgQsRA99lYn4py6oJ2VX24,"We believe in a limitless approach to learning – in mathematics and in life – leading to higher and more enjoyable achievements.
+
+Struggly is a brand of Boggl Inc",,,,,Self-Owned,,,,,,,,,"303 Colorado st; Colorado Tower, Suite 2300; Austin, Texas 78701, US",1.0,,1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2mo,#edutech #growthmindset #mathworks #design,16,16,3mo,#edutech #growthmindset #mathworks #design,16,16,4mo,#edutech #growthmindset #mathworks #design,16,16,5mo,#edutech #growthmindset #mathworks #design,16,16,2d,"We have created a compilation of some of our tasks. #growthmindset, #mathworks
+
+Emoji-Tastatur öffnen",5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dumroo.ai | AI Ecosystem for Education,,Dumroo.ai | AI Ecosystem for Education,https://dumroo.ai/,97706126.0,Dumroo.ai | AI Ecosystem for Education,https://www.linkedin.com/company/dumroo-ai-ecosystem-for-education,https://dumroo.ai/,Education,11-50 employees,Educational,2024,10,"Dumroo.ai is a pioneering platform that is transforming the educational landscape through artificial intelligence. By integrating all key stakeholders in the learning process—students, teachers, administrators, and parents—it aims to create an ecosystem that fosters innovation, efficiency, and personalized education. The platform’s mission is to break traditional barriers in education by leveraging AI to create a seamless, adaptive, and dynamic learning environment. Dumroo.ai envisions a future where education is not just about standardized curriculums but about tailoring experiences to the unique needs of every student while empowering educators and streamlining administrative processes.
+
+At the core of Dumroo.ai’s innovation is its ability to personalize learning. By utilizing advanced AI algorithms, the platform analyzes each student's learning patterns, strengths, and weaknesses to provide customized educational experiences. This means that students can progress at their own pace, focusing on areas that need improvement while building on their strengths. AI-driven assessments ensure that students receive timely feedback, allowing them to make meaningful progress in their studies. This approach enhances engagement and ensures that no student is left behind due to the limitations of traditional one-size-fits-all teaching methods.
+
+Teachers play a crucial role in the educational journey, and Dumroo.ai recognizes the importance of equipping them with the right tools. The platform offers various AI-powered resources that assist educators in developing curriculums, assessing student performance, and implementing interactive teaching strategies. Through AI-driven insights, teachers gain a deeper understanding of how each student is performing, allowing them to tailor their teaching methods accordingly. Instead of spending excessive time on administrative work, teachers can focus more on instructional quality and student engagement.",,,https://media.licdn.com/dms/image/v2/D4E0BAQGNkDKRU97jxw/company-logo_200_200/B4EZW6.gB2GgAM-/0/1742598702767/dumroo_ai_ecosystem_for_education_logo?e=2147483647&v=beta&t=N6zn4swOnxYSnhSxueOeAva0MznKdM17kpU2kWhSTPU,398763900.0,Dumroo.ai | AI Ecosystem for Education,Alok,Rai,,FinTech Executive | EdTech Entrepreneur | Strategic Advisor |  | Education | Mentor | Blockchain,https://www.linkedin.com/in/alok-rai,https://www.linkedin.com/in/alok-rai,"New York, New York, United States",United States,Financial Services,65535.0,"At Dumroo.ai, our team is pioneering an AI-powered educational ecosystem that is…",7.0,"New York, New York, United States",2017-11-12 20:58:32,2025-06-25 13:07:34,,,,,,,,Education,,10,2024,,,,,,,,,,,,,,,,,,,,,,2w,"Unlock the future of teaching with Dumroo.ai’s powerful dashboard and Power Teachers program! Empowering educators to thrive, starting February 2025! 🚀
+
+🌏 https://dumroo.ai/
+
+#Dumroo.ai #EdTechInnovation #EmpoweredEducators #FutureOfEducation #TeachingRevolution #PowerTeachers2025 #InclusiveEducation #SupportEveryLearner #unitedstates #newjersey #maine #texas #hawaii #colorado #education #literacy #esl #academicsucess #students #educator #teacher #tutoring #specialeducation",1,1,2w,"Turning classrooms into innovation hubs with AI—teaching smarter, learning better! 🤖✨📚
+
+🌏 https://dumroo.ai/
+
+#Dumroo.ai
+#AIinEducation
+#EdTech #FutureOfLearning #PersonalizedLearning #InnovationInEducation
+#SmartClassrooms #EducationRevolution #TeachingWithAI #21stCenturyLearning #TechInEducation",1,,3w,"AI can help with everything from brainstorming to outlining to feedback. It is, in fact, the ideal scaffolding for all those students who are stuck, unable to clearly articulate their thoughts, start their papers, or strengthen their arguments. 
+#AIinEducation
+#EdTech
+#EdTechAI
+#AI4Education
+#FutureofLearning
+#DigitalEducation
+#EducationTechnology
+#SmartEducation
+#AIforSchools
+#AIinClassrooms
+#AIforTeachers
+#AIforStudents
+#PersonalizedLearning
+#AdaptiveLearning
+#AIinEd
+#LearningAnalytics
+#EdAI
+#AIEducationTools
+#AIinK12
+#NextGenLearning
+#EdTechInnovation
+#AI4Learning
+#ClassroomTech
+#21stCenturyLearning
+#AIinHigherEd
+#ArtificialIntelligence
+#AIinSTEAM
+#AI4Equity
+#EthicalAIinEd
+#AIforInclusion
+#AI4SEL (Social Emotional Learning)
+#AIforEducators
+#TeacherTech
+#EdTechPD (Professional Development)
+#AIWorkshops
+#AIinEducationPolicy
+#AIinEdResearch
+#EdTechResearch
+#AI4EducationPolicy
+#EdTechCommunity
+#AIinEdCollab
+#AIinEducationSummit
+#EdTechNetworking
+#EdTech #AIinEducation #ClassroomInnovation #FutureOfLearning
+Alok Rai Savya Rai Bajaj K.",1,,3w,"Artificial intelligence (AI) platforms are revolutionizing education by automating and simplifying classroom management tasks. ✨
+From taking attendance in seconds to managing data, AI frees up valuable time—allowing educators to focus on what truly matters: teaching and inspiring students. 🎓
+Say goodbye to manual processes and hello to more engaging lessons and meaningful student interactions!
+#EdTech #AIinEducation #ClassroomInnovation #FutureOfLearning
+#AIinEducation
+#EdTech
+#EdTechAI
+#AI4Education
+#FutureofLearning
+#DigitalEducation
+#EducationTechnology
+#SmartEducation
+#AIforSchools
+#AIinClassrooms
+#AIforTeachers
+#AIforStudents
+#PersonalizedLearning
+#AdaptiveLearning
+#AIinEd
+#LearningAnalytics
+#EdAI
+#AIEducationTools
+#AIinK12
+#NextGenLearning
+#EdTechInnovation
+#AI4Learning
+#ClassroomTech
+#21stCenturyLearning
+#AIinHigherEd
+#ArtificialIntelligence
+#AIinSTEAM
+#AI4Equity
+#EthicalAIinEd
+#AIforInclusion
+#AI4SEL (Social Emotional Learning)
+#AIforEducators
+#TeacherTech
+#EdTechPD (Professional Development)
+#AIWorkshops
+#AIinEducationPolicy
+#AIinEdResearch
+#EdTechResearch
+#AI4EducationPolicy
+#EdTechCommunity
+#AIinEdCollab
+#AIinEducationSummit
+#EdTechNetworking",1,,3w,"No two students are the same. Some excel in certain subject areas or learning environments, others may need more time to master a skill. Teachers have always known that meeting the individual needs of each student can accelerate learning. 
+Many of them have been heroic in their efforts to try to do this in classrooms of 30 or more students. However, it’s challenging for even the most passionate and dedicated teacher to personalize learning for every student. What’s more, teachers today often say they feel like they’re forced to “teach to the middle” — with a portion of students left unchallenged and others falling behind. 
+Nothing can replace the power of personal attention in learning. But AI is unlocking new ways to learn and teach at a scale only dreamed about before.
+#AIinEducation
+#EdTech
+#EdTechAI
+#AI4Education
+#FutureofLearning
+#DigitalEducation
+#EducationTechnology
+#SmartEducation
+#AIforSchools
+#AIinClassrooms
+#AIforTeachers
+#AIforStudents
+#PersonalizedLearning
+#AdaptiveLearning
+#AIinEd
+#LearningAnalytics
+#EdAI
+#AIEducationTools
+#AIinK12
+#NextGenLearning
+#EdTechInnovation
+#AI4Learning
+#ClassroomTech
+#21stCenturyLearning
+#AIinHigherEd
+#ArtificialIntelligence
+#AIinSTEAM
+#AI4Equity
+#EthicalAIinEd
+#AIforInclusion
+#AI4SEL (Social Emotional Learning)
+#AIforEducators
+#TeacherTech
+#EdTechPD (Professional Development)
+#AIWorkshops
+#AIinEducationPolicy
+#AIinEdResearch
+#EdTechResearch
+#AI4EducationPolicy
+#EdTechCommunity
+#AIinEdCollab
+#AIinEducationSummit
+#EdTechNetworking",1,1,,,,,,,,,,,,,,,,,,FinTech Executive | EdTech Entrepreneur | Strategic Advisor |  | Education | Mentor | Blockchain,"New York, New York, United States",,65535.0,,,,,,Founder & CEO,,Dumroo.ai | AI Ecosystem for Education,Co-Founder,,Sunshine Education LLC NJ,Founder,,BitRoyal,Co-Founder,,Umiverse,Solutions Architect,,Bank of America,K. K. College of Engineering & Management,"Bachelor of Engineering - BE, Civil Engineering",Rochester Institute of Technology,"Master of Science - MS, Computer Science",,,,,,1.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/D4E0BAQGNkDKRU97jxw/company-logo_200_200/B4EZW6.gB2GgAM-/0/1742598702767/dumroo_ai_ecosystem_for_education_logo?e=2147483647&v=beta&t=N6zn4swOnxYSnhSxueOeAva0MznKdM17kpU2kWhSTPU,https://media.licdn.com/dms/image/v2/D4E0BAQGNkDKRU97jxw/company-logo_200_200/B4EZW6.gB2GgAM-/0/1742598702767/dumroo_ai_ecosystem_for_education_logo?e=2147483647&v=beta&t=N6zn4swOnxYSnhSxueOeAva0MznKdM17kpU2kWhSTPU,"Dumroo.ai is a pioneering platform that is transforming the educational landscape through artificial intelligence. By integrating all key stakeholders in the learning process—students, teachers, administrators, and parents—it aims to create an ecosystem that fosters innovation, efficiency, and personalized education. The platform’s mission is to break traditional barriers in education by leveraging AI to create a seamless, adaptive, and dynamic learning environment. Dumroo.ai envisions a future where education is not just about standardized curriculums but about tailoring experiences to the unique needs of every student while empowering educators and streamlining administrative processes.
+
+At the core of Dumroo.ai’s innovation is its ability to personalize learning. By utilizing advanced AI algorithms, the platform analyzes each student's learning patterns, strengths, and weaknesses to provide customized educational experiences. This means that students can progress at their own pace, focusing on areas that need improvement while building on their strengths. AI-driven assessments ensure that students receive timely feedback, allowing them to make meaningful progress in their studies. This approach enhances engagement and ensures that no student is left behind due to the limitations of traditional one-size-fits-all teaching methods.
+
+Teachers play a crucial role in the educational journey, and Dumroo.ai recognizes the importance of equipping them with the right tools. The platform offers various AI-powered resources that assist educators in developing curriculums, assessing student performance, and implementing interactive teaching strategies. Through AI-driven insights, teachers gain a deeper understanding of how each student is performing, allowing them to tailor their teaching methods accordingly. Instead of spending excessive time on administrative work, teachers can focus more on instructional quality and student engagement.",,,,,Educational,,,,,,,,,"405 Northfield Ave, Suite 201; West Orange; New Jersey, United States 07052, US",1.0,,1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2w,"Unlock the future of teaching with Dumroo.ai’s powerful dashboard and Power Teachers program! Empowering educators to thrive, starting February 2025! 🚀
+
+🌏 https://dumroo.ai/
+
+#Dumroo.ai #EdTechInnovation #EmpoweredEducators #FutureOfEducation #TeachingRevolution #PowerTeachers2025 #InclusiveEducation #SupportEveryLearner #unitedstates #newjersey #maine #texas #hawaii #colorado #education #literacy #esl #academicsucess #students #educator #teacher #tutoring #specialeducation",1,1,2w,"Turning classrooms into innovation hubs with AI—teaching smarter, learning better! 🤖✨📚
+
+🌏 https://dumroo.ai/
+
+#Dumroo.ai
+#AIinEducation
+#EdTech #FutureOfLearning #PersonalizedLearning #InnovationInEducation
+#SmartClassrooms #EducationRevolution #TeachingWithAI #21stCenturyLearning #TechInEducation",1,,3w,"AI can help with everything from brainstorming to outlining to feedback. It is, in fact, the ideal scaffolding for all those students who are stuck, unable to clearly articulate their thoughts, start their papers, or strengthen their arguments. 
+#AIinEducation
+#EdTech
+#EdTechAI
+#AI4Education
+#FutureofLearning
+#DigitalEducation
+#EducationTechnology
+#SmartEducation
+#AIforSchools
+#AIinClassrooms
+#AIforTeachers
+#AIforStudents
+#PersonalizedLearning
+#AdaptiveLearning
+#AIinEd
+#LearningAnalytics
+#EdAI
+#AIEducationTools
+#AIinK12
+#NextGenLearning
+#EdTechInnovation
+#AI4Learning
+#ClassroomTech
+#21stCenturyLearning
+#AIinHigherEd
+#ArtificialIntelligence
+#AIinSTEAM
+#AI4Equity
+#EthicalAIinEd
+#AIforInclusion
+#AI4SEL (Social Emotional Learning)
+#AIforEducators
+#TeacherTech
+#EdTechPD (Professional Development)
+#AIWorkshops
+#AIinEducationPolicy
+#AIinEdResearch
+#EdTechResearch
+#AI4EducationPolicy
+#EdTechCommunity
+#AIinEdCollab
+#AIinEducationSummit
+#EdTechNetworking
+#EdTech #AIinEducation #ClassroomInnovation #FutureOfLearning
+Alok Rai Savya Rai Bajaj K.",1,,3w,"Artificial intelligence (AI) platforms are revolutionizing education by automating and simplifying classroom management tasks. ✨
+From taking attendance in seconds to managing data, AI frees up valuable time—allowing educators to focus on what truly matters: teaching and inspiring students. 🎓
+Say goodbye to manual processes and hello to more engaging lessons and meaningful student interactions!
+#EdTech #AIinEducation #ClassroomInnovation #FutureOfLearning
+#AIinEducation
+#EdTech
+#EdTechAI
+#AI4Education
+#FutureofLearning
+#DigitalEducation
+#EducationTechnology
+#SmartEducation
+#AIforSchools
+#AIinClassrooms
+#AIforTeachers
+#AIforStudents
+#PersonalizedLearning
+#AdaptiveLearning
+#AIinEd
+#LearningAnalytics
+#EdAI
+#AIEducationTools
+#AIinK12
+#NextGenLearning
+#EdTechInnovation
+#AI4Learning
+#ClassroomTech
+#21stCenturyLearning
+#AIinHigherEd
+#ArtificialIntelligence
+#AIinSTEAM
+#AI4Equity
+#EthicalAIinEd
+#AIforInclusion
+#AI4SEL (Social Emotional Learning)
+#AIforEducators
+#TeacherTech
+#EdTechPD (Professional Development)
+#AIWorkshops
+#AIinEducationPolicy
+#AIinEdResearch
+#EdTechResearch
+#AI4EducationPolicy
+#EdTechCommunity
+#AIinEdCollab
+#AIinEducationSummit
+#EdTechNetworking",1,,3w,"No two students are the same. Some excel in certain subject areas or learning environments, others may need more time to master a skill. Teachers have always known that meeting the individual needs of each student can accelerate learning. 
+Many of them have been heroic in their efforts to try to do this in classrooms of 30 or more students. However, it’s challenging for even the most passionate and dedicated teacher to personalize learning for every student. What’s more, teachers today often say they feel like they’re forced to “teach to the middle” — with a portion of students left unchallenged and others falling behind. 
+Nothing can replace the power of personal attention in learning. But AI is unlocking new ways to learn and teach at a scale only dreamed about before.
+#AIinEducation
+#EdTech
+#EdTechAI
+#AI4Education
+#FutureofLearning
+#DigitalEducation
+#EducationTechnology
+#SmartEducation
+#AIforSchools
+#AIinClassrooms
+#AIforTeachers
+#AIforStudents
+#PersonalizedLearning
+#AdaptiveLearning
+#AIinEd
+#LearningAnalytics
+#EdAI
+#AIEducationTools
+#AIinK12
+#NextGenLearning
+#EdTechInnovation
+#AI4Learning
+#ClassroomTech
+#21stCenturyLearning
+#AIinHigherEd
+#ArtificialIntelligence
+#AIinSTEAM
+#AI4Equity
+#EthicalAIinEd
+#AIforInclusion
+#AI4SEL (Social Emotional Learning)
+#AIforEducators
+#TeacherTech
+#EdTechPD (Professional Development)
+#AIWorkshops
+#AIinEducationPolicy
+#AIinEdResearch
+#EdTechResearch
+#AI4EducationPolicy
+#EdTechCommunity
+#AIinEdCollab
+#AIinEducationSummit
+#EdTechNetworking",1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Linkit IT Solutions Limited,,Linkit IT Solutions Limited,http://www.linkit.support,7179029.0,Linkit IT Solutions Limited,https://www.linkedin.com/company/robin-and-martin-limited,http://www.linkit.support,Information Technology & Services,11-50 employees,Privately Held,2011,10,"Linkit IT Solutions Limited is an IT Managed Service Priovider based within Warwick, servicing schools, businesses and charities within Coventry and Warwickshire, South Birmingham, and Northamptonshire areas.
+We have bespoke packages to support all organisations from just 2 employees upwards.",,,https://media-exp1.licdn.com/dms/image/C4E0BAQGkIJUNGLUs4g/company-logo_200_200/0/1571047383818?e=2159024400&v=beta&t=0UK_i-B6fcXFPQNvgS4LRWXEvpmzJO5KwGSFcu-SF0g,351068120.0,Linkit IT Solutions Limited,josh,powe,--,--,https://www.linkedin.com/in/josh-powe-b53a4233,https://www.linkedin.com/in/josh-powe-b53a4233,United States,United States,,0.0,,0.0,United States,2016-11-03 08:08:38,2025-06-21 15:11:19,,,,,,,,Information Technology & Services,,10,2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,United States,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,,,,https://media-exp1.licdn.com/dms/image/C4E0BAQGkIJUNGLUs4g/company-logo_200_200/0/1571047383818?e=2159024400&v=beta&t=0UK_i-B6fcXFPQNvgS4LRWXEvpmzJO5KwGSFcu-SF0g,https://media-exp1.licdn.com/dms/image/C4E0BAQGkIJUNGLUs4g/company-logo_200_200/0/1571047383818?e=2159024400&v=beta&t=0UK_i-B6fcXFPQNvgS4LRWXEvpmzJO5KwGSFcu-SF0g,"Linkit IT Solutions Limited is an IT Managed Service Priovider based within Warwick, servicing schools, businesses and charities within Coventry and Warwickshire, South Birmingham, and Northamptonshire areas.
+We have bespoke packages to support all organisations from just 2 employees upwards.",,,,,Privately Held,,,,,,,,,"Regent House, 20 Harriott Drive; Heathcote Industrial Estate; Warwick, Warwickshire CV34 6TJ, GB",1.0,,1.0,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,STEM Education Works,,STEM Education Works,http://www.stemeducationworks.com,12082782.0,STEM Education Works,https://www.linkedin.com/company/stem-education-works,http://www.stemeducationworks.com,Primary and Secondary Education,51-200 employees,Privately Held,,13,"STEM Education Works has developed authentic, industry-aligned learning experiences to cultivate the technical competencies and employability skills necessary for student success within regional workforce ecosystems. With our standards-aligned STEM curriculum, we provide integrative science and mathematics concepts into design-based learning engineering practices, which enables all educators to teach vital competencies in programming, robotics, automation, electronics, logistics, supply chain management, engineering design, and innovation.",,,https://media.licdn.com/dms/image/v2/C4D0BAQEUotq84PNH0Q/company-logo_200_200/company-logo_200_200/0/1631373254333/stem_education_works_logo?e=2147483647&v=beta&t=A544UzvrfAOuzeYN0dYrABxkmaCpRBDVAo_RM58AP8E,339666978.0,STEM Education Works,Kim,Kallok,STEM Education Works,STEM Education Works,https://www.linkedin.com/in/kim-kallok-16588169,https://www.linkedin.com/in/kim-kallok-16588169,"Lafayette, Indiana, United States",United States,Publishing,127.0,,2.0,"Lafayette, Indiana, United States",2016-09-29 14:02:32,2025-07-05 02:47:24,,,,,,,,Primary and Secondary Education,,13,,,,,,,,,,,,,,,,,,,,,,,13h,STEM Education Works is proud to partner with Horizon Educational so we can offer students and teachers the opportunity to work with these cutting edge STEM Kits. Renewable energy technology is a game changer for building a brighter future. #fuelcells #solar #wind #renewableenergy #STEMeducation #projectbasedlearning,6,6,2w,"Ring in the New Year with a fresh start and career that can change way kids learn and think about their future! STEM Education Works is #hiring.
+
+#stemeducation #projectbasedlearning #innovativetechnology #futureofeducation",3,3,3w,"You don't want to miss this one. Register for Corey's free Webinar Wednesday on 11/16 at 4pm EST. She is going to show you how to level up with micro:bits in the classroom!
+https://lnkd.in/dUyfi4sE
+#professionaldevelopment #freewebinar #coding #microbit",5,5,3w,"How do you choose a 3D printer? Go for an FDM or SLA printer? There are lots of questions to be asked, so Dr. Corey Hall compares two types of 3D printers so you know where to start. Read more in our latest blog:
+
+https://loom.ly/xbVPKk8
+
+#3Dprinting #3Dprinted #3Dprinter #STEM",6,,4w,"Dr. Jake Roark will be orchestrating a workshop this Thursday at the Hoosier Educational Computer Coordinators (HECC) Conference that will have attendees transforming wind energy into electrical energy using Horizon Educational kits!
+
+Time: Thursday, Nov 10, 2022 1:30 PM - 3:30 PM EST
+
+More details: https://loom.ly/oFoYzbU
+
+#STEM #HorizonEducational #HECC2022 #windenergy #renewableenergies",1,1,,,,,,,,,,,,,,,,,,STEM Education Works,"Lafayette, Indiana, United States",,127.0,,,,,,President,,STEM Education Works,Customer Service Manager,,School Datebooks,,,,,,,,,,Purdue University,"Bachelor's degree, Management",,,,,,,,0.0,,,,,,,,,,,,,,https://media.licdn.com/dms/image/v2/C4D0BAQEUotq84PNH0Q/company-logo_200_200/company-logo_200_200/0/1631373254333/stem_education_works_logo?e=2147483647&v=beta&t=A544UzvrfAOuzeYN0dYrABxkmaCpRBDVAo_RM58AP8E,https://media.licdn.com/dms/image/v2/C4D0BAQEUotq84PNH0Q/company-logo_200_200/company-logo_200_200/0/1631373254333/stem_education_works_logo?e=2147483647&v=beta&t=A544UzvrfAOuzeYN0dYrABxkmaCpRBDVAo_RM58AP8E,"STEM Education Works has developed authentic, industry-aligned learning experiences to cultivate the technical competencies and employability skills necessary for student success within regional workforce ecosystems. With our standards-aligned STEM curriculum, we provide integrative science and mathematics concepts into design-based learning engineering practices, which enables all educators to teach vital competencies in programming, robotics, automation, electronics, logistics, supply chain management, engineering design, and innovation.",,,,,Privately Held,,,,,,,,,"2880 US Highway 231 S; Lafayette, Indiana, US",1.0,"
+                    2880 US Highway 231 S
+                  ; 
+                        Lafayette, Indiana, US
+                  ",0.0,"2880 US Highway 231 S; Lafayette, Indiana, US",1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13h,STEM Education Works is proud to partner with Horizon Educational so we can offer students and teachers the opportunity to work with these cutting edge STEM Kits. Renewable energy technology is a game changer for building a brighter future. #fuelcells #solar #wind #renewableenergy #STEMeducation #projectbasedlearning,6,6,2w,"Ring in the New Year with a fresh start and career that can change way kids learn and think about their future! STEM Education Works is #hiring.
+
+#stemeducation #projectbasedlearning #innovativetechnology #futureofeducation",3,3,3w,"You don't want to miss this one. Register for Corey's free Webinar Wednesday on 11/16 at 4pm EST. She is going to show you how to level up with micro:bits in the classroom!
+https://lnkd.in/dUyfi4sE
+#professionaldevelopment #freewebinar #coding #microbit",5,5,3w,"How do you choose a 3D printer? Go for an FDM or SLA printer? There are lots of questions to be asked, so Dr. Corey Hall compares two types of 3D printers so you know where to start. Read more in our latest blog:
+
+https://loom.ly/xbVPKk8
+
+#3Dprinting #3Dprinted #3Dprinter #STEM",6,,4w,"Dr. Jake Roark will be orchestrating a workshop this Thursday at the Hoosier Educational Computer Coordinators (HECC) Conference that will have attendees transforming wind energy into electrical energy using Horizon Educational kits!
+
+Time: Thursday, Nov 10, 2022 1:30 PM - 3:30 PM EST
+
+More details: https://loom.ly/oFoYzbU
+
+#STEM #HorizonEducational #HECC2022 #windenergy #renewableenergies",1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

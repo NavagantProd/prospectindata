@@ -1,0 +1,811 @@
+{
+  "id": 7179029,
+  "url": "https://www.linkedin.com/company/robin-and-martin-limited",
+  "hash": "028c1a9698fb3c10928f2ae3be5d631e",
+  "name": "Linkit IT Solutions Limited",
+  "website": "http://www.linkit.support",
+  "size": "11-50 employees",
+  "industry": "Information Technology & Services",
+  "description": "Linkit IT Solutions Limited is an IT Managed Service Priovider based within Warwick, servicing schools, businesses and charities within Coventry and Warwickshire, South Birmingham, and Northamptonshire areas.\nWe have bespoke packages to support all organisations from just 2 employees upwards.",
+  "followers": 24,
+  "founded": 2011,
+  "headquarters_city": null,
+  "headquarters_country": null,
+  "headquarters_state": null,
+  "headquarters_street1": null,
+  "headquarters_street2": null,
+  "headquarters_zip": null,
+  "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGkIJUNGLUs4g/company-logo_200_200/0/1571047383818?e=2159024400&v=beta&t=0UK_i-B6fcXFPQNvgS4LRWXEvpmzJO5KwGSFcu-SF0g",
+  "created": "2016-06-24 17:19:47",
+  "last_updated": "2025-07-08 09:24:05",
+  "last_response_code": 404,
+  "type": "Privately Held",
+  "headquarters_new_address": "Warwick, Warwickshire",
+  "employees_count": 10,
+  "headquarters_country_restored": "United Kingdom",
+  "headquarters_country_parsed": "United Kingdom",
+  "company_shorthand_name": "robin-and-martin-limited",
+  "company_shorthand_name_hash": "15b4830c48b994ea4c09c220122dadae",
+  "canonical_url": "https://www.linkedin.com/company/robin-and-martin-limited",
+  "canonical_hash": "028c1a9698fb3c10928f2ae3be5d631e",
+  "canonical_shorthand_name": "robin-and-martin-limited",
+  "canonical_shorthand_name_hash": "15b4830c48b994ea4c09c220122dadae",
+  "deleted": 1,
+  "last_updated_ux": 1751966644,
+  "source_id": 6758025,
+  "company_affiliated_collection": [],
+  "company_also_viewed_collection": [
+    {
+      "id": 254470086,
+      "company_id": 7179029,
+      "viewed_company_url": "https://ca.linkedin.com/company/regent-document-solutions-ltd",
+      "viewed_company_id": null,
+      "created": "2019-08-01 13:25:04",
+      "last_updated": "2019-10-21 09:37:45",
+      "deleted": 1
+    },
+    {
+      "id": 254470090,
+      "company_id": 7179029,
+      "viewed_company_url": "https://ca.linkedin.com/company/csc-systems-inc.",
+      "viewed_company_id": null,
+      "created": "2019-08-01 13:25:04",
+      "last_updated": "2019-10-21 09:37:45",
+      "deleted": 1
+    },
+    {
+      "id": 254470093,
+      "company_id": 7179029,
+      "viewed_company_url": "https://ca.linkedin.com/company/property-&-casualty-management-systems-inc-",
+      "viewed_company_id": null,
+      "created": "2019-08-01 13:25:04",
+      "last_updated": "2019-10-21 09:37:45",
+      "deleted": 1
+    },
+    {
+      "id": 254470096,
+      "company_id": 7179029,
+      "viewed_company_url": "https://ca.linkedin.com/company/falcon-document-solutions-limited",
+      "viewed_company_id": null,
+      "created": "2019-08-01 13:25:04",
+      "last_updated": "2019-10-21 09:37:45",
+      "deleted": 1
+    },
+    {
+      "id": 254470100,
+      "company_id": 7179029,
+      "viewed_company_url": "https://ca.linkedin.com/company/copylogic-ltd",
+      "viewed_company_id": null,
+      "created": "2019-08-01 13:25:04",
+      "last_updated": "2019-10-21 09:37:45",
+      "deleted": 1
+    },
+    {
+      "id": 254470108,
+      "company_id": 7179029,
+      "viewed_company_url": "https://ca.linkedin.com/company/hemmersbach-gmbh-&-co--kg",
+      "viewed_company_id": null,
+      "created": "2019-08-01 13:25:04",
+      "last_updated": "2019-10-21 09:37:45",
+      "deleted": 1
+    },
+    {
+      "id": 140703145,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/csc-systems-inc.",
+      "viewed_company_id": null,
+      "created": "2018-07-10 21:27:50",
+      "last_updated": "2019-08-01 13:25:04",
+      "deleted": 1
+    },
+    {
+      "id": 197759767,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/regent-document-solutions-ltd",
+      "viewed_company_id": null,
+      "created": "2019-03-23 23:19:12",
+      "last_updated": "2019-08-01 13:25:04",
+      "deleted": 1
+    },
+    {
+      "id": 197759768,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/mirius",
+      "viewed_company_id": null,
+      "created": "2019-03-23 23:19:12",
+      "last_updated": "2019-08-01 13:25:04",
+      "deleted": 1
+    },
+    {
+      "id": 197759769,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/celesio-uk",
+      "viewed_company_id": null,
+      "created": "2019-03-23 23:19:12",
+      "last_updated": "2019-08-01 13:25:04",
+      "deleted": 1
+    },
+    {
+      "id": 224827534,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/falcon-document-solutions-limited",
+      "viewed_company_id": null,
+      "created": "2019-05-28 06:33:09",
+      "last_updated": "2019-08-01 13:25:04",
+      "deleted": 1
+    },
+    {
+      "id": 224827537,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/copylogic-ltd",
+      "viewed_company_id": null,
+      "created": "2019-05-28 06:33:09",
+      "last_updated": "2019-08-01 13:25:04",
+      "deleted": 1
+    },
+    {
+      "id": 140703143,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/a-l-e-light-&-sound",
+      "viewed_company_id": null,
+      "created": "2018-07-10 21:27:50",
+      "last_updated": "2019-05-28 06:33:09",
+      "deleted": 1
+    },
+    {
+      "id": 140703144,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/rise-vietnam",
+      "viewed_company_id": null,
+      "created": "2018-07-10 21:27:50",
+      "last_updated": "2019-05-28 06:33:09",
+      "deleted": 1
+    },
+    {
+      "id": 191370437,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/val-martin-&-robin-yates-ltd",
+      "viewed_company_id": null,
+      "created": "2019-02-28 19:26:19",
+      "last_updated": "2019-03-23 23:19:12",
+      "deleted": 1
+    },
+    {
+      "id": 191370438,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/bbs-llc",
+      "viewed_company_id": null,
+      "created": "2019-02-28 19:26:19",
+      "last_updated": "2019-03-23 23:19:12",
+      "deleted": 1
+    },
+    {
+      "id": 191370439,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/the-clement-team",
+      "viewed_company_id": null,
+      "created": "2019-02-28 19:26:19",
+      "last_updated": "2019-03-23 23:19:12",
+      "deleted": 1
+    },
+    {
+      "id": 124891583,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/robin-martin",
+      "viewed_company_id": null,
+      "created": "2017-12-26 21:06:35",
+      "last_updated": "2018-12-09 15:46:31",
+      "deleted": 1
+    },
+    {
+      "id": 124891584,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/robins-&-morton",
+      "viewed_company_id": null,
+      "created": "2017-12-26 21:06:35",
+      "last_updated": "2018-12-09 15:46:31",
+      "deleted": 1
+    },
+    {
+      "id": 56781215,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/riskex",
+      "viewed_company_id": null,
+      "created": "2016-12-15 18:05:34",
+      "last_updated": "2017-12-26 21:06:35",
+      "deleted": 1
+    },
+    {
+      "id": 56781216,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/365-migrations-limited",
+      "viewed_company_id": null,
+      "created": "2016-12-15 18:05:34",
+      "last_updated": "2017-08-16 16:12:08",
+      "deleted": 1
+    },
+    {
+      "id": 56781217,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/247-ip-networks-ltd",
+      "viewed_company_id": null,
+      "created": "2016-12-15 18:05:34",
+      "last_updated": "2017-08-16 16:12:08",
+      "deleted": 1
+    },
+    {
+      "id": 56781218,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/1st-trust-bank",
+      "viewed_company_id": null,
+      "created": "2016-12-15 18:05:34",
+      "last_updated": "2017-08-16 16:12:08",
+      "deleted": 1
+    },
+    {
+      "id": 56781219,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/247-everywhere",
+      "viewed_company_id": null,
+      "created": "2016-12-15 18:05:34",
+      "last_updated": "2017-08-16 16:12:08",
+      "deleted": 1
+    },
+    {
+      "id": 56781220,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/eynesbury-senior-college",
+      "viewed_company_id": null,
+      "created": "2016-12-15 18:05:34",
+      "last_updated": "2017-08-16 16:12:08",
+      "deleted": 1
+    },
+    {
+      "id": 27733802,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/touchsystemsltd",
+      "viewed_company_id": null,
+      "created": "2016-06-24 17:19:47",
+      "last_updated": "2016-12-15 18:05:34",
+      "deleted": 1
+    },
+    {
+      "id": 27733803,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/social-climbers-limited",
+      "viewed_company_id": null,
+      "created": "2016-06-24 17:19:47",
+      "last_updated": "2016-12-15 18:05:34",
+      "deleted": 1
+    },
+    {
+      "id": 27733804,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/i-office-solutions",
+      "viewed_company_id": null,
+      "created": "2016-06-24 17:19:47",
+      "last_updated": "2016-12-15 18:05:34",
+      "deleted": 1
+    },
+    {
+      "id": 27733805,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/glass-client-programs-ltd",
+      "viewed_company_id": null,
+      "created": "2016-06-24 17:19:47",
+      "last_updated": "2016-12-15 18:05:34",
+      "deleted": 1
+    },
+    {
+      "id": 27733806,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/wave-mobile-developments-ltd",
+      "viewed_company_id": null,
+      "created": "2016-06-24 17:19:47",
+      "last_updated": "2016-12-15 18:05:34",
+      "deleted": 1
+    },
+    {
+      "id": 27733807,
+      "company_id": 7179029,
+      "viewed_company_url": "https://www.linkedin.com/company/just-car-finance",
+      "viewed_company_id": null,
+      "created": "2016-06-24 17:19:47",
+      "last_updated": "2016-12-15 18:05:34",
+      "deleted": 1
+    }
+  ],
+  "company_crunchbase_info_collection": [],
+  "company_featured_employees_collection": [
+    {
+      "id": 12952270,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/deborah-jones-01850129",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2020-02-23 19:23:20",
+      "deleted": 1
+    },
+    {
+      "id": 12952271,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/robin-martin-4a17a85a",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2019-12-31 10:46:42",
+      "deleted": 1
+    },
+    {
+      "id": 12952272,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/robin-evans-b050297b",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2019-12-31 10:46:42",
+      "deleted": 1
+    },
+    {
+      "id": 12952273,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/mark-clark-422baaa4",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2019-12-31 10:46:42",
+      "deleted": 1
+    },
+    {
+      "id": 29703646,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/karl-rotherham-2aa93451",
+      "created": "2019-12-31 10:46:42",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 29703647,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/rob-southcott-66678ba8",
+      "created": "2019-12-31 10:46:42",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 29703648,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/jeff-scorer-714711bb",
+      "created": "2019-12-31 10:46:42",
+      "last_updated": "2020-08-11 12:34:26",
+      "deleted": 1
+    },
+    {
+      "id": 43421962,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/orlando-gonzalez-46ba2941",
+      "created": "2020-04-29 10:17:13",
+      "last_updated": "2020-07-15 22:26:49",
+      "deleted": 1
+    },
+    {
+      "id": 58095506,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/wesley-vogel-999314154",
+      "created": "2020-12-20 16:27:01",
+      "last_updated": "2021-03-12 21:45:46",
+      "deleted": 1
+    },
+    {
+      "id": 60579586,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/constantin-dobre-a5a995a8",
+      "created": "2021-02-14 18:08:22",
+      "last_updated": "2021-09-30 15:41:51",
+      "deleted": 1
+    },
+    {
+      "id": 61918073,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/ricardo-calaca-34a394115",
+      "created": "2021-03-12 21:45:46",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 69462938,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/wesley-vogel-999314154",
+      "created": "2021-07-20 11:33:11",
+      "last_updated": "2021-08-12 06:00:21",
+      "deleted": 1
+    },
+    {
+      "id": 70701634,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/ricardo-calaca-34a394115",
+      "created": "2021-08-12 06:00:21",
+      "last_updated": "2021-12-29 00:05:46",
+      "deleted": 1
+    },
+    {
+      "id": 76171201,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/wesley-vogel-999314154",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 81136930,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/in/sanjay-dev-k-s-3a11261b8",
+      "created": "2021-12-29 00:05:46",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    }
+  ],
+  "company_featured_investors_collection": [],
+  "company_funding_rounds_collection": [],
+  "company_locations_collection": [
+    {
+      "id": 5194158,
+      "company_id": 7179029,
+      "location_address": "Regent House, 20 Harriott Drive; Heathcote Industrial Estate; Warwick, Warwickshire CV34 6TJ, GB",
+      "is_primary": 1,
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    }
+  ],
+  "company_similar_collection": [
+    {
+      "id": 19525284,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/regent-document-solutions-ltd",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 19525285,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/stonegroupltd",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 19525286,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/property-&-casualty-management-systems-inc-",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 19525287,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/falcon-document-solutions-limited",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2019-12-05 06:33:31",
+      "deleted": 1
+    },
+    {
+      "id": 19525288,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/hemmersbach-gmbh-&-co--kg",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2020-07-15 22:26:49",
+      "deleted": 1
+    },
+    {
+      "id": 19525289,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/copylogic-ltd",
+      "created": "2019-10-21 09:37:45",
+      "last_updated": "2019-12-05 06:33:31",
+      "deleted": 1
+    },
+    {
+      "id": 53829187,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/linkit",
+      "created": "2019-12-05 06:33:31",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 53829188,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/tmf-group",
+      "created": "2019-12-05 06:33:31",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 99404067,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/hewlett-packard-enterprise",
+      "created": "2020-02-23 19:23:20",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 99404068,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/falcon-document-solutions-limited",
+      "created": "2020-02-23 19:23:20",
+      "last_updated": "2020-04-29 10:17:13",
+      "deleted": 1
+    },
+    {
+      "id": 99404069,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/copylogic-ltd",
+      "created": "2020-02-23 19:23:20",
+      "last_updated": "2020-04-29 10:17:13",
+      "deleted": 1
+    },
+    {
+      "id": 99404070,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/csc-systems-inc.",
+      "created": "2020-02-23 19:23:20",
+      "last_updated": "2020-04-29 10:17:13",
+      "deleted": 1
+    },
+    {
+      "id": 248974781,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/linkit--it-limited",
+      "created": "2020-10-13 19:05:55",
+      "last_updated": "2020-12-20 16:27:01",
+      "deleted": 1
+    },
+    {
+      "id": 248974782,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/linkit-studio",
+      "created": "2020-10-13 19:05:55",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 248974783,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/link-i-t-s-p-a-",
+      "created": "2020-10-13 19:05:55",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 248974785,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/link-it",
+      "created": "2020-10-13 19:05:55",
+      "last_updated": "2020-11-06 22:56:02",
+      "deleted": 1
+    },
+    {
+      "id": 263485188,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/edison-landscape-&-deck-lighting-llc",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2021-05-03 09:05:48",
+      "deleted": 1
+    },
+    {
+      "id": 263485189,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/%c3%b8rn-health",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 263485190,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/brewbirdcoffee",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2021-01-13 09:46:53",
+      "deleted": 1
+    },
+    {
+      "id": 263485191,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/fire-gard-products",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 263485192,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/stq-vantage",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 263485193,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/oakfieldsmachinery",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2021-04-11 11:38:57",
+      "deleted": 1
+    },
+    {
+      "id": 263485194,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/vola-global",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2020-12-20 16:27:01",
+      "deleted": 1
+    },
+    {
+      "id": 263485195,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/sanique-manufacturer-of-sanitising-application-systems",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2020-12-20 16:27:01",
+      "deleted": 1
+    },
+    {
+      "id": 263485196,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/dayex",
+      "created": "2020-11-06 22:56:02",
+      "last_updated": "2020-12-20 16:27:01",
+      "deleted": 1
+    },
+    {
+      "id": 339001143,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/summit-technical-limited",
+      "created": "2020-12-20 16:27:01",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 339001144,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/cps-network-communications-ltd",
+      "created": "2020-12-20 16:27:01",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 339001145,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/airport-capacity-solutions-ltd",
+      "created": "2020-12-20 16:27:01",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 339001146,
+      "company_id": 7179029,
+      "url": "https://ie.linkedin.com/company/sanique-manufacturer-of-sanitising-application-systems",
+      "created": "2020-12-20 16:27:01",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 354002588,
+      "company_id": 7179029,
+      "url": "https://nl.linkedin.com/company/linkit",
+      "created": "2021-01-13 09:46:53",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 391925910,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/dayex",
+      "created": "2021-04-11 11:38:57",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 409276758,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/oakfieldsmachinery",
+      "created": "2021-05-03 09:05:48",
+      "last_updated": "2021-07-20 11:33:11",
+      "deleted": 1
+    },
+    {
+      "id": 525932564,
+      "company_id": 7179029,
+      "url": "https://nl.linkedin.com/company/linkit",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932565,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/summit-technical-limited",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932566,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/cps-network-communications-ltd",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932567,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/airport-capacity-solutions-ltd",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932568,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/%c3%b8rn-health",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2021-12-29 00:05:46",
+      "deleted": 1
+    },
+    {
+      "id": 525932569,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/fire-gard-products",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932570,
+      "company_id": 7179029,
+      "url": "https://ie.linkedin.com/company/sanique-manufacturer-of-sanitising-application-systems",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932571,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/dayex",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2021-11-22 12:22:00",
+      "deleted": 1
+    },
+    {
+      "id": 525932572,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/oakfieldsmachinery",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 525932573,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/w-j-white-furniture-ltd",
+      "created": "2021-09-30 15:41:51",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 533636307,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/nutshell-portions",
+      "created": "2021-11-22 12:22:00",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    },
+    {
+      "id": 534782257,
+      "company_id": 7179029,
+      "url": "https://www.linkedin.com/company/%C3%B8rn-health",
+      "created": "2021-12-29 00:05:46",
+      "last_updated": "2022-02-09 02:15:29",
+      "deleted": 1
+    }
+  ],
+  "company_specialties_collection": [],
+  "company_stock_info_collection": [],
+  "company_updates_collection": []
+}

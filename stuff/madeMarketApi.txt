@@ -1,0 +1,1979 @@
+content = """Contacts
+POST /v2/contacts.json
+PUT /v2/contacts/:id.json
+GET /v2/contacts/:id.json
+POST /v2/contacts/search_advanced.json
+
+Firms
+POST /v2/firm_details.json
+PUT /v2/firm_details/:id.json
+GET /v2/firm_details/:id.json
+POST /v2/firm_details/search_advanced.json
+
+Firm Comments
+POST /v2/firm_detail_comemnts.json
+
+Opportunities
+POST /v2/opportunities.json
+PUT /v2/opportunities/:id.json
+GET /v2/opportunities/:id.json
+GET /v2/opportunities/search.json
+
+Deals
+POST /v2/projects.json
+PUT /v2/projects/:id.json
+GET /v2/projects/:id.json
+GET /v2/projects/targets/:id.json
+GET /v2/projects/search.json
+GET /v2/projects/activity_categories.json
+
+Targets
+POST /v2/projects_buyers.json
+GET /v2/projects_buyers/:id.json
+
+Contact Activities
+POST /v2/contact_activities.json
+PUT /v2/contact_activities.json
+
+Distributions
+PUT /v2/distributions/:id.json
+GET /v2/distributions/report_recipients.json
+
+Distribution Recipients
+CREATE /v2/distributions_recipients.json
+DELETE /v2/distributions_recipients/contact.json
+
+Activities
+POST /v2/activities/:id.json
+
+Users
+GET /v2/users.json
+
+Fields
+Contact/Firm Fields
+Contact Field Values
+Firm Field Values
+Field Values
+
+Firm Industries
+Firm Industries
+
+Activity Categories
+Contact/Firm
+Opportunity
+Deal
+
+Opportunity Fields
+Status
+Client Stage
+Tier
+
+Tags
+Contact
+Firm
+Targets
+"""
+
+Contacts
+Create a Contact
+POST /v2/contacts.json
+Creates a contact object. Email is used to help check for duplicates.
+
+Example Request:
+{
+  "contact": {
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@abc.com",
+    "firm_name": "ABC Co",
+    "title": "Managing Director"
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "contact": {
+    "id": 7441,
+    "first_name": "John",
+    "last_name": "Smithx",
+    "firm_name": "ABC Co",
+    "title": null,
+    "email": "john.smith2@abc.com",
+    "office_phone": null,
+    "office_phone_extension": null,
+    "cell_phone": null,
+    "address": null,
+    "city": null,
+    "state_abbrv": null,
+    "postal_code": null,
+    "firm_id": 920,
+    "created_at": "2023-08-03T10:38:40.287-07:00",
+    "updated_at": "2023-08-03T10:38:40.287-07:00",
+    "is_opt_out_marketing": null,
+    "is_bounced_back_email": false,
+    "firm_industries_name": "",
+    "full_name": "John Smithx",
+    "title_firm": "ABC Co",
+    "icon_photo": "/images/icon_default.gif",
+    "is_contact": true,
+    "view_url": "https://localhost:3020/users/firm_contacts?contact_id=7441"
+  },
+  "response_code": null,
+  "response_detail": "No existing contact found."
+}
+          
+Updates a Contact
+PUT /v2/contacts/:id.json
+Updates a contact object
+
+Example Request:
+{
+  "contact": {
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@abc.com",
+    "firm_name": "ABC Co",
+    "title": "Managing Director"
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "result": true,
+  "error_code": "0000"
+}
+          
+Get a Contact
+GET /v2/contacts/:id.json
+Gets a contact object
+
+Example Response:
+{
+  "id": 7441,
+  "first_name": "John",
+  "last_name": "Smithx",
+  "firm_name": "ABC Co",
+  "title": null,
+  "email": "john.smith2@abc.com",
+  "office_phone": null,
+  "office_phone_extension": null,
+  "cell_phone": null,
+  "address": null,
+  "city": null,
+  "state_abbrv": null,
+  "postal_code": null,
+  "firm_id": 920,
+  "created_at": "2023-08-03T10:38:40.287-07:00",
+  "updated_at": "2023-08-03T10:38:40.287-07:00",
+  "is_opt_out_marketing": null,
+  "is_bounced_back_email": false,
+  "firm_industries_name": "",
+  "full_name": "John Smithx",
+  "title_firm": "ABC Co",
+  "icon_photo": "/images/icon_default.gif",
+  "is_contact": true,
+  "view_url": "https://localhost:3020/users/firm_contacts?contact_id=7441"
+}
+          
+Search Contacts
+POST /v2/contacts/search_advanced.json
+Searches for contacts based on criteria. You can chain multiple conditions together by using "0", "1", "2", etc as the top level element.
+
+Example Request:
+{
+  "query": "",
+  "version": "v2",
+  "list_id": "",
+  "saved_search_id": "",
+  "field": {
+    "0": {
+      "condition": "AND",
+      "id": "1385",
+      "operator": "is",
+      "value": [
+        "false"
+      ]
+    },
+    "1": {
+      "condition": "AND",
+      "id": "48",
+      "operator": "is",
+      "value": [
+        "true"
+      ]
+    },
+    "2": {
+      "condition": "AND",
+      "id": "36",
+      "operator": "less",
+      "value": [
+        ""
+      ],
+      "days": "30"
+    }
+  },
+  "page": 1
+}
+Firms
+Create a Firm
+POST /v2/firm_details.json
+Creates a firm object. Name is used to help check for duplicates.
+
+Example Request:
+{
+  "firm_detail": {
+    "name": "Company ABC",
+    "url": "https://www.company.com",
+    "about": "Company ABC was founded in 2000 by John Smith.",
+    "address": "123 Main St.",
+    "city": "Santa Monica",
+    "state_abbrv": "CA",
+    "postal_code": "90230",
+    "country_id": "1"
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "firm_detail": {
+    "name": "Company ABC",
+    "url": "https://www.company.com",
+    "email": null,
+    "address": "123 Main St.",
+    "address_2": null,
+    "address_3": null,
+    "city": "Santa Monica",
+    "state_abbrv": "CA",
+    "postal_code": "90230",
+    "phone_number": null,
+    "about": "Company ABC was founded in 2000 by John Smith.",
+    "country_id": null,
+    "data": {
+      "rev_employee": null,
+      "checkbox": "[]",
+      "checkbox_field": "[]",
+      "multi_select": "[]",
+      "choices": "[]",
+      "favorite_foods": "[]",
+      "pb_deal_type_preference": "[]"
+    },
+    "id": 946,
+    "contact_count": 0,
+    "last_updated_source_id": 1,
+    "logo": {
+      "url": "firm_detail_default.png",
+      "icon": {
+        "url": "firm_detail_icon_default.png"
+      },
+      "thumb": {
+        "url": "firm_detail_thumb_default.png"
+      },
+      "rectangle": {
+        "url": "firm_detail_rectangle_default.png"
+      },
+      "rectangle_nav": {
+        "url": "firm_detail_rectangle_nav_default.png"
+      },
+      "rectangle_firm_doc_form": {
+        "url": "firm_detail_rectangle_firm_doc_form_default.png"
+      },
+      "profile": {
+        "url": "firm_detail_profile_default.png"
+      }
+    },
+    "created_at": "2023-08-05T06:51:38.998-07:00",
+    "updated_at": "2023-08-05T06:51:39.196-07:00"
+  },
+  "response_code": null,
+  "response_detail": "No existing firm found."
+}
+          
+Updates a Firm
+PUT /v2/firm_details/:id.json
+Updates a firm object
+
+Example Request:
+{
+  "firm_detail": {
+    "address": "123 Main St.",
+    "city": "Santa Monica",
+    "state_abbrv": "CA"
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "result": true,
+  "error_code": "0000"
+}
+          
+Get a Firm
+GET /v2/firm_details/:id.json
+Gets a firm object
+
+Example Response:
+{
+  "name": "Company ABC",
+  "url": "https://www.company.com",
+  "email": null,
+  "address": "123 Main St.",
+  "address_2": null,
+  "address_3": null,
+  "city": "Santa Monica",
+  "state_abbrv": "CA",
+  "postal_code": "90230",
+  "phone_number": null,
+  "about": "Company ABC was founded in 2000 by John Smith.",
+  "country_id": null,
+  "data": {
+    "rev_employee": null,
+    "checkbox": "[]",
+    "checkbox_field": "[]",
+    "multi_select": "[]",
+    "choices": "[]",
+    "favorite_foods": "[]",
+    "pb_deal_type_preference": "[]"
+  },
+  "id": 946
+}
+          
+Search Firms
+POST /v2/contacts/search_advanced.json
+Searches for firms based on criteria. You can chain multiple conditions together by using "0", "1", "2", etc as the top level element.
+
+Example Request:
+{
+  "query": "",
+  "version": "v2",
+  "list_id": "",
+  "saved_search_id": "",
+  "field": {
+    "0": {
+      "condition": "AND",
+      "id": "1385",
+      "operator": "is",
+      "value": [
+        "false"
+      ]
+    },
+    "1": {
+      "condition": "AND",
+      "id": "48",
+      "operator": "is",
+      "value": [
+        "true"
+      ]
+    },
+    "2": {
+      "condition": "AND",
+      "id": "36",
+      "operator": "less",
+      "value": [
+        ""
+      ],
+      "days": "30"
+    }
+  },
+  "page": 1
+}
+
+Firm Comments
+Create a Firm Comment
+POST /v2/firm_detail_comments.json
+Creates a FirmDetailComment object.
+Parameters
+Name	Example	Additional Info
+firm_detail_comment[description]	Comment goes here	Required
+firm_detail_comment[firm_detail_id]	1233	Internal MadeMarket ID of firm
+firm_detail_comment[comment_at]	2020-10-12 12:24	Optional field
+
+Example Request:
+{
+  "firm_detail_comment": {
+    "firm_detail_id": "10",
+    "comment_at": "2024-05-10 14:40",
+    "description": "Notes on the call"
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "id": 66,
+  "user_id": 1,
+  "firm_detail_id": 46,
+  "firm_id": 1,
+  "description": "test",
+  "comment_at": "2025-05-27T15:35:49.577-07:00",
+  "created_at": "2025-05-27T15:35:49.577-07:00",
+  "updated_at": "2025-05-27T15:35:49.577-07:00",
+  "data": {}
+}
+          
+Opportunities
+Create an Opportunity
+POST /v2/opportunities.json
+Creates an opportunity object.
+
+Example Request:
+{
+  "opportunity": {
+    "name": "Project X",
+    "customer_firm_id": "ABC Co.",
+    "opportunity_stage_id": "34",
+    "opportunity_tier_id": "4",
+    "opportunity_status_id": "443"
+  },
+  "source_id": 21
+}
+Example Response:
+Success
+{
+  "id": 203,
+  "name": "Project John",
+  "estimated_close_at": null,
+  "opportunity_stage_id": null,
+  "opportunity_status_id": null,
+  "customer_firm_id": null,
+  "opportunity_tier_id": null
+}
+          
+Error
+{
+  "result": false,
+  "response_detail": {
+    "data_date_lost": [
+      "Date Lost is required"
+    ]
+  }
+}
+          
+Create an Opportunity
+GET /v2/opportunities/:id.json
+Gets an opportunity object.
+
+Example Request:
+{
+  "opportunity": {
+    "name": "Project X",
+    "customer_firm_id": "ABC Co.",
+    "opportunity_stage_id": "34",
+    "opportunity_tier_id": "4",
+    "opportunity_status_id": "443"
+  },
+  "source_id": 21
+}
+Example Response:
+Success
+{
+  "id": 203,
+  "name": "Project John",
+  "estimated_close_at": null,
+  "opportunity_stage_id": null,
+  "opportunity_status_id": null,
+  "customer_firm_id": null,
+  "opportunity_tier_id": null
+}
+          
+Update an Opportunity
+PUT /v2/opportunities/:id.json
+Updates an opportunity object.
+
+Example Request:
+{
+  "opportunity": {
+    "name": "Project X",
+    "opportunity_stage_id": "34",
+    "opportunity_tier_id": "4",
+    "opportunity_status_id": "443"
+  },
+  "source_id": 21
+}
+Example Response:
+Success
+Response Code: 204 Error
+{
+  "result": false,
+  "response_detail": {
+    "data_date_lost": [
+      "Date Lost is required"
+    ]
+  }
+}
+          
+Search Opportunities
+GET /v2/opportunities/search.json
+Returns list of opportunities. name parameter is used to search. Returns exact match, if none exists, returns wildcard matches.
+
+Deals
+Create a Deal
+POST /v2/projects.json
+Creates an deal object.
+
+Example Request:
+{
+  "project": {
+    "name": "Project Box",
+    "customer_firm_id": "123",
+    "project_stage_id": "34",
+    "status_id": "40",
+    "description": "Description of project goes here."
+  },
+  "source_id": 21
+}
+Example Response:
+Success
+{
+  "id": 211,
+  "name": "Project Box",
+  "description": "Description of project goes here.",
+  "stage_id": null,
+  "status_id": 40,
+  "firm_id": 1,
+  "user_id": 1,
+  "last_action_at": null,
+  "created_at": "2023-08-05T12:06:52.423-07:00",
+  "updated_at": "2023-08-05T12:06:52.423-07:00",
+  "owner_user_id": null,
+  "value": null,
+  "probability": null,
+  "estimated_close_at": null,
+  "data": {
+    "assigned_portfolio": null,
+    "deal_tree": null,
+    "linked_field": null,
+    "project_type": null,
+    "linked_tree": null,
+    "roi": null,
+    "calculated_field3": "0",
+    "multiple": null
+  },
+  "closed_at": "2023-04-04T00:00:00.000-07:00",
+  "last_modified_by_user_id": 1,
+  "total_fees": null,
+  "fee_description": null,
+  "is_transaction_value_undisclosed": null,
+  "activity_template_id": null,
+  "is_display_incomplete_alert": true,
+  "is_target_contact_email_required": true,
+  "users_view_id": null,
+  "project_stage_id": null,
+  "total_estimated_fees": null,
+  "total_actual_fees": null,
+  "total_weighted_estimated_fees": null,
+  "total_weighted_actual_fees": null,
+  "total_weighted_fees": null,
+  "total_weighted_projected_fees": null,
+  "total_projected_fees": null,
+  "primary_industry_id": null,
+  "revenue": null,
+  "ebitda": null,
+  "total_guaranteed_fees": null,
+  "total_at_risk_fees": null,
+  "caplinked_workspace_id": null,
+  "status_name": "Active",
+  "project_tier_name": null,
+  "project_stage_name": null,
+  "stage_name": null
+}
+          
+Error
+{
+  "result": false,
+  "response_detail": {
+    "data_date_lost": [
+      "Date Lost is required"
+    ]
+  }
+}
+          
+Get a Deal
+GET /v2/projects/:id.json
+Gets a deal object.
+
+Example Response:
+Success
+{
+  "firm_id": 1,
+  "name": "Project Box",
+  "description": "Description of project goes here.",
+  "status_id": 40,
+  "customer_firm_id": 2
+}
+          
+Update a Deal
+PUT /v2/projects/:id.json
+Updates a deal object.
+
+Example Request:
+{
+  "project": {
+    "name": "Project X",
+    "status_id": "43"
+  },
+  "source_id": 21
+}
+Example Response:
+Success
+Response Code: 204 Error
+{
+  "result": false,
+  "response_detail": {
+    "data_date_lost": [
+      "Date Lost is required"
+    ]
+  }
+}
+          
+Gets Deal's Target List
+GET /v2/projects/targets.json?id=:id
+Returns an array of targets.
+
+Example Response:
+Success
+[
+  {
+    "id": 161,
+    "project_id": 12,
+    "buyer_id": 26,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.266-07:00",
+    "updated_at": "2023-07-27T15:29:37.320-07:00",
+    "tier_id": 1,
+    "is_incomplete": false,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.265-07:00",
+    "overdue_at": "2023-05-07T14:03:36.015-07:00",
+    "incomplete": false,
+    "buyer": {
+      "id": 26,
+      "name": "+33 6 75 98 05 80",
+      "firm_id": 289,
+      "status_id": 70,
+      "type_id": 1,
+      "created_at": "2022-05-18T08:22:14.954-07:00",
+      "updated_at": "2023-07-27T15:29:37.322-07:00",
+      "type": {
+        "id": 1,
+        "name": "Financial Buyer",
+        "permalink": null,
+        "priority": 100,
+        "created_at": "2021-11-16T14:35:34.535-08:00",
+        "updated_at": "2021-11-16T14:35:34.535-08:00"
+      }
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "Bid Instructions Letter Provided 58 days ago (06/07/23)",
+    "contacts": [
+      {
+        "first_name": "Théo",
+        "last_name": "BARALLON",
+        "email": "tba@finergreen.com",
+        "title": "Managing Partner"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "project_id": 12,
+    "buyer_id": 15,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.062-07:00",
+    "updated_at": "2023-07-27T15:27:53.896-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.060-07:00",
+    "overdue_at": "2023-01-30T09:24:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 15,
+      "name": "1105 Media Inc",
+      "firm_id": 114,
+      "status_id": 70,
+      "type_id": 1,
+      "created_at": "2022-02-03T11:55:06.635-08:00",
+      "updated_at": "2023-07-27T15:27:53.899-07:00",
+      "type": {
+        "id": 1,
+        "name": "Financial Buyer",
+        "permalink": null,
+        "priority": 100,
+        "created_at": "2021-11-16T14:35:34.535-08:00",
+        "updated_at": "2021-11-16T14:35:34.535-08:00"
+      }
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "Bid #2 64 days ago (06/02/23)",
+    "contacts": []
+  },
+  {
+    "id": 164,
+    "project_id": 12,
+    "buyer_id": 11,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.284-07:00",
+    "updated_at": "2023-07-31T11:35:20.868-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.284-07:00",
+    "overdue_at": "2022-12-01T16:01:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 11,
+      "name": "1o1Media",
+      "firm_id": 13,
+      "status_id": 70,
+      "type_id": 1,
+      "created_at": "2022-01-05T15:17:46.496-08:00",
+      "updated_at": "2023-07-31T11:35:20.871-07:00",
+      "type": {
+        "id": 1,
+        "name": "Financial Buyer",
+        "permalink": null,
+        "priority": 100,
+        "created_at": "2021-11-16T14:35:34.535-08:00",
+        "updated_at": "2021-11-16T14:35:34.535-08:00"
+      }
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "Bid #2 116 days ago (04/11/23)",
+    "contacts": [
+      {
+        "first_name": "Bobb",
+        "last_name": "fa",
+        "email": "",
+        "title": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "project_id": 12,
+    "buyer_id": 27,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.324-07:00",
+    "updated_at": "2022-12-02T15:59:41.400-08:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.323-07:00",
+    "overdue_at": "2022-12-24T15:59:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 27,
+      "name": "1to1 Venture Partners",
+      "firm_id": 11,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:34.683-07:00",
+      "updated_at": "2022-12-02T15:59:41.402-08:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "Bid Instructions Letter Provided 220 days ago (12/28/22)",
+    "contacts": []
+  },
+  {
+    "id": 163,
+    "project_id": 12,
+    "buyer_id": 34,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.278-07:00",
+    "updated_at": "2022-12-28T09:49:18.747-08:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.278-07:00",
+    "overdue_at": "2023-01-30T09:49:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 34,
+      "name": "© 2021 Upwork Inc.",
+      "firm_id": 305,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:34.835-07:00",
+      "updated_at": "2022-12-28T09:49:18.750-08:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "Email 29 days ago (07/06/23)",
+    "contacts": []
+  },
+  {
+    "id": 168,
+    "project_id": 12,
+    "buyer_id": 37,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.343-07:00",
+    "updated_at": "2022-06-27T16:46:35.343-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.342-07:00",
+    "overdue_at": "2022-12-31T09:53:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 37,
+      "name": "Aalto Capital UK",
+      "firm_id": 568,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:34.865-07:00",
+      "updated_at": "2022-08-24T10:46:36.600-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "NDA Delivered 220 days ago (12/28/22)",
+    "contacts": []
+  },
+  {
+    "id": 169,
+    "project_id": 12,
+    "buyer_id": 38,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.348-07:00",
+    "updated_at": "2022-06-27T16:46:35.348-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.348-07:00",
+    "overdue_at": "2022-11-18T16:52:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 38,
+      "name": "ABC Capital",
+      "firm_id": 572,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:34.875-07:00",
+      "updated_at": "2022-08-24T10:46:36.641-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "NDA Delivered 262 days ago (11/15/22)",
+    "contacts": []
+  },
+  {
+    "id": 156,
+    "project_id": 12,
+    "buyer_id": 9,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.205-07:00",
+    "updated_at": "2022-09-23T07:38:51.055-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.205-07:00",
+    "overdue_at": "2022-11-18T16:52:00.000-08:00",
+    "incomplete": true,
+    "buyer": {
+      "id": 9,
+      "name": "ABC Company",
+      "firm_id": 8,
+      "status_id": 70,
+      "type_id": 3,
+      "created_at": "2022-01-05T15:17:46.196-08:00",
+      "updated_at": "2022-11-18T07:04:53.385-08:00",
+      "type": {
+        "id": 3,
+        "name": "Hybrid Target",
+        "permalink": null,
+        "priority": 10,
+        "created_at": "2021-11-16T14:35:34.537-08:00",
+        "updated_at": "2021-11-16T14:35:34.537-08:00"
+      }
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "last_activity_sentence": "NDA Delivered 262 days ago (11/15/22)",
+    "contacts": []
+  },
+  {
+    "id": 153,
+    "project_id": 12,
+    "buyer_id": 8,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.131-07:00",
+    "updated_at": "2022-06-27T16:46:35.131-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.130-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 8,
+      "name": "ABC Corp",
+      "firm_id": 49,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-01-03T11:12:12.725-08:00",
+      "updated_at": "2022-08-24T10:46:36.723-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 146,
+    "project_id": 12,
+    "buyer_id": 6,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.084-07:00",
+    "updated_at": "2022-06-27T16:46:35.084-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.083-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 6,
+      "name": "ABC Inc",
+      "firm_id": 253,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-01-03T11:12:12.553-08:00",
+      "updated_at": "2022-08-24T10:46:36.739-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 152,
+    "project_id": 12,
+    "buyer_id": 7,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.125-07:00",
+    "updated_at": "2022-06-27T16:46:35.125-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.124-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 7,
+      "name": "ABC LLC",
+      "firm_id": 254,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-01-03T11:12:12.675-08:00",
+      "updated_at": "2022-08-24T10:46:36.763-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 266,
+    "project_id": 12,
+    "buyer_id": 134,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.975-07:00",
+    "updated_at": "2022-06-27T16:46:35.975-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.974-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 134,
+      "name": "TechBooks",
+      "firm_id": 609,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:46:00.141-07:00",
+      "updated_at": "2022-08-24T10:46:38.312-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 235,
+    "project_id": 12,
+    "buyer_id": 103,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.756-07:00",
+    "updated_at": "2022-06-27T16:46:35.756-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.755-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 103,
+      "name": "TECT Aerospace",
+      "firm_id": 200,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.824-07:00",
+      "updated_at": "2022-08-24T10:46:38.329-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 238,
+    "project_id": 12,
+    "buyer_id": 106,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.776-07:00",
+    "updated_at": "2022-06-27T16:46:35.776-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.775-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 106,
+      "name": "Telefuture Partners",
+      "firm_id": 201,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.856-07:00",
+      "updated_at": "2022-08-24T10:46:38.351-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 255,
+    "project_id": 12,
+    "buyer_id": 123,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.904-07:00",
+    "updated_at": "2022-06-27T16:46:35.904-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.904-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 123,
+      "name": "Teneros",
+      "firm_id": 483,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:46:00.032-07:00",
+      "updated_at": "2022-08-24T10:46:38.371-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 265,
+    "project_id": 12,
+    "buyer_id": 133,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.969-07:00",
+    "updated_at": "2022-06-27T16:46:35.969-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.968-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 133,
+      "name": "Tennenbaum Capital Partners",
+      "firm_id": 608,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:46:00.131-07:00",
+      "updated_at": "2022-08-24T10:46:38.392-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 249,
+    "project_id": 12,
+    "buyer_id": 117,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.867-07:00",
+    "updated_at": "2022-06-27T16:46:35.867-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.867-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 117,
+      "name": "Tenzing Partners",
+      "firm_id": 459,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.970-07:00",
+      "updated_at": "2022-08-24T10:46:38.418-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 241,
+    "project_id": 12,
+    "buyer_id": 109,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.811-07:00",
+    "updated_at": "2022-06-27T16:46:35.811-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.810-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 109,
+      "name": "Teros",
+      "firm_id": 241,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.890-07:00",
+      "updated_at": "2022-08-24T10:46:38.441-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 259,
+    "project_id": 12,
+    "buyer_id": 127,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.929-07:00",
+    "updated_at": "2022-06-27T16:46:35.929-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.928-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 127,
+      "name": "Test Co.",
+      "firm_id": 538,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:46:00.072-07:00",
+      "updated_at": "2022-08-24T10:46:38.465-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 251,
+    "project_id": 12,
+    "buyer_id": 119,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.880-07:00",
+    "updated_at": "2022-06-27T16:46:35.880-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.879-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 119,
+      "name": "TestCo",
+      "firm_id": 481,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.991-07:00",
+      "updated_at": "2022-08-24T10:46:38.488-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 229,
+    "project_id": 12,
+    "buyer_id": 97,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.717-07:00",
+    "updated_at": "2022-06-27T16:46:35.717-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.716-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 97,
+      "name": "The CIT Group/Business Credit",
+      "firm_id": 156,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.761-07:00",
+      "updated_at": "2022-08-24T10:46:38.507-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 260,
+    "project_id": 12,
+    "buyer_id": 128,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.935-07:00",
+    "updated_at": "2022-06-27T16:46:35.935-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.934-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 128,
+      "name": "The Finish Line",
+      "firm_id": 550,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:46:00.083-07:00",
+      "updated_at": "2022-08-24T10:46:38.546-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 226,
+    "project_id": 12,
+    "buyer_id": 94,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.696-07:00",
+    "updated_at": "2022-06-27T16:46:35.696-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.695-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 94,
+      "name": "The Forbes M+A Group",
+      "firm_id": 98,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.728-07:00",
+      "updated_at": "2022-08-24T10:46:38.573-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 237,
+    "project_id": 12,
+    "buyer_id": 105,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.769-07:00",
+    "updated_at": "2022-06-27T16:46:35.769-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.768-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 105,
+      "name": "The Greenwich Group International",
+      "firm_id": 208,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.845-07:00",
+      "updated_at": "2022-08-24T10:46:38.600-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 248,
+    "project_id": 12,
+    "buyer_id": 116,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.861-07:00",
+    "updated_at": "2022-06-27T16:46:35.861-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.860-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 116,
+      "name": "The Growth Advocate",
+      "firm_id": 423,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.961-07:00",
+      "updated_at": "2022-08-24T10:46:38.626-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  },
+  {
+    "id": 230,
+    "project_id": 12,
+    "buyer_id": 98,
+    "status_id": 60,
+    "created_at": "2022-06-27T16:46:35.723-07:00",
+    "updated_at": "2022-06-27T16:46:35.723-07:00",
+    "tier_id": 1,
+    "is_incomplete": true,
+    "primary_contact_id": null,
+    "added_at": "2022-06-27T16:46:35.722-07:00",
+    "overdue_at": null,
+    "incomplete": true,
+    "buyer": {
+      "id": 98,
+      "name": "Things Remembered",
+      "firm_id": 162,
+      "status_id": 70,
+      "type_id": null,
+      "created_at": "2022-06-27T16:45:59.772-07:00",
+      "updated_at": "2022-08-24T10:46:38.649-07:00",
+      "type": null
+    },
+    "status": {
+      "id": 60,
+      "name": "Active",
+      "priority": 10
+    },
+    "contacts": []
+  }
+]
+          
+Add Contact to Target
+POST /v2/projects/add_contact.json
+Adds existing contact to a target. The id parameter is a projects_buyer_id value.
+Example Request:
+{
+  "id": 1111,
+  "contact_id": 4444,
+  "source_id": 21
+}
+Activity Categories
+GET /v2/projects/:id/activity_categories.json
+Returns valid activity categories for specified deal. The id parameter is the deal_id value.
+Example Response:
+[
+  {
+    "id": 1,
+    "name": "NDA Sent"
+  },
+  {
+    "id": 100,
+    "name": "CIM Sent"
+  }
+]
+
+Search Deals
+GET /v2/projects/search.json
+Returns list of projects. name parameter is used to search. Returns exact match, if none exists, returns wildcard matches.
+Deals - Targets
+Create a Target
+POST /v2/projects_buyers.json
+Adds a target to a deal.
+
+Example Request:
+{
+  "project_id": "XXX",
+  "firm_id": "XXX",
+  "contact_ids": [
+    111,
+    2222
+  ],
+  "projects_buyer": {
+    "status_id": 60
+  },
+  "source_id": 21
+}
+Example Response:
+Success
+{
+  "result": true,
+  "projects_buyer": {
+    "id": "XXXXX",
+    "name": "Green1",
+    "project_name": "Project Fruit",
+    "project_id": "XXXX",
+    "tasks": [],
+    "status": {
+      "name": "Active"
+    },
+    "last_milestone": {
+      "name": "N/A",
+      "date": ""
+    },
+    "contacts": [
+      {
+        "id": "XXXX",
+        "first_name": "John",
+        "last_name": "Con",
+        "title": ""
+      }
+    ],
+    "activities": [],
+    "view_url": ""
+  },
+  "contacts": [
+    {
+      "id": "XXXX",
+      "first_name": "John",
+      "last_name": "Con",
+      "name": "John Con",
+      "full_name": "John Con",
+      "email": "",
+      "title": "",
+      "office_phone": "",
+      "cell_phone": "",
+      "firm_name": "Comic Con",
+      "address": "",
+      "city": "",
+      "state_abbrv": "",
+      "country_id": null,
+      "postal_code": "",
+      "firm_id": "XXXX",
+      "firm_detail_id": "XXXXX",
+      "url": "",
+      "linked_in_url": "",
+      "updated_at": "2025-02-18T10:00:24.299-08:00",
+      "contact_list_ids": [],
+      "projects": [
+        {
+          "id": 251,
+          "name": "Project Fruit"
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}
+          
+Error
+{
+  "result": false,
+  "response_detail": {
+    "data_date_lost": [
+      "Date Lost is required"
+    ]
+  }
+}
+          
+Get a Target
+GET /v2/projects_buyers/:id.json
+Gets a deal object.
+
+Example Response:
+Success
+{
+  "result": true,
+  "projects_buyer": {
+    "id": 1111,
+    "name": "Green1",
+    "project_name": "Project Fruit",
+    "project_id": 2222,
+    "tasks": [],
+    "status": {
+      "name": "Active"
+    },
+    "last_milestone": {
+      "name": "N/A",
+      "date": ""
+    },
+    "contacts": [
+      {
+        "id": 7614,
+        "first_name": "John",
+        "last_name": "Con",
+        "title": ""
+      }
+    ],
+    "activities": [],
+    "view_url": ""
+  }
+}
+          Contacts
+Create a Contact Activity
+POST /v2/contact_activities.json
+Creates a contact activity object.
+Parameters
+Name	Example	Additional Info
+contact_id	123	Main contact id. Contact IDs can be queried from /v2/contacts/search_advanced.json
+activity_category_id	1233	List of activity categories.
+user_id	123	Activity to log user under. User IDs can be queried from /v2/users.json The user ID must have been delegated permission to log activity on behalf of.
+contact_ids	[123,43,433]	Array of contact ids. Contact IDs can be queried from /v2/contacts/search_advanced.json
+firm_detail_ids	[123,43,433]	Array of firm detail ids. Firm Detail IDs can be queried from /v2/firm_details/search_advanced.json
+
+Example Request:
+{
+  "contact_activity": {
+    "contact_id": "123456",
+    "activity_at": "2024-05-10 14:40",
+    "activity_category_id": "13423423",
+    "description": "Notes on the call",
+    "user_id": "1234",
+    "contact_ids": [
+      1234,
+      5555,
+      6666
+    ],
+    "firm_detail_ids": [
+      1234
+    ]
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "id": 3752,
+  "user_id": 1,
+  "firm_id": 1,
+  "contact_id": 7615,
+  "contact_firm_id": null,
+  "activity_category_id": 63,
+  "source_id": 1,
+  "status_id": 400,
+  "description": "test test",
+  "activity_at": "2024-09-12T00:00:00.000-07:00",
+  "created_at": "2024-09-19T10:51:55.263-07:00",
+  "updated_at": "2024-09-19T10:51:55.263-07:00",
+  "added_by_user_id": 1,
+  "is_description_html": false
+}
+          
+Updates a Contact Activity
+PUT /v2/contact_activitis/:id.json
+Updates a contact object
+
+Parameters
+Name	Example	Additional Info
+contact_id	123	Main contact id. Contact IDs can be queried from /v2/contacts/search_advanced.json
+activity_category_id	1233	List of activity categories.
+user_id	123	Activity to log user under. User IDs can be queried from /v2/users.json The user ID must have been delegated permission to log activity on behalf of.
+contact_ids	[123,43,433]	Array of contact ids. Contact IDs can be queried from /v2/contacts/search_advanced.json
+firm_detail_ids	[123,43,433]	Array of firm detail ids. Firm Detail IDs can be queried from /v2/firm_details/search_advanced.json
+
+Example Request:
+{
+  "contact_activity": {
+    "contact_id": "123456",
+    "activity_at": "2024-05-10 14:40",
+    "activity_category_id": "13423423",
+    "description": "Notes on the call",
+    "user_id": "1234",
+    "contact_ids": [
+      1234,
+      5555,
+      6666
+    ],
+    "firm_detail_ids": [
+      1234
+    ]
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "id": 3752,
+  "user_id": 1,
+  "firm_id": 1,
+  "contact_id": 7615,
+  "contact_firm_id": null,
+  "activity_category_id": 63,
+  "source_id": 1,
+  "status_id": 400,
+  "description": "test test",
+  "activity_at": "2024-09-12T00:00:00.000-07:00",
+  "created_at": "2024-09-19T10:51:55.263-07:00",
+  "updated_at": "2024-09-19T10:51:55.263-07:00",
+  "added_by_user_id": 1,
+  "is_description_html": false
+}
+          
+Distributions
+Update a Distribution
+PUT /v2/distributions/:id.json
+Updates a distribution object.
+
+Example Request:
+{
+  "distribution": {
+    "name": "Test Distribution",
+    "subject": "Email Subject",
+    "body": "<html>Hi</html>",
+    "from_name": "John Smith",
+    "reply_to": "john.smith@abc.com",
+    "signature": "<p>Regards,<br />John Smith</p>"
+  },
+  "source_id": 21
+}
+Response: 204
+
+
+Report Distribution Recipients
+GET /v2/distributions/report_recipients.json
+Retrives distributions recipients data that includes view count and whether or not email bounced.
+
+Parameters
+Name	Example	Additional Info
+project_ids[]	123	Optional: Array of project_ids
+distribution_type_ids[]	301	Optional: 301 = Marketing, 300 = Deals
+Example Response:
+{
+  "response_code": "success",
+  "distributions_recipients": [
+    {
+      "id": 11152,
+      "email": "nick@company123.com",
+      "is_bounced": false,
+      "view_count": 0,
+      "contact": {
+        "id": 444,
+        "firm_detail_id": 11111
+      },
+      "distribution": {
+        "id": 555,
+        "name": "Markets Event",
+        "status_id": 103,
+        "status_name": "Sent",
+        "sent_at": "2025-06-20T09:26:26.123-07:00",
+        "is_interaction": true,
+        "user_id": 3
+      }
+    },
+    {
+      "id": 111581,
+      "email": "roydent@fast1234.com",
+      "is_bounced": false,
+      "view_count": 0,
+      "contact": {
+        "id": 36135,
+        "firm_detail_id": 49034490
+      },
+      "distribution": {
+        "id": 555,
+        "name": "Markets Event",
+        "status_id": 103,
+        "status_name": "Sent",
+        "sent_at": "2025-06-20T09:26:26.123-07:00",
+        "is_interaction": true,
+        "user_id": 3
+      }
+    }
+  ]
+}
+
+Target Activities
+Create a Target Activity
+POST /v2/activities.json
+Creates a target activity object.
+Parameters
+Name	Example	Additional Info
+project_id	123	Deal id. Deal IDs can be queried from /v2/projects.json
+activity_category_id	1233	List of activity categories.
+projects_buyer_id	123	Target ID /v2/users.json The user ID must have been delegated permission to log activity on behalf of.
+activity_at	2024-04-10 09:42	
+description	Optional comments for activity	
+contact_ids	[123,43,433]	Array of contact ids. Contact IDs can be queried from /v2/contacts/search_advanced.json
+firm_detail_ids	[123,43,433]	Array of firm detail ids. Firm Detail IDs can be queried from /v2/firm_details/search_advanced.json
+
+Example Request:
+{
+  "activity": {
+    "project_id": "10",
+    "activity_at": "2024-05-10 14:40",
+    "activity_category_id": "13423423",
+    "description": "Notes on the call",
+    "user_id": "1234",
+    "contact_ids": [
+      1234,
+      5555,
+      6666
+    ],
+    "firm_detail_ids": [
+      1234
+    ]
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "id": 3752,
+  "user_id": 1,
+  "firm_id": 1,
+  "project_id": 7615,
+  "projects_buyer_id": 11,
+  "buyer_id": 11,
+  "activity_category_id": 63,
+  "source_id": 1,
+  "status_id": 400,
+  "description": "test test",
+  "activity_at": "2024-09-12T00:00:00.000-07:00",
+  "created_at": "2024-09-19T10:51:55.263-07:00",
+  "updated_at": "2024-09-19T10:51:55.263-07:00",
+  "added_by_user_id": 1,
+  "is_description_html": false
+}
+          
+Updates a Contact Activity
+PUT /v2/contact_activitis/:id.json
+Updates a contact object
+
+Parameters
+Name	Example	Additional Info
+contact_id	123	Main contact id. Contact IDs can be queried from /v2/contacts/search_advanced.json
+activity_category_id	1233	List of activity categories.
+user_id	123	Activity to log user under. User IDs can be queried from /v2/users.json The user ID must have been delegated permission to log activity on behalf of.
+contact_ids	[123,43,433]	Array of contact ids. Contact IDs can be queried from /v2/contacts/search_advanced.json
+firm_detail_ids	[123,43,433]	Array of firm detail ids. Firm Detail IDs can be queried from /v2/firm_details/search_advanced.json
+
+Example Request:
+{
+  "contact_activity": {
+    "contact_id": "123456",
+    "activity_at": "2024-05-10 14:40",
+    "activity_category_id": "13423423",
+    "description": "Notes on the call",
+    "user_id": "1234",
+    "contact_ids": [
+      1234,
+      5555,
+      6666
+    ],
+    "firm_detail_ids": [
+      1234
+    ]
+  },
+  "source_id": 21
+}
+Example Response:
+{
+  "id": 3752,
+  "user_id": 1,
+  "firm_id": 1,
+  "contact_id": 7615,
+  "contact_firm_id": null,
+  "activity_category_id": 63,
+  "source_id": 1,
+  "status_id": 400,
+  "description": "test test",
+  "activity_at": "2024-09-12T00:00:00.000-07:00",
+  "created_at": "2024-09-19T10:51:55.263-07:00",
+  "updated_at": "2024-09-19T10:51:55.263-07:00",
+  "added_by_user_id": 1,
+  "is_description_html": false
+}
+          
+Users
+List Users
+GET /v2/users.json
+Returns list of all active users.
+
+Example Response:
+Success
+{
+  "success": true,
+  "data": [
+    {
+      "id": 12,
+      "first_name": "Quinn",
+      "last_name": "Sayer",
+      "email": "quinn@abccapital.com"
+    }
+  ]
+}
+        
+
+Fields
+Contact Fields
+ID	Label	Field Type	Data Type
+195756	Address	Textfield	Text
+195757	Address 2	Textfield	Text
+195758	Address 3	Textfield	Text
+195747	Cell Phone	Textfield	Text
+195759	City	Textfield	Text
+195769	Contact Frequency (Days)	Textfield	Numeric
+195762	Country	Dropdown	List
+195767	Date Added	Date	Date
+195771	Days Inactive	Date	Date
+195764	Department	Textfield	Text
+195741	Email	Textfield	Text
+195742	Email 2	Textfield	Text
+195743	Email 3	Textfield	Text
+195753	Facebook URL	Textfield	Text
+195750	Fax Phone	Textfield	Text
+195739	Firm Name	Textfield	Text
+195735	First Name	Textfield	Text
+195736	Goes By Name	Textfield	Text
+195748	Home Phone	Textfield	Text
+195749	Home Phone 2	Textfield	Text
+195765	Initials	Textfield	Text
+195738	Last Name	Textfield	Text
+195768	Last Updated	Date	Date
+195752	LinkedIn URL	Textfield	URL
+195737	Middle Name	Textfield	Text
+195766	Notes	Textarea	Text
+195744	Office Phone	Textfield	Text
+195745	Office Phone 2	Textfield	Text
+195746	Office Phone Ext.	Textfield	Text
+195778	Opt Out Deals?	Dropdown	Boolean
+195779	Opt Out Marketing?	Dropdown	Boolean
+195734	Owner	Dropdown	List
+195761	Postal Code	Textfield	Text
+195775	Salutation	Textfield	Text
+195755	Skype	Textfield	Text
+195760	State/Region	Textfield	Text
+195763	Tags	Dropdown	Text
+195740	Title	Textfield	Text
+195754	Twitter URL	Textfield	Text
+195751	URL	Textfield	Text
+Firm Fields
+ID	Label	Field Type	Data Type
+195794	About	Textarea	Text
+195783	Address	Textfield	Text
+195798	Annual EBITDA	Textfield	Currency
+195797	Annual Revenue	Textfield	Currency
+195786	City	Textfield	Text
+195792	Company Email	Textfield	Text
+195789	Country	Dropdown	List
+195810	Crunchbase URL	Textfield	URL
+195802	Date Added	Date	Date
+195799	Days Inactive	Date	Date
+195808	Facebook URL	Textfield	URL
+195791	Fax	Textfield	Text
+195732	Firm Industry	Tree	Text
+195733	Industry Preferences	Tree	Text
+195803	Last Updated	Date	Date
+195807	LinkedIn URL	Textfield	URL
+195782	Name	Textfield	Text
+195790	Phone	Textfield	Text
+195788	Postal Code	Textfield	Text
+195814	Primary Contacts	Dropdown	String
+195800	Public Company?	Dropdown	Boolean
+195795	Short About	Textarea	Text
+195796	Stage	Dropdown	Text
+195787	State/Region	Textfield	Text
+195801	Tags	Dropdown	Text
+195809	Twitter URL	Textfield	URL
+195793	URL	Textfield	Text
